@@ -1,0 +1,36 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:nickelingot"
+    },
+    "1": {
+      "item": "variety:nickelingot"
+    },
+    "2": {
+      "item": "variety:nickelingot"
+    },
+    "3": {
+      "item": "variety:nickelingot"
+    },
+    "5": {
+      "item": "variety:nickelingot"
+    },
+    "6": {
+      "item": "variety:nickelingot"
+    },
+    "8": {
+      "item": "variety:nickelingot"
+    }
+  },
+  "result": {
+    "item": "variety:nickelarmorlegs",
+    "count": 1
+  }
+}

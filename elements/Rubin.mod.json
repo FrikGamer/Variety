@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "rubin",
+    "texture": "rubintxt",
     "customModelName": "Normal",
     "name": "Rubin",
     "creativeTab": {

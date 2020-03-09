@@ -1,0 +1,26 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:ametystgem"
+    },
+    "2": {
+      "item": "variety:ametystgem"
+    },
+    "3": {
+      "item": "variety:ametystgem"
+    },
+    "5": {
+      "item": "variety:ametystgem"
+    }
+  },
+  "result": {
+    "item": "variety:ametystarmorboots",
+    "count": 1
+  }
+}

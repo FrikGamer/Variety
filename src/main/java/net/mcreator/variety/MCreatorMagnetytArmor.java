@@ -31,7 +31,7 @@ public class MCreatorMagnetytArmor extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("MAGNETYTARMOR", "variety:magnetyt", 30, new int[]{3, 5, 6, 4}, 50,
+		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("MAGNETYTARMOR", "variety:magnetyt", 30, new int[]{4, 5, 6, 3}, 50,
 				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 2f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("magnetytarmorhelmet")
 				.setRegistryName("magnetytarmorhelmet").setCreativeTab(CreativeTabs.COMBAT));

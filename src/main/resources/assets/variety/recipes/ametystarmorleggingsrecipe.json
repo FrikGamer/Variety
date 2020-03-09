@@ -1,0 +1,36 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:ametystgem"
+    },
+    "1": {
+      "item": "variety:ametystgem"
+    },
+    "2": {
+      "item": "variety:ametystgem"
+    },
+    "3": {
+      "item": "variety:ametystgem"
+    },
+    "5": {
+      "item": "variety:ametystgem"
+    },
+    "6": {
+      "item": "variety:ametystgem"
+    },
+    "8": {
+      "item": "variety:ametystgem"
+    }
+  },
+  "result": {
+    "item": "variety:ametystarmorlegs",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:NickelPickaxe"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "nickelpickaxerecipe",
+    "namespace": "mod"
+  }
+}

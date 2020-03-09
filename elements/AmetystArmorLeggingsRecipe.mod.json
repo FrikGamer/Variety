@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AmetystArmor.legs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AmetystGem"
+      },
+      {
+        "value": "CUSTOM:AmetystGem"
+      },
+      {
+        "value": "CUSTOM:AmetystGem"
+      },
+      {
+        "value": "CUSTOM:AmetystGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmetystGem"
+      },
+      {
+        "value": "CUSTOM:AmetystGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmetystGem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "ametystarmorleggingsrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ametyst_axe",
+    "customModelName": "Normal",
+    "name": "Ametyst Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 13,
+    "efficiency": 13.0,
+    "attackSpeed": 2.0,
+    "enchantability": 14,
+    "damageVsEntity": 9.0,
+    "usageCount": 1500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmetystGem"
+      }
+    ]
+  }
+}

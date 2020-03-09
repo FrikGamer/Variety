@@ -1,0 +1,30 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "variety:nickelingot"
+    },
+    "1": {
+      "item": "variety:nickelingot"
+    },
+    "2": {
+      "item": "variety:nickelingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variety:nickelpickaxe",
+    "count": 1
+  }
+}

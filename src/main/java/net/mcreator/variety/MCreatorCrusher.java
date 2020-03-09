@@ -134,11 +134,11 @@ public class MCreatorCrusher extends Elementsvariety.ModElement {
 	}
 
 	public static class TileEntityCustom extends TileEntityLockableLoot {
-		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(9, ItemStack.EMPTY);
+		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(2, ItemStack.EMPTY);
 
 		@Override
 		public int getSizeInventory() {
-			return 9;
+			return 2;
 		}
 
 		@Override
@@ -186,7 +186,7 @@ public class MCreatorCrusher extends Elementsvariety.ModElement {
 
 		@Override
 		public int getInventoryStackLimit() {
-			return 1;
+			return 64;
 		}
 
 		@Override
