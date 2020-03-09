@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rubinowamotyka",
+    "customModelName": "Normal",
+    "name": "Rubinowamotyka",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 5,
+    "efficiency": 5.0,
+    "attackSpeed": 2.8,
+    "enchantability": 50,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Rubin"
+      }
+    ]
+  }
+}

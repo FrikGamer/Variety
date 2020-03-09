@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "emeraldowamotyka1",
+    "customModelName": "Normal",
+    "name": "Emeraldowa motyka",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 5,
+    "efficiency": 4.5,
+    "attackSpeed": 2.8,
+    "enchantability": 50,
+    "damageVsEntity": 3.5,
+    "usageCount": 1700,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ]
+  }
+}

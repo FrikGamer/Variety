@@ -1,0 +1,36 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:magnetytgem"
+    },
+    "1": {
+      "item": "variety:magnetytgem"
+    },
+    "2": {
+      "item": "variety:magnetytgem"
+    },
+    "3": {
+      "item": "variety:magnetytgem"
+    },
+    "5": {
+      "item": "variety:magnetytgem"
+    },
+    "6": {
+      "item": "variety:magnetytgem"
+    },
+    "8": {
+      "item": "variety:magnetytgem"
+    }
+  },
+  "result": {
+    "item": "variety:magnetytarmorlegs",
+    "count": 1
+  }
+}

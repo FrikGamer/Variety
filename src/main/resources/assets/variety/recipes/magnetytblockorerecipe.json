@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:magnetytoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:magnetytgem",
+    "count": 9
+  }
+}

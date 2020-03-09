@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "akwamarynowe_pickaxe",
+    "customModelName": "Normal",
+    "name": "Akwamarynowy Kilof",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 10,
+    "efficiency": 15.0,
+    "attackSpeed": 3.0,
+    "enchantability": 50,
+    "damageVsEntity": 3.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Akwamaryn"
+      }
+    ]
+  }
+}

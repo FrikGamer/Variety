@@ -1,0 +1,30 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "variety:hematytingot"
+    },
+    "1": {
+      "item": "variety:hematytingot"
+    },
+    "2": {
+      "item": "variety:hematytingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variety:hematytpickaxe",
+    "count": 1
+  }
+}

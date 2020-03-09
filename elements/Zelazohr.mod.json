@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:HematytIngot"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.IRON_INGOT"
+    },
+    "smeltingXPReward": 3.0,
+    "smeltingRetstackSize": 2,
+    "name": "zelazohr",
+    "namespace": "mod"
+  }
+}

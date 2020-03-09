@@ -1,0 +1,39 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:akwamaryn"
+    },
+    "2": {
+      "item": "variety:akwamaryn"
+    },
+    "3": {
+      "item": "variety:akwamaryn"
+    },
+    "4": {
+      "item": "variety:akwamaryn"
+    },
+    "5": {
+      "item": "variety:akwamaryn"
+    },
+    "6": {
+      "item": "variety:akwamaryn"
+    },
+    "7": {
+      "item": "variety:akwamaryn"
+    },
+    "8": {
+      "item": "variety:akwamaryn"
+    }
+  },
+  "result": {
+    "item": "variety:akwamarynowaarmorbody",
+    "count": 1
+  }
+}

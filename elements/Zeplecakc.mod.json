@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Zeplecak"
+    },
+    "recipeSlots": [
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:Skplecak"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "zeplecakc",
+    "namespace": "mod"
+  }
+}

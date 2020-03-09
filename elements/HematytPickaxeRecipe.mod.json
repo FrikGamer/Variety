@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:HematytPickaxe"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HematytIngot"
+      },
+      {
+        "value": "CUSTOM:HematytIngot"
+      },
+      {
+        "value": "CUSTOM:HematytIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "hematytpickaxerecipe",
+    "namespace": "mod"
+  }
+}

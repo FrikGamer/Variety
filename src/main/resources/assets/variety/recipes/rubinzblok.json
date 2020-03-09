@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:blokrubinu1"
+    }
+  ],
+  "result": {
+    "item": "variety:rubin",
+    "count": 9
+  }
+}

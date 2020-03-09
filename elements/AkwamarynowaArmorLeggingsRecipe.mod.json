@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AkwamarynowaArmor.legs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Akwamaryn"
+      },
+      {
+        "value": "CUSTOM:Akwamaryn"
+      },
+      {
+        "value": "CUSTOM:Akwamaryn"
+      },
+      {
+        "value": "CUSTOM:Akwamaryn"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Akwamaryn"
+      },
+      {
+        "value": "CUSTOM:Akwamaryn"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Akwamaryn"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "akwamarynowaarmorleggingsrecipe",
+    "namespace": "mod"
+  }
+}

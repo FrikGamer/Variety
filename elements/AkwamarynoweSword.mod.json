@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "akwamarynowe_sword",
+    "customModelName": "Normal",
+    "name": "Akwamarynowe Miecz",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 13.0,
+    "attackSpeed": 3.0,
+    "enchantability": 50,
+    "damageVsEntity": 4.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Akwamaryn"
+      }
+    ]
+  }
+}

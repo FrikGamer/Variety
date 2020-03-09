@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "akwamarynowe_shovel",
+    "customModelName": "Normal",
+    "name": "Akwamarynowe £opata",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 9,
+    "efficiency": 10.5,
+    "attackSpeed": 3.0,
+    "enchantability": 50,
+    "damageVsEntity": 3.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Akwamaryn"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1392 @@
+{
+  "id_map": {
+    "GUI": 10
+  },
+  "mod_elements": [
+    {
+      "name": "Blokrubinu",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rudarubinu"
+    },
+    {
+      "name": "Rubin",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowazbroja",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Rubinowyhelm",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowaklata",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowespodnie",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowebuty",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blokrubinu1",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blokrubinuc",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinzblok",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Skplecakc",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Skplecakgui",
+      "type": "gui",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 2
+      }
+    },
+    {
+      "name": "Zeplecakgui",
+      "type": "gui",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 6
+      }
+    },
+    {
+      "name": "Zlplecakgui",
+      "type": "gui",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 7
+      }
+    },
+    {
+      "name": "Zeplecakc",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zlplecakc",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dxplecakc",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowymiecz",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowymieczan",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowykilof",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowasiekiera",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowalopata",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowamotyka",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowazbroja",
+      "type": "armor",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Emeraldowykilof",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowasiekiera",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowalopata",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowamotyka",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dxplecakgui",
+      "type": "gui",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 9
+      }
+    },
+    {
+      "name": "Emeraldowymiecz",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowyhelmc",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowynapiersnikc",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowymieczc",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowespodniec",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowebutyc",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowykilofc",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowasiekierac",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowamotykac",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emeraldowalopatac",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowymiecz1",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowymieczc",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinr",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowykilofr",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowasiekierar",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowalopatar",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubinowamotykar",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Patyki",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rudaakwamarynu",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Akwamaryn",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blokawamarynu",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynowePickaxe",
+      "type": "tool",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweAxe",
+      "type": "tool",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweSword",
+      "type": "tool",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweShovel",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweHoe",
+      "type": "tool",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynowePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweAxeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweSwordRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweShovelRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynoweHoeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Proszekdiamentu",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Proszekakwamarynu",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Proszekdiamentur",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Proszekakwamarynur",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynowaArmor",
+      "type": "armor",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AkwamarynowaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynowaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynowaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AkwamarynowaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blokakwamarynu",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Akwamarynr",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytOre",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytOreBlock",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytIngot",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytPickaxe",
+      "type": "tool",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytAxe",
+      "type": "tool",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytSword",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytShovel",
+      "type": "tool",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytHoe",
+      "type": "tool",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytAxeRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytSwordRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytShovelRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytHoeRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytArmor",
+      "type": "armor",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HematytArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HematytArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Hematytr",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zelazohr",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytOre",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytOreBlock",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytGem",
+      "type": "item",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytPickaxe",
+      "type": "tool",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytAxe",
+      "type": "tool",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytSword",
+      "type": "tool",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytShovel",
+      "type": "tool",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytHoe",
+      "type": "tool",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytAxeRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytSwordRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytShovelRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytHoeRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytArmor",
+      "type": "armor",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MagnetytArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MagnetytArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Magnetytr",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zelazorm",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaOre",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaOreBlock",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaIngot",
+      "type": "item",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaPickaxe",
+      "type": "tool",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaAxe",
+      "type": "tool",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaSword",
+      "type": "tool",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaShovel",
+      "type": "tool",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaHoe",
+      "type": "tool",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaAxeRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaSwordRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaShovelRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaHoeRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaArmor",
+      "type": "armor",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlatynaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlatynaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Platynar",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crusher",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crushergui",
+      "type": "gui",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 10
+      }
+    },
+    {
+      "name": "Opencrusher",
+      "type": "procedure",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crusherpraca",
+      "type": "procedure",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "pl_pl": {
+      "tile.hematytoreblock.name": "Blok Hematytu",
+      "item.magnetytgem.name": "Magnetyt",
+      "tile.crusher.name": "Crusher",
+      "item.proszekakwamarynu.name": "Proszek Akwamarynu",
+      "item.proszekdiamentu.name": "Proszek Diamentu",
+      "item.akwamarynowaarmorboots.name": "Akwamarynowe Buty",
+      "item.rubinowazbrojaboots.name": "Rubinowe Buty",
+      "item.akwamarynowesword.name": "Akwamarynowy Miecz",
+      "item.emeraldowazbrojalegs.name": "Szmaragdowe Nogawice",
+      "item.hematytarmorhelmet.name": "Hematytowy He³m",
+      "item.magnetytaxe.name": "Magnetytowa Siekiera",
+      "item.akwamarynoweaxe.name": "Akwamarynowa Siekiera",
+      "item.platynaingot.name": "Platyna",
+      "item.akwamaryn.name": "Akwamaryn",
+      "tile.magnetytoreblock.name": "Blok Magnetytu",
+      "item.magnetytpickaxe.name": "Magnetytowy Kilof",
+      "item.hematytpickaxe.name": "Hematytowy Kilof",
+      "tile.hematytore.name": "Ruda Hematytu",
+      "item.platynaaxe.name": "Platynowa Siekiera",
+      "item.platynaarmorlegs.name": "Platynowe Nogawice",
+      "item.magnetytarmorbody.name": "Magnetytowy Napierœnik",
+      "item.platynapickaxe.name": "Platynowy Kilof",
+      "tile.platynaore.name": "Ruda Platyny",
+      "item.emeraldowykilof.name": "Szmaragdowy Kilof",
+      "item.magnetythoe.name": "Magnetytowa Motyka",
+      "tile.platynaoreblock.name": "Blok Platyny",
+      "item.hematytingot.name": "Hematyt",
+      "item.akwamarynowaarmorhelmet.name": "Akwamarynowy He³m",
+      "item.hematytarmorbody.name": "Hematytowy Napierœnik",
+      "item.emeraldowazbrojahelmet.name": "Szmaragdowy He³m",
+      "item.hematytarmorboots.name": "Hematytowe Buty",
+      "item.hematytaxe.name": "Hematytowa Siekiera",
+      "item.magnetytshovel.name": "Magnetytowa £opata",
+      "item.rubinowykilof.name": "Rubinowy Kilof",
+      "item.platynaarmorboots.name": "Platynowe Buty",
+      "tile.blokrubinu1.name": "Blok Rubinu",
+      "item.rubinowasiekiera.name": "Rubinowa Siekiera",
+      "item.rubinowymiecz.name": "Rubinowy Miecz",
+      "item.rubinowamotyka.name": "Rubinowa Motyka",
+      "tile.blokawamarynu.name": "Blok Akwamarynu",
+      "tile.magnetytore.name": "Ruda Magnetytu",
+      "item.emeraldowazbrojaboots.name": "Szmaragdowe Buty",
+      "item.hematytsword.name": "Hematytowy Miecz",
+      "item.emeraldowalopata.name": "Szmaragdowa £opata",
+      "item.platynaarmorhelmet.name": "Platynowy He³m",
+      "item.akwamarynowaarmorbody.name": "Akwamarynowy Napierœnik",
+      "item.emeraldowasiekiera.name": "Szmaragdowa Siekiera",
+      "item.rubinowazbrojabody.name": "Rubinowy Napierœnik",
+      "item.magnetytarmorhelmet.name": "Magnetyt Helmet",
+      "item.emeraldowamotyka.name": "Szmaragdowa Motyka",
+      "item.emeraldowymiecz.name": "Szmaragdowy Miecz",
+      "item.magnetytsword.name": "Magnetytowy Miecz",
+      "item.akwamarynoweshovel.name": "Akwamarynowa £opata",
+      "item.hematythoe.name": "Hematytowa Motyka",
+      "item.rubinowazbrojalegs.name": "Rubinowe Nogawice",
+      "item.rubinowazbrojahelmet.name": "Rubinowy He³m",
+      "tile.rudarubinu.name": "Ruda Rubinu",
+      "item.platynasword.name": "Platynowy Miecz",
+      "item.platynahoe.name": "Platynowa Motyka",
+      "item.platynaarmorbody.name": "Platynowy Napierœnik",
+      "item.platynashovel.name": "Platynowa £opata",
+      "item.rubin.name": "Rubin",
+      "item.emeraldowazbrojabody.name": "Szmaragdowy Napierœnik",
+      "tile.rudaakwamarynu.name": "Ruda Akwamarynu",
+      "item.akwamarynowepickaxe.name": "Akwamarynowy Kilof",
+      "item.magnetytarmorhelmet.name  ": "Magnetytowy He³m",
+      "item.rubinowymiecz1.name": "Rubinowy Miecz",
+      "item.rubinowalopata.name": "Rubinowa £opata",
+      "item.rubinowymieczan.name": "Rubinowy Miecz",
+      "item.magnetytarmorlegs.name": "Magnetytowe Nogawice",
+      "item.akwamarynowehoe.name": "Akwamarynowa Motyka",
+      "item.hematytshovel.name": "Hematytowa £opata",
+      "item.hematytarmorlegs.name": "Hematytowe Nogawice",
+      "item.akwamarynowaarmorlegs.name": "Akwamarynowe Nogawice",
+      "item.magnetytarmorboots.name": "Magnetytowe Buty"
+    },
+    "en_us": {
+      "tile.hematytoreblock.name": "Hematite Block",
+      "item.magnetytgem.name": "Magnetyt",
+      "tile.crusher.name": "Crusher",
+      "item.proszekakwamarynu.name": "Aquamarine Powder",
+      "item.proszekdiamentu.name": "Diamond Powder",
+      "item.akwamarynowaarmorboots.name": "Aquamarine Boots",
+      "item.akwamarynowesword.name": "Aquamarine Sword",
+      "item.rubinowazbrojaboots.name": "Ruby Boots",
+      "item.emeraldowazbrojalegs.name": "Emerald Legs",
+      "item.hematytarmorhelmet.name": "Hematite Helmet",
+      "item.magnetytaxe.name": "Magnetyt Axe",
+      "item.akwamarynoweaxe.name": "Aquamarine Axe",
+      "item.platynaingot.name": "Platyna",
+      "item.akwamaryn.name": "Aquamarine",
+      "tile.magnetytoreblock.name": "Block of Magnetyt",
+      "item.magnetytpickaxe.name": "Magnetyt Pickaxe",
+      "item.hematytpickaxe.name": "Hematite Pickaxe",
+      "tile.hematytore.name": "Hematite Ore",
+      "item.platynaaxe.name": "Platyna Axe",
+      "item.platynaarmorlegs.name": "Platyna Leggings",
+      "item.magnetytarmorbody.name": "Magnetyt Chestplate",
+      "item.platynapickaxe.name": "Platyna Pickaxe",
+      "tile.platynaore.name": "Platyna Ore",
+      "item.emeraldowykilof.name": "Emerald Pickaxe",
+      "item.magnetythoe.name": "Magnetyt Hoe",
+      "tile.platynaoreblock.name": "Block of Platyna",
+      "item.hematytingot.name": "Hematite",
+      "item.akwamarynowaarmorhelmet.name": "Aquamarine Helmet",
+      "item.hematytarmorbody.name": "Hematite Chestplate",
+      "item.emeraldowazbrojahelmet.name": "Emerald Helm",
+      "item.hematytarmorboots.name": "Hematite Boots",
+      "item.hematytaxe.name": "Hematite Axe",
+      "item.magnetytshovel.name": "Magnetyt Shovel",
+      "item.rubinowykilof.name": "Ruby Pickaxe",
+      "item.platynaarmorboots.name": "Platyna Boots",
+      "tile.blokrubinu1.name": "Ruby Block",
+      "item.rubinowasiekiera.name": "Ruby Axe",
+      "item.rubinowymiecz.name": "Ruby Sword",
+      "item.rubinowamotyka.name": "Ruby Hoe",
+      "tile.blokawamarynu.name": "Aquamarine Block",
+      "tile.magnetytore.name": "Magnetyt Ore",
+      "item.emeraldowazbrojaboots.name": "Emerald Boots",
+      "item.hematytsword.name": "Hematite Sword",
+      "item.emeraldowalopata.name": "Emerald Shovel",
+      "item.platynaarmorhelmet.name": "Platyna Helmet",
+      "item.akwamarynowaarmorbody.name": "Aquamarine Chestplate",
+      "item.emeraldowasiekiera.name": "Emerald Axe",
+      "item.rubinowazbrojabody.name": "Ruby Chestplate",
+      "item.magnetytarmorhelmet.name": "Magnetyt Helmet",
+      "item.emeraldowamotyka.name": "Emerald Hoe",
+      "item.emeraldowymiecz.name": "Emerald Sword",
+      "item.magnetytsword.name": "Magnetyt Sword",
+      "item.akwamarynoweshovel.name": "Aquamarine Shovel",
+      "item.hematythoe.name": "Hematite Hoe",
+      "item.rubinowazbrojalegs.name": "Ruby Leggings",
+      "item.rubinowazbrojahelmet.name": "Ruby Helmet",
+      "tile.rudarubinu.name": "Ruby Ore",
+      "item.platynasword.name": "Platyna Sword",
+      "item.platynahoe.name": "Platyna Hoe",
+      "item.platynaarmorbody.name": "Platyna Chestplate",
+      "item.platynashovel.name": "Platyna Shovel",
+      "item.rubin.name": "Ruby",
+      "item.emeraldowazbrojabody.name": "Emerald Chestplate",
+      "tile.rudaakwamarynu.name": "Aquamarine Ore",
+      "item.akwamarynowepickaxe.name": "Aquamarine Pickaxe",
+      "item.rubinowymiecz1.name": "Rubinowy miecz",
+      "item.rubinowalopata.name": "Ruby Shovel",
+      "item.rubinowymieczan.name": "Ruby Sword",
+      "item.magnetytarmorlegs.name": "Magnetyt Leggings",
+      "item.akwamarynowehoe.name": "Aquamarine Hoe",
+      "item.hematytshovel.name": "Hematite Shovel",
+      "item.hematytarmorlegs.name": "Hematite Leggings",
+      "item.akwamarynowaarmorlegs.name": "Aquamarine Legs",
+      "item.magnetytarmorboots.name": "Magnetyt Boots"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "variety",
+    "modName": "variety",
+    "version": "1.12.2",
+    "author": "Frk Gamer",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

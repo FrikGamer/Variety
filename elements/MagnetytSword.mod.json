@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "magnetyt_sword",
+    "customModelName": "Normal",
+    "name": "Magnetyt Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 6,
+    "efficiency": 6.0,
+    "attackSpeed": 2.0,
+    "enchantability": 50,
+    "damageVsEntity": 6.0,
+    "usageCount": 450,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MagnetytGem"
+      }
+    ]
+  }
+}

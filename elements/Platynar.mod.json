@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:PlatynaOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:PlatynaIngot"
+    },
+    "smeltingXPReward": 8.0,
+    "smeltingRetstackSize": 1,
+    "name": "platynar",
+    "namespace": "mod"
+  }
+}

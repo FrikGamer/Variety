@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:hematytoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:hematytingot",
+    "count": 9
+  }
+}

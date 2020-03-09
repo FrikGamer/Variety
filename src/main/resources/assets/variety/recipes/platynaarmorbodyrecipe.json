@@ -1,0 +1,39 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:platynaingot"
+    },
+    "2": {
+      "item": "variety:platynaingot"
+    },
+    "3": {
+      "item": "variety:platynaingot"
+    },
+    "4": {
+      "item": "variety:platynaingot"
+    },
+    "5": {
+      "item": "variety:platynaingot"
+    },
+    "6": {
+      "item": "variety:platynaingot"
+    },
+    "7": {
+      "item": "variety:platynaingot"
+    },
+    "8": {
+      "item": "variety:platynaingot"
+    }
+  },
+  "result": {
+    "item": "variety:platynaarmorbody",
+    "count": 1
+  }
+}

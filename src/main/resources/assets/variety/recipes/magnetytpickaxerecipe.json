@@ -1,0 +1,30 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "variety:magnetytgem"
+    },
+    "1": {
+      "item": "variety:magnetytgem"
+    },
+    "2": {
+      "item": "variety:magnetytgem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variety:magnetytpickaxe",
+    "count": 1
+  }
+}

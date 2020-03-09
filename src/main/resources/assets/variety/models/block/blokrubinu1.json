@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "variety:blocks/blokrubinu",
+    "up": "variety:blocks/blokrubinu",
+    "north": "variety:blocks/blokrubinu",
+    "east": "variety:blocks/blokrubinu",
+    "south": "variety:blocks/blokrubinu",
+    "west": "variety:blocks/blokrubinu",
+    "particle": "variety:blocks/blokrubinu"
+  }
+}

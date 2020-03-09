@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:rubin"
+    },
+    "1": {
+      "item": "variety:rubin"
+    },
+    "2": {
+      "item": "variety:rubin"
+    },
+    "3": {
+      "item": "variety:rubin"
+    },
+    "4": {
+      "item": "variety:rubin"
+    },
+    "5": {
+      "item": "variety:rubin"
+    },
+    "6": {
+      "item": "variety:rubin"
+    },
+    "7": {
+      "item": "variety:rubin"
+    },
+    "8": {
+      "item": "variety:rubin"
+    }
+  },
+  "result": {
+    "item": "variety:blokrubinu1",
+    "count": 1
+  }
+}

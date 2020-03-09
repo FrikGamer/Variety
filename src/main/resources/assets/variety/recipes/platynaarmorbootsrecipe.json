@@ -1,0 +1,26 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:platynaingot"
+    },
+    "2": {
+      "item": "variety:platynaingot"
+    },
+    "3": {
+      "item": "variety:platynaingot"
+    },
+    "5": {
+      "item": "variety:platynaingot"
+    }
+  },
+  "result": {
+    "item": "variety:platynaarmorboots",
+    "count": 1
+  }
+}

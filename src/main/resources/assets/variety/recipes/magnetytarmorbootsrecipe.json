@@ -1,0 +1,26 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:magnetytgem"
+    },
+    "2": {
+      "item": "variety:magnetytgem"
+    },
+    "3": {
+      "item": "variety:magnetytgem"
+    },
+    "5": {
+      "item": "variety:magnetytgem"
+    }
+  },
+  "result": {
+    "item": "variety:magnetytarmorboots",
+    "count": 1
+  }
+}

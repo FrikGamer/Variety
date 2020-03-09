@@ -1,0 +1,26 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:hematytingot"
+    },
+    "2": {
+      "item": "variety:hematytingot"
+    },
+    "3": {
+      "item": "variety:hematytingot"
+    },
+    "5": {
+      "item": "variety:hematytingot"
+    }
+  },
+  "result": {
+    "item": "variety:hematytarmorboots",
+    "count": 1
+  }
+}

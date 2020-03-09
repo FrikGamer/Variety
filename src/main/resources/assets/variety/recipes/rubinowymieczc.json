@@ -1,0 +1,24 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:rubin"
+    },
+    "1": {
+      "item": "variety:rubin"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variety:rubinowymiecz1",
+    "count": 1
+  }
+}

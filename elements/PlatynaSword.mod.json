@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "platyna_sword",
+    "customModelName": "Normal",
+    "name": "Platyna Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 7,
+    "efficiency": 10.0,
+    "attackSpeed": 3.0,
+    "enchantability": 50,
+    "damageVsEntity": 4.0,
+    "usageCount": 1200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlatynaIngot"
+      }
+    ]
+  }
+}

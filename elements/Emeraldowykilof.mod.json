@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "emeraldowykilof1",
+    "customModelName": "Normal",
+    "name": "Emeraldowy Kilof",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 11,
+    "efficiency": 11.0,
+    "attackSpeed": 2.8,
+    "enchantability": 50,
+    "damageVsEntity": 3.5,
+    "usageCount": 1700,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ]
+  }
+}

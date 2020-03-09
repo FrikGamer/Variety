@@ -1,0 +1,16 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:blokawamarynu"
+    }
+  },
+  "result": {
+    "item": "variety:akwamaryn",
+    "count": 9
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rubinowykilof",
+    "customModelName": "Normal",
+    "name": "Rubinowy kilof",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 12,
+    "efficiency": 12.0,
+    "attackSpeed": 2.8,
+    "enchantability": 50,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Rubin"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:hematytingot"
+    },
+    "2": {
+      "item": "variety:hematytingot"
+    },
+    "3": {
+      "item": "variety:hematytingot"
+    },
+    "4": {
+      "item": "variety:hematytingot"
+    },
+    "5": {
+      "item": "variety:hematytingot"
+    },
+    "6": {
+      "item": "variety:hematytingot"
+    },
+    "7": {
+      "item": "variety:hematytingot"
+    },
+    "8": {
+      "item": "variety:hematytingot"
+    }
+  },
+  "result": {
+    "item": "variety:hematytarmorbody",
+    "count": 1
+  }
+}

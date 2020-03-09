@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "platyna_hoe",
+    "customModelName": "Normal",
+    "name": "Platyna Hoe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 5,
+    "efficiency": 5.0,
+    "attackSpeed": 3.0,
+    "enchantability": 50,
+    "damageVsEntity": 4.0,
+    "usageCount": 1200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PlatynaIngot"
+      }
+    ]
+  }
+}

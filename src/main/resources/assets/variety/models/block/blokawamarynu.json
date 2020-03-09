@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "variety:blocks/akwamarynblok",
+    "up": "variety:blocks/akwamarynblok",
+    "north": "variety:blocks/akwamarynblok",
+    "east": "variety:blocks/akwamarynblok",
+    "south": "variety:blocks/akwamarynblok",
+    "west": "variety:blocks/akwamarynblok",
+    "particle": "variety:blocks/akwamarynblok"
+  }
+}

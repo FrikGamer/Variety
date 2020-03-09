@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "magnetyt_shovel",
+    "customModelName": "Normal",
+    "name": "Magnetyt Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 6,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 50,
+    "damageVsEntity": 5.0,
+    "usageCount": 450,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MagnetytGem"
+      }
+    ]
+  }
+}

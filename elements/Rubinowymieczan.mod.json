@@ -1,0 +1,22 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rubinowymiecz_animowany",
+    "customModelName": "Normal",
+    "name": "Rubinowy miecz",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 7,
+    "efficiency": 10.0,
+    "attackSpeed": 2.8,
+    "enchantability": 40,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false
+  }
+}

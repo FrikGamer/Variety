@@ -1,0 +1,30 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:magnetytgem"
+    },
+    "1": {
+      "item": "variety:magnetytgem"
+    },
+    "2": {
+      "item": "variety:magnetytgem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "variety:magnetytaxe",
+    "count": 1
+  }
+}
