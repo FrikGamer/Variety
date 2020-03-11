@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:OnyxOreBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      },
+      {
+        "value": "CUSTOM:OnyxDust"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "onyxoreblockrecipe",
+    "namespace": "mod"
+  }
+}

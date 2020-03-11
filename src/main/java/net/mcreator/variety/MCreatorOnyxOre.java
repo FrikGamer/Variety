@@ -24,12 +24,12 @@ import net.minecraft.block.Block;
 import java.util.Random;
 
 @Elementsvariety.ModElement.Tag
-public class MCreatorBlokrubinu extends Elementsvariety.ModElement {
-	@GameRegistry.ObjectHolder("variety:rudarubinu")
+public class MCreatorOnyxOre extends Elementsvariety.ModElement {
+	@GameRegistry.ObjectHolder("variety:onyxore")
 	public static final Block block = null;
 
-	public MCreatorBlokrubinu(Elementsvariety instance) {
-		super(instance, 4);
+	public MCreatorOnyxOre(Elementsvariety instance) {
+		super(instance, 217);
 	}
 
 	@Override
@@ -41,7 +41,7 @@ public class MCreatorBlokrubinu extends Elementsvariety.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("variety:rudarubinu", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("variety:onyxore", "inventory"));
 	}
 
 	@Override
@@ -53,9 +53,9 @@ public class MCreatorBlokrubinu extends Elementsvariety.ModElement {
 			return;
 		for (int i = 0; i < 1; i++) {
 			int x = chunkX + random.nextInt(16);
-			int y = random.nextInt(12) + 8;
+			int y = random.nextInt(10) + 3;
 			int z = chunkZ + random.nextInt(16);
-			(new WorldGenMinable(block.getDefaultState(), 8, new com.google.common.base.Predicate<IBlockState>() {
+			(new WorldGenMinable(block.getDefaultState(), 4, new com.google.common.base.Predicate<IBlockState>() {
 				public boolean apply(IBlockState blockAt) {
 					boolean blockCriteria = false;
 					IBlockState require;
@@ -70,14 +70,14 @@ public class MCreatorBlokrubinu extends Elementsvariety.ModElement {
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.ROCK);
-			setRegistryName("rudarubinu");
-			setUnlocalizedName("rudarubinu");
+			setRegistryName("onyxore");
+			setUnlocalizedName("onyxore");
 			setSoundType(SoundType.STONE);
-			setHarvestLevel("pickaxe", 3);
-			setHardness(20F);
-			setResistance(20F);
+			setHarvestLevel("pickaxe", 2);
+			setHardness(3F);
+			setResistance(5F);
 			setLightLevel(0F);
-			setLightOpacity(0);
+			setLightOpacity(255);
 			setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
 		}
 	}

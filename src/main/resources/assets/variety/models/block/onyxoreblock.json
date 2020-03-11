@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "variety:blocks/block_onyx",
+    "particle": "variety:blocks/block_onyx"
+  }
+}

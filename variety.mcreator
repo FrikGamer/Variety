@@ -1,6 +1,6 @@
 {
   "id_map": {
-    "GUI": 10
+    "GUI": 11
   },
   "mod_elements": [
     {
@@ -1137,84 +1137,6 @@
       "ids": {}
     },
     {
-      "name": "Crusher",
-      "type": "block",
-      "sortid": 154,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Crushergui",
-      "type": "gui",
-      "sortid": 155,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {
-        "0": 10
-      }
-    },
-    {
-      "name": "Opencrusher",
-      "type": "procedure",
-      "sortid": 156,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Crusherpraca",
-      "type": "procedure",
-      "sortid": 157,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
       "name": "AmetystOre",
       "type": "block",
       "sortid": 158,
@@ -1569,6 +1491,100 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Crusher",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crushergui",
+      "type": "gui",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 11
+      }
+    },
+    {
+      "name": "Crasheropengui",
+      "type": "procedure",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Crasherguixp",
+      "type": "procedure",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CrusherUpdateTick",
+      "type": "procedure",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1588,9 +1604,9 @@
       "item.nickelsword.name": "Niklowy Miecz",
       "item.magnetytarmorbody.name": "Magnetytowy Napierœnik",
       "item.platynapickaxe.name": "Platynowy Kilof",
-      "item.magnetythoe.name": "Magnetytowa Motyka",
-      "item.emeraldowykilof.name": "Szmaragdowy Kilof",
       "item.ametystarmorlegs.name": "Ametystowe Nogawice",
+      "item.emeraldowykilof.name": "Szmaragdowy Kilof",
+      "item.magnetythoe.name": "Magnetytowa Motyka",
       "item.akwamarynowaarmorhelmet.name": "Akwamarynowy He³m",
       "item.emeraldowazbrojahelmet.name": "Szmaragdowy He³m",
       "item.hematytaxe.name": "Hematytowa Siekiera",
@@ -1616,8 +1632,8 @@
       "tile.rudaakwamarynu.name": "Ruda Akwamarynu",
       "item.akwamarynowepickaxe.name": "Akwamarynowy Kilof",
       "item.rubinowymiecz1.name": "Rubinowy Miecz",
-      "item.rubinowymieczan.name": "Rubinowy Miecz",
       "item.nickelpickaxe.name": "Niklowy Kilof",
+      "item.rubinowymieczan.name": "Rubinowy Miecz",
       "item.magnetytarmorlegs.name": "Magnetytowe Nogawice",
       "item.akwamarynowehoe.name": "Akwamarynowa Motyka",
       "item.hematytshovel.name": "Hematytowa £opata",
@@ -1625,7 +1641,7 @@
       "item.ametystgem.name": "Ametyst",
       "item.magnetytarmorboots.name": "Magnetytowe Buty",
       "tile.hematytoreblock.name": "Blok Hematytu",
-      "tile.crusher.name": "Rozdrabniacz",
+      "tile.crusher.name": "Rozdrabniarka",
       "item.proszekdiamentu.name": "Proszek Diamentu",
       "item.akwamarynowaarmorboots.name": "Akwamarynowe Buty",
       "item.akwamarynowesword.name": "Akwamarynowy Miecz",

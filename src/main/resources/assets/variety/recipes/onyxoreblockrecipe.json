@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:onyxdust"
+    },
+    "1": {
+      "item": "variety:onyxdust"
+    },
+    "2": {
+      "item": "variety:onyxdust"
+    },
+    "3": {
+      "item": "variety:onyxdust"
+    },
+    "4": {
+      "item": "variety:onyxdust"
+    },
+    "5": {
+      "item": "variety:onyxdust"
+    },
+    "6": {
+      "item": "variety:onyxdust"
+    },
+    "7": {
+      "item": "variety:onyxdust"
+    },
+    "8": {
+      "item": "variety:onyxdust"
+    }
+  },
+  "result": {
+    "item": "variety:onyxoreblock",
+    "count": 1
+  }
+}

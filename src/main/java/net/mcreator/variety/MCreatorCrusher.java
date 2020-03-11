@@ -33,13 +33,15 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.ITileEntityProvider;
 import net.minecraft.block.Block;
 
+import java.util.Random;
+
 @Elementsvariety.ModElement.Tag
 public class MCreatorCrusher extends Elementsvariety.ModElement {
 	@GameRegistry.ObjectHolder("variety:crusher")
 	public static final Block block = null;
 
 	public MCreatorCrusher(Elementsvariety instance) {
-		super(instance, 154);
+		super(instance, 202);
 	}
 
 	@Override
@@ -64,12 +66,23 @@ public class MCreatorCrusher extends Elementsvariety.ModElement {
 			super(Material.IRON);
 			setRegistryName("crusher");
 			setUnlocalizedName("crusher");
-			setSoundType(SoundType.ANVIL);
-			setHardness(50F);
-			setResistance(50F);
+			setSoundType(SoundType.METAL);
+			setHarvestLevel("pickaxe", 2);
+			setHardness(20F);
+			setResistance(40F);
 			setLightLevel(0F);
 			setLightOpacity(255);
 			setCreativeTab(CreativeTabs.DECORATIONS);
+		}
+
+		@Override
+		public int tickRate(World world) {
+			return 100;
+		}
+
+		@Override
+		public boolean canSilkHarvest(World world, BlockPos pos, IBlockState state, EntityPlayer player) {
+			return false;
 		}
 
 		@Override
@@ -113,6 +126,34 @@ public class MCreatorCrusher extends Elementsvariety.ModElement {
 		}
 
 		@Override
+		public void onBlockAdded(World world, BlockPos pos, IBlockState state) {
+			super.onBlockAdded(world, pos, state);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
+		}
+
+		@Override
+		public void updateTick(World world, BlockPos pos, IBlockState state, Random random) {
+			super.updateTick(world, pos, state, random);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Block block = this;
+			{
+				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				MCreatorCrusherUpdateTick.executeProcedure($_dependencies);
+			}
+			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
+		}
+
+		@Override
 		public boolean onBlockActivated(World world, BlockPos pos, IBlockState state, EntityPlayer entity, EnumHand hand, EnumFacing direction,
 				float hitX, float hitY, float hitZ) {
 			super.onBlockActivated(world, pos, state, entity, hand, direction, hitX, hitY, hitZ);
@@ -127,18 +168,18 @@ public class MCreatorCrusher extends Elementsvariety.ModElement {
 				$_dependencies.put("y", y);
 				$_dependencies.put("z", z);
 				$_dependencies.put("world", world);
-				MCreatorOpencrusher.executeProcedure($_dependencies);
+				MCreatorCrasheropengui.executeProcedure($_dependencies);
 			}
 			return true;
 		}
 	}
 
 	public static class TileEntityCustom extends TileEntityLockableLoot {
-		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(2, ItemStack.EMPTY);
+		private NonNullList<ItemStack> stacks = NonNullList.<ItemStack> withSize(3, ItemStack.EMPTY);
 
 		@Override
 		public int getSizeInventory() {
-			return 2;
+			return 3;
 		}
 
 		@Override

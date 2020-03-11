@@ -5,30 +5,30 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.Entity;
 
 @Elementsvariety.ModElement.Tag
-public class MCreatorOpencrusher extends Elementsvariety.ModElement {
-	public MCreatorOpencrusher(Elementsvariety instance) {
-		super(instance, 156);
+public class MCreatorCrasheropengui extends Elementsvariety.ModElement {
+	public MCreatorCrasheropengui(Elementsvariety instance) {
+		super(instance, 205);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {
 		if (dependencies.get("entity") == null) {
-			System.err.println("Failed to load dependency entity for procedure MCreatorOpencrusher!");
+			System.err.println("Failed to load dependency entity for procedure MCreatorCrasheropengui!");
 			return;
 		}
 		if (dependencies.get("x") == null) {
-			System.err.println("Failed to load dependency x for procedure MCreatorOpencrusher!");
+			System.err.println("Failed to load dependency x for procedure MCreatorCrasheropengui!");
 			return;
 		}
 		if (dependencies.get("y") == null) {
-			System.err.println("Failed to load dependency y for procedure MCreatorOpencrusher!");
+			System.err.println("Failed to load dependency y for procedure MCreatorCrasheropengui!");
 			return;
 		}
 		if (dependencies.get("z") == null) {
-			System.err.println("Failed to load dependency z for procedure MCreatorOpencrusher!");
+			System.err.println("Failed to load dependency z for procedure MCreatorCrasheropengui!");
 			return;
 		}
 		if (dependencies.get("world") == null) {
-			System.err.println("Failed to load dependency world for procedure MCreatorOpencrusher!");
+			System.err.println("Failed to load dependency world for procedure MCreatorCrasheropengui!");
 			return;
 		}
 		Entity entity = (Entity) dependencies.get("entity");

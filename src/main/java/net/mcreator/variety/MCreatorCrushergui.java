@@ -29,12 +29,12 @@ import java.io.IOException;
 
 @Elementsvariety.ModElement.Tag
 public class MCreatorCrushergui extends Elementsvariety.ModElement {
-	public static int GUIID = 10;
+	public static int GUIID = 11;
 	public static HashMap guiinventory = new HashMap();
 	public static IInventory inherited;
 
 	public MCreatorCrushergui(Elementsvariety instance) {
-		super(instance, 155);
+		super(instance, 204);
 	}
 
 	@Override
@@ -59,9 +59,24 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 				inherited = (IInventory) ent;
 			else
 				inherited = new InventoryBasic("", true, 9);
-			this.addSlotToContainer(new Slot(inherited, 0, 17, 30) {
+			this.addSlotToContainer(new Slot(inherited, 0, 17, 21) {
 			});
-			this.addSlotToContainer(new Slot(inherited, 1, 134, 30) {
+			this.addSlotToContainer(new Slot(inherited, 1, 17, 57) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 2, 134, 39) {
+				@Override
+				public ItemStack onTake(EntityPlayer entity, ItemStack stack) {
+					ItemStack retval = super.onTake(entity, stack);
+					GuiContainerMod.this.slotChanged(2, 1, 0);
+					return retval;
+				}
+
+				@Override
+				public void onSlotChange(ItemStack a, ItemStack b) {
+					super.onSlotChange(a, b);
+					GuiContainerMod.this.slotChanged(2, 2, b.getCount() - a.getCount());
+				}
+
 				@Override
 				public boolean isItemValid(ItemStack stack) {
 					return false;
@@ -88,18 +103,18 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 			if (slot != null && slot.getHasStack()) {
 				ItemStack itemstack1 = slot.getStack();
 				itemstack = itemstack1.copy();
-				if (index < 2) {
-					if (!this.mergeItemStack(itemstack1, 2, this.inventorySlots.size(), true)) {
+				if (index < 3) {
+					if (!this.mergeItemStack(itemstack1, 3, this.inventorySlots.size(), true)) {
 						return ItemStack.EMPTY;
 					}
 					slot.onSlotChange(itemstack1, itemstack);
-				} else if (!this.mergeItemStack(itemstack1, 0, 2, false)) {
-					if (index < 2 + 27) {
-						if (!this.mergeItemStack(itemstack1, 2 + 27, this.inventorySlots.size(), true)) {
+				} else if (!this.mergeItemStack(itemstack1, 0, 3, false)) {
+					if (index < 3 + 27) {
+						if (!this.mergeItemStack(itemstack1, 3 + 27, this.inventorySlots.size(), true)) {
 							return ItemStack.EMPTY;
 						}
 					} else {
-						if (!this.mergeItemStack(itemstack1, 2, 2 + 27, false)) {
+						if (!this.mergeItemStack(itemstack1, 3, 3 + 27, false)) {
 							return ItemStack.EMPTY;
 						}
 					}
@@ -245,7 +260,7 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 			this.drawTexturedModalRect(k, l, 0, 0, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("variety:textures/strzalka.png"));
-			this.drawTexturedModalRect(this.guiLeft + 70, this.guiTop + 29, 0, 0, 256, 256);
+			this.drawTexturedModalRect(this.guiLeft + 70, this.guiTop + 38, 0, 0, 256, 256);
 		}
 
 		@Override
@@ -265,7 +280,7 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(int par1, int par2) {
-			this.fontRenderer.drawString("Crusher", 4, 5, -13224394);
+			this.fontRenderer.drawString("Crusher", 7, 2, -10066330);
 		}
 
 		@Override
@@ -281,7 +296,6 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 			this.guiTop = (this.height - 166) / 2;
 			Keyboard.enableRepeatEvents(true);
 			this.buttonList.clear();
-			this.buttonList.add(new GuiButton(0, this.guiLeft + 61, this.guiTop + 56, 50, 20, "Crush"));
 		}
 
 		@Override
@@ -399,16 +413,6 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 		// security measure to prevent arbitrary chunk generation
 		if (!world.isBlockLoaded(new BlockPos(x, y, z)))
 			return;
-		if (buttonID == 0) {
-			{
-				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
-				$_dependencies.put("x", x);
-				$_dependencies.put("y", y);
-				$_dependencies.put("z", z);
-				$_dependencies.put("world", world);
-				MCreatorCrusherpraca.executeProcedure($_dependencies);
-			}
-		}
 	}
 
 	private static void handleSlotAction(EntityPlayer entity, int slotID, int changeType, int meta, int x, int y, int z) {
@@ -416,5 +420,20 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 		// security measure to prevent arbitrary chunk generation
 		if (!world.isBlockLoaded(new BlockPos(x, y, z)))
 			return;
+		if (slotID == 2 && changeType == 1) {
+			{
+				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("entity", entity);
+				MCreatorCrasherguixp.executeProcedure($_dependencies);
+			}
+		}
+		if (slotID == 2 && changeType == 2) {
+			int amount = meta;
+			{
+				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("entity", entity);
+				MCreatorCrasherguixp.executeProcedure($_dependencies);
+			}
+		}
 	}
 }

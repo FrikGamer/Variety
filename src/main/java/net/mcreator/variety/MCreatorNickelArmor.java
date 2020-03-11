@@ -31,7 +31,7 @@ public class MCreatorNickelArmor extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("NICKELARMOR", "variety:nickel", 50, new int[]{8, 9, 10, 7}, 50,
+		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("NICKELARMOR", "variety:nickel", 50, new int[]{2, 5, 7, 2}, 50,
 				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 2f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("nickelarmorhelmet")
 				.setRegistryName("nickelarmorhelmet").setCreativeTab(CreativeTabs.COMBAT));

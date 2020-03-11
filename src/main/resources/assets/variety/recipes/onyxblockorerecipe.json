@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:onyxoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:onyxdust",
+    "count": 9
+  }
+}
