@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:agategem"
+    },
+    "1": {
+      "item": "variety:agategem"
+    },
+    "2": {
+      "item": "variety:agategem"
+    },
+    "3": {
+      "item": "variety:agategem"
+    },
+    "4": {
+      "item": "variety:agategem"
+    },
+    "5": {
+      "item": "variety:agategem"
+    },
+    "6": {
+      "item": "variety:agategem"
+    },
+    "7": {
+      "item": "variety:agategem"
+    },
+    "8": {
+      "item": "variety:agategem"
+    }
+  },
+  "result": {
+    "item": "variety:agateoreblock",
+    "count": 1
+  }
+}

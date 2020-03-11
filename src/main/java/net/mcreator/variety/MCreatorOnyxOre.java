@@ -29,7 +29,7 @@ public class MCreatorOnyxOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorOnyxOre(Elementsvariety instance) {
-		super(instance, 217);
+		super(instance, 212);
 	}
 
 	@Override
@@ -55,7 +55,7 @@ public class MCreatorOnyxOre extends Elementsvariety.ModElement {
 			int x = chunkX + random.nextInt(16);
 			int y = random.nextInt(10) + 3;
 			int z = chunkZ + random.nextInt(16);
-			(new WorldGenMinable(block.getDefaultState(), 4, new com.google.common.base.Predicate<IBlockState>() {
+			(new WorldGenMinable(block.getDefaultState(), 3, new com.google.common.base.Predicate<IBlockState>() {
 				public boolean apply(IBlockState blockAt) {
 					boolean blockCriteria = false;
 					IBlockState require;
@@ -74,8 +74,8 @@ public class MCreatorOnyxOre extends Elementsvariety.ModElement {
 			setUnlocalizedName("onyxore");
 			setSoundType(SoundType.STONE);
 			setHarvestLevel("pickaxe", 2);
-			setHardness(3F);
-			setResistance(5F);
+			setHardness(30F);
+			setResistance(50F);
 			setLightLevel(0F);
 			setLightOpacity(255);
 			setCreativeTab(CreativeTabs.BUILDING_BLOCKS);

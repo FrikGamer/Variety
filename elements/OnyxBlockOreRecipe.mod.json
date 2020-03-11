@@ -6,7 +6,7 @@
     "recipeRetstackSize": 9,
     "recipeShapeless": true,
     "recipeReturnStack": {
-      "value": "CUSTOM:OnyxDust"
+      "value": "CUSTOM:OnyxGem"
     },
     "recipeSlots": [
       {

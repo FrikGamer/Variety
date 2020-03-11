@@ -18,7 +18,7 @@ public class MCreatorOnyxGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorOnyxGem(Elementsvariety instance) {
-		super(instance, 213);
+		super(instance, 214);
 	}
 
 	@Override
@@ -35,7 +35,7 @@ public class MCreatorOnyxGem extends Elementsvariety.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
-			maxStackSize = 4;
+			maxStackSize = 64;
 			setUnlocalizedName("onyxgem");
 			setRegistryName("onyxgem");
 			setCreativeTab(CreativeTabs.MISC);

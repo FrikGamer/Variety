@@ -13,12 +13,12 @@ import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
 @Elementsvariety.ModElement.Tag
-public class MCreatorOnyxDust extends Elementsvariety.ModElement {
-	@GameRegistry.ObjectHolder("variety:onyxdust")
+public class MCreatorAgateGem extends Elementsvariety.ModElement {
+	@GameRegistry.ObjectHolder("variety:agategem")
 	public static final Item block = null;
 
-	public MCreatorOnyxDust(Elementsvariety instance) {
-		super(instance, 219);
+	public MCreatorAgateGem(Elementsvariety instance) {
+		super(instance, 234);
 	}
 
 	@Override
@@ -29,15 +29,15 @@ public class MCreatorOnyxDust extends Elementsvariety.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("variety:onyxdust", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("variety:agategem", "inventory"));
 	}
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
 			maxStackSize = 64;
-			setUnlocalizedName("onyxdust");
-			setRegistryName("onyxdust");
+			setUnlocalizedName("agategem");
+			setRegistryName("agategem");
 			setCreativeTab(CreativeTabs.MISC);
 		}
 

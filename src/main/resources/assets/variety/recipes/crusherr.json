@@ -4,29 +4,23 @@
   "pattern": [
     " 1 ",
     "345",
-    "678"
+    " 7 "
   ],
   "key": {
     "1": {
-      "item": "variety:rubin"
+      "item": "minecraft:iron_ingot"
     },
     "3": {
-      "item": "minecraft:gold_ingot"
+      "item": "minecraft:diamond"
     },
     "4": {
       "item": "minecraft:iron_block"
     },
     "5": {
-      "item": "minecraft:diamond"
-    },
-    "6": {
-      "item": "minecraft:iron_block"
+      "item": "minecraft:gold_ingot"
     },
     "7": {
       "item": "minecraft:furnace"
-    },
-    "8": {
-      "item": "minecraft:iron_block"
     }
   },
   "result": {

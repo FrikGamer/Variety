@@ -8,11 +8,11 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorOnyxOreSmelting extends Elementsvariety.ModElement {
 	public MCreatorOnyxOreSmelting(Elementsvariety instance) {
-		super(instance, 222);
+		super(instance, 217);
 	}
 
 	@Override
 	public void init(FMLInitializationEvent event) {
-		GameRegistry.addSmelting(new ItemStack(MCreatorOnyxOre.block, (int) (1)), new ItemStack(MCreatorOnyxGem.block, (int) (1)), 10F);
+		GameRegistry.addSmelting(new ItemStack(MCreatorOnyxOre.block, (int) (1)), new ItemStack(MCreatorOnyxGem.block, (int) (1)), 7F);
 	}
 }

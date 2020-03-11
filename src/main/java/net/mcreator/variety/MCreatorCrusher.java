@@ -148,7 +148,7 @@ public class MCreatorCrusher extends Elementsvariety.ModElement {
 				$_dependencies.put("y", y);
 				$_dependencies.put("z", z);
 				$_dependencies.put("world", world);
-				MCreatorCrusherUpdateTick.executeProcedure($_dependencies);
+				MCreatorCrusherpraca.executeProcedure($_dependencies);
 			}
 			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));
 		}

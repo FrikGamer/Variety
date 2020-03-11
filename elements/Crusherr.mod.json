@@ -13,16 +13,10 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:Rubin"
+        "value": "Items.IRON_INGOT"
       },
       {
         "value": ""
-      },
-      {
-        "value": "Items.GOLD_INGOT"
-      },
-      {
-        "value": "Blocks.IRON_BLOCK"
       },
       {
         "value": "Items.DIAMOND"
@@ -31,10 +25,16 @@
         "value": "Blocks.IRON_BLOCK"
       },
       {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": ""
+      },
+      {
         "value": "Blocks.FURNACE"
       },
       {
-        "value": "Blocks.IRON_BLOCK"
+        "value": ""
       }
     ],
     "smeltingXPReward": 0.0,

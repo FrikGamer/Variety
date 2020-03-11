@@ -11,7 +11,7 @@
     "smeltingReturnStack": {
       "value": "CUSTOM:OnyxGem"
     },
-    "smeltingXPReward": 10.0,
+    "smeltingXPReward": 7.0,
     "smeltingRetstackSize": 1,
     "name": "onyxoresmelting",
     "namespace": "mod"

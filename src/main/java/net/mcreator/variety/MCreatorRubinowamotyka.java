@@ -38,8 +38,8 @@ public class MCreatorRubinowamotyka extends Elementsvariety.ModElement {
 				if (slot == EntityEquipmentSlot.MAINHAND) {
 					multimap.put(SharedMonsterAttributes.ATTACK_DAMAGE.getName(), new AttributeModifier(ATTACK_DAMAGE_MODIFIER, "Weapon modifier", 0,
 							0));
-					multimap.put(SharedMonsterAttributes.ATTACK_SPEED.getName(), new AttributeModifier(ATTACK_SPEED_MODIFIER, "Weapon modifier",
-							-1.2, 0));
+					multimap.put(SharedMonsterAttributes.ATTACK_SPEED.getName(),
+							new AttributeModifier(ATTACK_SPEED_MODIFIER, "Weapon modifier", 1, 0));
 				}
 				return multimap;
 			}
