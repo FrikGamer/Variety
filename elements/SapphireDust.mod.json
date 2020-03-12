@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "agat",
+    "texture": "amethyst_dust",
     "customModelName": "Normal",
-    "name": "Agate",
+    "name": "Sapphire Dust",
     "creativeTab": {
       "value": "MISC"
     },

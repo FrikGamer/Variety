@@ -2,7 +2,7 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "agatruda",
+    "texture": "sapphireore",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -20,10 +20,10 @@
     "My": 1.0,
     "Mz": 1.0,
     "faceShape": "SOLID",
-    "name": "Agate Ore",
+    "name": "Sapphire Ore",
     "specialInfo": [],
-    "hardness": 30.0,
-    "resistance": 50.0,
+    "hardness": 3.0,
+    "resistance": 5.0,
     "hasGravity": false,
     "creativeTab": {
       "value": "BUILDING_BLOCKS"

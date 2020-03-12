@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "variety:blocks/sapphire_ore_block",
+    "particle": "variety:blocks/sapphire_ore_block"
+  }
+}

@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "agat",
+    "texture": "sapphire_gem",
     "customModelName": "Normal",
-    "name": "Agate",
+    "name": "Sapphire",
     "creativeTab": {
       "value": "MISC"
     },

@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:sapphiregem"
+    },
+    "1": {
+      "item": "variety:sapphiregem"
+    },
+    "2": {
+      "item": "variety:sapphiregem"
+    },
+    "3": {
+      "item": "variety:sapphiregem"
+    },
+    "4": {
+      "item": "variety:sapphiregem"
+    },
+    "5": {
+      "item": "variety:sapphiregem"
+    },
+    "6": {
+      "item": "variety:sapphiregem"
+    },
+    "7": {
+      "item": "variety:sapphiregem"
+    },
+    "8": {
+      "item": "variety:sapphiregem"
+    }
+  },
+  "result": {
+    "item": "variety:sapphireoreblock",
+    "count": 1
+  }
+}
