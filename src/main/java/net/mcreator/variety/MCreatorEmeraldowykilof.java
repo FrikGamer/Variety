@@ -27,9 +27,9 @@ public class MCreatorEmeraldowykilof extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("EMERALDOWYKILOF", 11, 1700, 11f, -0.5f, 50)) {
+		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("EMERALDOWYKILOF", 11, 1700, 11f, 2f, 50)) {
 			{
-				this.attackSpeed = -1.2f;
+				this.attackSpeed = -2.7999999999999998f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

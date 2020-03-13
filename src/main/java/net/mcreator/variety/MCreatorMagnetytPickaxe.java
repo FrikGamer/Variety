@@ -29,7 +29,7 @@ public class MCreatorMagnetytPickaxe extends Elementsvariety.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("MAGNETYTPICKAXE", 6, 450, 8f, 0f, 50)) {
 			{
-				this.attackSpeed = -3f;
+				this.attackSpeed = -2.8f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

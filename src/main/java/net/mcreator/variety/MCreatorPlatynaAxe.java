@@ -46,9 +46,9 @@ public class MCreatorPlatynaAxe extends Elementsvariety.ModElement {
 				Blocks.WOODEN_PRESSURE_PLATE});
 
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("PLATYNAAXE", 13, 1200, 13f, 5f, 50), effective_items_set);
-			this.attackDamage = 5f;
-			this.attackSpeed = -1f;
+			super(EnumHelper.addToolMaterial("PLATYNAAXE", 13, 1200, 13f, 9f, 50), effective_items_set);
+			this.attackDamage = 9f;
+			this.attackSpeed = -3f;
 		}
 
 		@Override

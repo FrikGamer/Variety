@@ -27,7 +27,7 @@ public class MCreatorNickelShovel extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("NICKELSHOVEL", 6, 3000, 8f, 1f, 50)) {
+		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("NICKELSHOVEL", 6, 3000, 8f, 2f, 50)) {
 			{
 				this.attackSpeed = -3f;
 			}

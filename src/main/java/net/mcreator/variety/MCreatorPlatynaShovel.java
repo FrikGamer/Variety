@@ -27,9 +27,9 @@ public class MCreatorPlatynaShovel extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("PLATYNASHOVEL", 7, 1200, 9f, 0f, 50)) {
+		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("PLATYNASHOVEL", 7, 1200, 9f, 3.5f, 50)) {
 			{
-				this.attackSpeed = -1f;
+				this.attackSpeed = -3f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

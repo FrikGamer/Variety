@@ -46,9 +46,9 @@ public class MCreatorAkwamarynoweAxe extends Elementsvariety.ModElement {
 				Blocks.WOODEN_PRESSURE_PLATE});
 
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("AKWAMARYNOWEAXE", 11, 1000, 16f, -1f, 50), effective_items_set);
-			this.attackDamage = -1f;
-			this.attackSpeed = -1f;
+			super(EnumHelper.addToolMaterial("AKWAMARYNOWEAXE", 11, 1000, 16f, 7f, 50), effective_items_set);
+			this.attackDamage = 7f;
+			this.attackSpeed = -3f;
 		}
 
 		@Override

@@ -46,9 +46,9 @@ public class MCreatorRubinowasiekiera extends Elementsvariety.ModElement {
 				Blocks.WOODEN_PRESSURE_PLATE});
 
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("RUBINOWASIEKIERA", 13, 2000, 13f, 6f, 50), effective_items_set);
-			this.attackDamage = 6f;
-			this.attackSpeed = -2f;
+			super(EnumHelper.addToolMaterial("RUBINOWASIEKIERA", 13, 2000, 13f, 9f, 50), effective_items_set);
+			this.attackDamage = 9f;
+			this.attackSpeed = -3f;
 		}
 
 		@Override

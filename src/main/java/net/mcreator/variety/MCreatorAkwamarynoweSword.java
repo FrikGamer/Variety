@@ -32,7 +32,7 @@ public class MCreatorAkwamarynoweSword extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSword(EnumHelper.addToolMaterial("AKWAMARYNOWESWORD", 10, 1000, 13f, 0f, 50)) {
+		elements.items.add(() -> new ItemSword(EnumHelper.addToolMaterial("AKWAMARYNOWESWORD", 10, 1000, 13f, 1.5f, 50)) {
 			public Multimap<String, AttributeModifier> getItemAttributeModifiers(EntityEquipmentSlot slot) {
 				Multimap<String, AttributeModifier> multimap = super.getItemAttributeModifiers(slot);
 				if (slot == EntityEquipmentSlot.MAINHAND) {

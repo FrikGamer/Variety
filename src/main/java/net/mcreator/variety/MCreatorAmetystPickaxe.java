@@ -27,9 +27,9 @@ public class MCreatorAmetystPickaxe extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("AMETYSTPICKAXE", 12, 1500, 12f, 0f, 50)) {
+		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("AMETYSTPICKAXE", 12, 1500, 12f, 4f, 50)) {
 			{
-				this.attackSpeed = -2f;
+				this.attackSpeed = -2.7999999999999998f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

@@ -2,6 +2,21 @@
   "variants": {
     "normal": {
       "model": "variety:dustsmelter"
+    },
+    "facing=north": {
+      "model": "variety:dustsmelter"
+    },
+    "facing=east": {
+      "model": "variety:dustsmelter",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "variety:dustsmelter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "variety:dustsmelter",
+      "y": 270
     }
   }
 }

@@ -32,7 +32,7 @@ public class MCreatorAmetystArmor extends Elementsvariety.ModElement {
 	@Override
 	public void initElements() {
 		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("AMETYSTARMOR", "variety:ametyst", 25, new int[]{4, 7, 9, 4}, 50,
-				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 2.5f);
+				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 3f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("ametystarmorhelmet")
 				.setRegistryName("ametystarmorhelmet").setCreativeTab(CreativeTabs.COMBAT));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.CHEST).setUnlocalizedName("ametystarmorbody")

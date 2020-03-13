@@ -27,9 +27,9 @@ public class MCreatorRubinowalopata extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("RUBINOWALOPATA", 7, 2000, 9f, 2f, 50)) {
+		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("RUBINOWALOPATA", 7, 2000, 9f, 4f, 50)) {
 			{
-				this.attackSpeed = -2f;
+				this.attackSpeed = -3f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

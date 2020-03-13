@@ -32,7 +32,7 @@ public class MCreatorPlatynaSword extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSword(EnumHelper.addToolMaterial("PLATYNASWORD", 7, 1200, 10f, 0f, 50)) {
+		elements.items.add(() -> new ItemSword(EnumHelper.addToolMaterial("PLATYNASWORD", 7, 1200, 10f, 3f, 50)) {
 			public Multimap<String, AttributeModifier> getItemAttributeModifiers(EntityEquipmentSlot slot) {
 				Multimap<String, AttributeModifier> multimap = super.getItemAttributeModifiers(slot);
 				if (slot == EntityEquipmentSlot.MAINHAND) {

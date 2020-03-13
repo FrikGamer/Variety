@@ -32,14 +32,14 @@ public class MCreatorAkwamarynoweHoe extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemHoe(EnumHelper.addToolMaterial("AKWAMARYNOWEHOE", 8, 1000, 7.5f, -1f, 50)) {
+		elements.items.add(() -> new ItemHoe(EnumHelper.addToolMaterial("AKWAMARYNOWEHOE", 8, 1000, 7.5f, 4f, 50)) {
 			public Multimap<String, AttributeModifier> getItemAttributeModifiers(EntityEquipmentSlot slot) {
 				Multimap<String, AttributeModifier> multimap = super.getItemAttributeModifiers(slot);
 				if (slot == EntityEquipmentSlot.MAINHAND) {
 					multimap.put(SharedMonsterAttributes.ATTACK_DAMAGE.getName(), new AttributeModifier(ATTACK_DAMAGE_MODIFIER, "Weapon modifier", 0,
 							0));
-					multimap.put(SharedMonsterAttributes.ATTACK_SPEED.getName(), new AttributeModifier(ATTACK_SPEED_MODIFIER, "Weapon modifier", -1,
-							0));
+					multimap.put(SharedMonsterAttributes.ATTACK_SPEED.getName(),
+							new AttributeModifier(ATTACK_SPEED_MODIFIER, "Weapon modifier", 0, 0));
 				}
 				return multimap;
 			}

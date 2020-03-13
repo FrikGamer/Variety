@@ -27,9 +27,9 @@ public class MCreatorAkwamarynoweShovel extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("AKWAMARYNOWESHOVEL", 9, 1000, 10.5f, -1f, 50)) {
+		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("AKWAMARYNOWESHOVEL", 9, 1000, 10.5f, 2.5f, 50)) {
 			{
-				this.attackSpeed = -1f;
+				this.attackSpeed = -3f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

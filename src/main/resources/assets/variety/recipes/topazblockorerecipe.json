@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:topazoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:topazgem",
+    "count": 9
+  }
+}

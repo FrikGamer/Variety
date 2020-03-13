@@ -46,9 +46,9 @@ public class MCreatorAmetystAxe extends Elementsvariety.ModElement {
 				Blocks.WOODEN_PRESSURE_PLATE});
 
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("AMETYSTAXE", 13, 1500, 13f, 5f, 14), effective_items_set);
-			this.attackDamage = 5f;
-			this.attackSpeed = -2f;
+			super(EnumHelper.addToolMaterial("AMETYSTAXE", 13, 1500, 13f, 9f, 14), effective_items_set);
+			this.attackDamage = 9f;
+			this.attackSpeed = -3f;
 		}
 
 		@Override

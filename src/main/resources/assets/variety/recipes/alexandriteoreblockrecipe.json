@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:alexandritegem"
+    },
+    "1": {
+      "item": "variety:alexandritegem"
+    },
+    "2": {
+      "item": "variety:alexandritegem"
+    },
+    "3": {
+      "item": "variety:alexandritegem"
+    },
+    "4": {
+      "item": "variety:alexandritegem"
+    },
+    "5": {
+      "item": "variety:alexandritegem"
+    },
+    "6": {
+      "item": "variety:alexandritegem"
+    },
+    "7": {
+      "item": "variety:alexandritegem"
+    },
+    "8": {
+      "item": "variety:alexandritegem"
+    }
+  },
+  "result": {
+    "item": "variety:alexandriteoreblock",
+    "count": 1
+  }
+}

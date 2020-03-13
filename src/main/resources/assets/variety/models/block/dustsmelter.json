@@ -1,7 +1,12 @@
 {
-  "parent": "block/cube_all",
+  "parent": "block/cube",
   "textures": {
-    "all": "variety:blocks/crusherdul",
-    "particle": "variety:blocks/crusherdul"
+    "down": "variety:blocks/dulproch",
+    "up": "variety:blocks/goraproch",
+    "north": "variety:blocks/przudproch",
+    "east": "variety:blocks/bokproch",
+    "south": "variety:blocks/tylproch",
+    "west": "variety:blocks/bokproch",
+    "particle": "variety:blocks/dulproch"
   }
 }

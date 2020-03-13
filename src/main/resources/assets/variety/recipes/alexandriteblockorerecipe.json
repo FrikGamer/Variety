@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:alexandriteoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:alexandritegem",
+    "count": 9
+  }
+}

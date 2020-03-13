@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:topazgem"
+    },
+    "1": {
+      "item": "variety:topazgem"
+    },
+    "2": {
+      "item": "variety:topazgem"
+    },
+    "3": {
+      "item": "variety:topazgem"
+    },
+    "4": {
+      "item": "variety:topazgem"
+    },
+    "5": {
+      "item": "variety:topazgem"
+    },
+    "6": {
+      "item": "variety:topazgem"
+    },
+    "7": {
+      "item": "variety:topazgem"
+    },
+    "8": {
+      "item": "variety:topazgem"
+    }
+  },
+  "result": {
+    "item": "variety:topazoreblock",
+    "count": 1
+  }
+}

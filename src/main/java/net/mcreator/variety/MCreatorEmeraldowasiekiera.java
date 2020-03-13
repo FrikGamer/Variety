@@ -46,9 +46,9 @@ public class MCreatorEmeraldowasiekiera extends Elementsvariety.ModElement {
 				Blocks.WOODEN_PRESSURE_PLATE});
 
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("EMERALDOWASIEKIERA", 12, 1700, 12f, 4.5f, 50), effective_items_set);
-			this.attackDamage = 4.5f;
-			this.attackSpeed = -1.2f;
+			super(EnumHelper.addToolMaterial("EMERALDOWASIEKIERA", 12, 1700, 12f, 7f, 50), effective_items_set);
+			this.attackDamage = 7f;
+			this.attackSpeed = -3f;
 		}
 
 		@Override

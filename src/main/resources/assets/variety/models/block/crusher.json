@@ -4,9 +4,9 @@
     "down": "variety:blocks/dol",
     "up": "variety:blocks/gora",
     "north": "variety:blocks/przod",
-    "east": "variety:blocks/bok",
+    "east": "variety:blocks/bok2",
     "south": "variety:blocks/ty",
-    "west": "variety:blocks/bok",
+    "west": "variety:blocks/bok2",
     "particle": "variety:blocks/dol"
   }
 }

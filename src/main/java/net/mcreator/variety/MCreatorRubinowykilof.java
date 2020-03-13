@@ -27,9 +27,9 @@ public class MCreatorRubinowykilof extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("RUBINOWYKILOF", 12, 2000, 12f, 2f, 50)) {
+		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("RUBINOWYKILOF", 12, 2000, 12f, 4f, 50)) {
 			{
-				this.attackSpeed = -3f;
+				this.attackSpeed = -2.7999999999999998f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

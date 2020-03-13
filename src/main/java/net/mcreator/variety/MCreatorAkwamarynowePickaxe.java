@@ -27,9 +27,9 @@ public class MCreatorAkwamarynowePickaxe extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("AKWAMARYNOWEPICKAXE", 10, 1000, 15f, -1f, 50)) {
+		elements.items.add(() -> new ItemPickaxe(EnumHelper.addToolMaterial("AKWAMARYNOWEPICKAXE", 10, 1000, 15f, 2f, 50)) {
 			{
-				this.attackSpeed = -1f;
+				this.attackSpeed = -2.7999999999999998f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

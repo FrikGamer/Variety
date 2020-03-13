@@ -27,9 +27,9 @@ public class MCreatorEmeraldowalopata extends Elementsvariety.ModElement {
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("EMERALDOWALOPATA", 6, 1700, 8.5f, -0.5f, 50)) {
+		elements.items.add(() -> new ItemSpade(EnumHelper.addToolMaterial("EMERALDOWALOPATA", 6, 1700, 8.5f, 2.5f, 50)) {
 			{
-				this.attackSpeed = -1.2f;
+				this.attackSpeed = -3f;
 			}
 
 			public Set<String> getToolClasses(ItemStack stack) {

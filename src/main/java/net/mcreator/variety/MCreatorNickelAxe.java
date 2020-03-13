@@ -46,8 +46,8 @@ public class MCreatorNickelAxe extends Elementsvariety.ModElement {
 				Blocks.WOODEN_PRESSURE_PLATE});
 
 		protected ItemToolCustom() {
-			super(EnumHelper.addToolMaterial("NICKELAXE", 6, 3000, 8f, 5f, 50), effective_items_set);
-			this.attackDamage = 5f;
+			super(EnumHelper.addToolMaterial("NICKELAXE", 6, 3000, 8f, 7f, 50), effective_items_set);
+			this.attackDamage = 7f;
 			this.attackSpeed = -3f;
 		}
 

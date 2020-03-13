@@ -2,6 +2,21 @@
   "variants": {
     "normal": {
       "model": "variety:crusher"
+    },
+    "facing=north": {
+      "model": "variety:crusher"
+    },
+    "facing=east": {
+      "model": "variety:crusher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "variety:crusher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "variety:crusher",
+      "y": 270
     }
   }
 }
