@@ -2062,94 +2062,6 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
-    },
-    {
-      "name": "Magicbook",
-      "type": "item",
-      "sortid": 279,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook1",
-      "type": "recipe",
-      "sortid": 280,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook2",
-      "type": "recipe",
-      "sortid": 281,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook3",
-      "type": "recipe",
-      "sortid": 282,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook4",
-      "type": "recipe",
-      "sortid": 283,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook5",
-      "type": "recipe",
-      "sortid": 284,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook6",
-      "type": "recipe",
-      "sortid": 285,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook7",
-      "type": "recipe",
-      "sortid": 286,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook8",
-      "type": "recipe",
-      "sortid": 287,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook9",
-      "type": "recipe",
-      "sortid": 288,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Magicbook10",
-      "type": "recipe",
-      "sortid": 289,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2163,19 +2075,19 @@
       "item.rubinowazbrojaboots.name": "Rubinowe Buty",
       "item.heliodorgem.name": "Heliodor",
       "item.platynaingot.name": "Platyna",
-      "tile.heliodororeblock.name": "Blok Heliodoru",
       "item.akwamaryn.name": "Akwamaryn",
+      "tile.heliodororeblock.name": "Blok Heliodoru",
       "tile.magnetytoreblock.name": "Blok Magnetytu",
       "item.hematytpickaxe.name": "Hematytowy Kilof",
       "tile.hematytore.name": "Ruda Hematytu",
-      "item.ametystarmorhelmet.name": "Ametystowy He³m",
       "tile.onyxore.name": "Ruda Onyksu",
+      "item.ametystarmorhelmet.name": "Ametystowy He³m",
       "item.nickelsword.name": "Niklowy Miecz",
       "item.magnetytarmorbody.name": "Magnetytowy Napierœnik",
       "item.platynapickaxe.name": "Platynowy Kilof",
-      "item.magnetythoe.name": "Magnetytowa Motyka",
-      "item.emeraldowykilof.name": "Szmaragdowy Kilof",
       "item.ametystarmorlegs.name": "Ametystowe Nogawice",
+      "item.emeraldowykilof.name": "Szmaragdowy Kilof",
+      "item.magnetythoe.name": "Magnetytowa Motyka",
       "item.akwamarynowaarmorhelmet.name": "Akwamarynowy He³m",
       "item.emeraldowazbrojahelmet.name": "Szmaragdowy He³m",
       "item.hematytaxe.name": "Hematytowa Siekiera",
@@ -2263,7 +2175,6 @@
       "item.akwamarynoweshovel.name": "Akwamarynowa £opata",
       "item.ametysthoe.name": "Ametystowa Motyka",
       "item.hematythoe.name": "Hematytowa Motyka",
-      "item.magicbook.name": "Magiczna Ksi¹¿ka",
       "item.nickelhoe.name": "Niklowa Motyka",
       "item.rubinowazbrojalegs.name": "Rubinowe Nogawice",
       "tile.onyxoreblock.name": "Blok Onyksu",
@@ -2365,7 +2276,7 @@
       "item.platynaaxe.name": "Platyna Axe",
       "item.platynaarmorlegs.name": "Platinum Leggings",
       "item.sapphiredust.name": "Sapphire Dust",
-      "tile.platynaore.name": "Platinum Ore",
+      "tile.platynaore.name": "Platyna Ore",
       "item.nickelarmorlegs.name": "Nickel Leggings",
       "tile.platynaoreblock.name": "Block of Platinum",
       "item.hematytingot.name": "Hematite",
@@ -2392,7 +2303,6 @@
       "item.akwamarynoweshovel.name": "Akwamarynowe £opata",
       "item.ametysthoe.name": "Ametyst Hoe",
       "item.hematythoe.name": "Hematytowa Motyka",
-      "item.magicbook.name": "Magic Book",
       "item.nickelhoe.name": "Nickel Hoe",
       "item.rubinowazbrojalegs.name": "Ruby leggings",
       "tile.onyxoreblock.name": "Block of Onyx",

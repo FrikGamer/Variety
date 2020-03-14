@@ -2,7 +2,7 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "nickel_ore",
+    "texture": "rudaniklu",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -79,7 +79,7 @@
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 4,
+    "frequencyPerChunks": 3,
     "frequencyOnChunk": 4,
     "minGenerateHeight": 1,
     "maxGenerateHeight": 18
