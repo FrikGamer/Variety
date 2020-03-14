@@ -1,0 +1,30 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "345",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:reeds"
+    },
+    "4": {
+      "item": "minecraft:reeds"
+    },
+    "5": {
+      "item": "minecraft:reeds"
+    },
+    "6": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "variety:magicbook",
+    "count": 1
+  }
+}

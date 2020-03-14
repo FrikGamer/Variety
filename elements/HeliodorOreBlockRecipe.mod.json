@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:HeliodorOreBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      },
+      {
+        "value": "CUSTOM:HeliodorGem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "heliodororeblockrecipe",
+    "namespace": "mod"
+  }
+}

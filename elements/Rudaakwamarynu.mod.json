@@ -64,7 +64,7 @@
     "particleSpawningRadious": 0.5,
     "particleAmount": 4,
     "particleSpawningCondition": "ALWAYS",
-    "hasInventory": true,
+    "hasInventory": false,
     "inventorySize": 9,
     "inventoryStackSize": 64,
     "inventoryDropWhenDestroyed": true,
@@ -79,7 +79,7 @@
         "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 2,
+    "frequencyPerChunks": 1,
     "frequencyOnChunk": 10,
     "minGenerateHeight": 10,
     "maxGenerateHeight": 50

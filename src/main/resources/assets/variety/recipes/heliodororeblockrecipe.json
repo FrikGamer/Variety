@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:heliodorgem"
+    },
+    "1": {
+      "item": "variety:heliodorgem"
+    },
+    "2": {
+      "item": "variety:heliodorgem"
+    },
+    "3": {
+      "item": "variety:heliodorgem"
+    },
+    "4": {
+      "item": "variety:heliodorgem"
+    },
+    "5": {
+      "item": "variety:heliodorgem"
+    },
+    "6": {
+      "item": "variety:heliodorgem"
+    },
+    "7": {
+      "item": "variety:heliodorgem"
+    },
+    "8": {
+      "item": "variety:heliodorgem"
+    }
+  },
+  "result": {
+    "item": "variety:heliodororeblock",
+    "count": 1
+  }
+}

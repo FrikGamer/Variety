@@ -14,7 +14,6 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.item.ItemBlock;
 import net.minecraft.item.Item;
 import net.minecraft.init.Blocks;
-import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
@@ -25,12 +24,12 @@ import net.minecraft.block.Block;
 import java.util.Random;
 
 @Elementsvariety.ModElement.Tag
-public class MCreatorHematytOre extends Elementsvariety.ModElement {
-	@GameRegistry.ObjectHolder("variety:hematytore")
+public class MCreatorHeliodorOre extends Elementsvariety.ModElement {
+	@GameRegistry.ObjectHolder("variety:heliodorore")
 	public static final Block block = null;
 
-	public MCreatorHematytOre(Elementsvariety instance) {
-		super(instance, 86);
+	public MCreatorHeliodorOre(Elementsvariety instance) {
+		super(instance, 270);
 	}
 
 	@Override
@@ -42,7 +41,7 @@ public class MCreatorHematytOre extends Elementsvariety.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("variety:hematytore", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(block), 0, new ModelResourceLocation("variety:heliodorore", "inventory"));
 	}
 
 	@Override
@@ -52,11 +51,11 @@ public class MCreatorHematytOre extends Elementsvariety.ModElement {
 			dimensionCriteria = true;
 		if (!dimensionCriteria)
 			return;
-		for (int i = 0; i < 4; i++) {
+		for (int i = 0; i < 1; i++) {
 			int x = chunkX + random.nextInt(16);
-			int y = random.nextInt(24) + 6;
+			int y = random.nextInt(10) + 3;
 			int z = chunkZ + random.nextInt(16);
-			(new WorldGenMinable(block.getDefaultState(), 7, new com.google.common.base.Predicate<IBlockState>() {
+			(new WorldGenMinable(block.getDefaultState(), 3, new com.google.common.base.Predicate<IBlockState>() {
 				public boolean apply(IBlockState blockAt) {
 					boolean blockCriteria = false;
 					IBlockState require;
@@ -71,20 +70,15 @@ public class MCreatorHematytOre extends Elementsvariety.ModElement {
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
 			super(Material.ROCK);
-			setRegistryName("hematytore");
-			setUnlocalizedName("hematytore");
+			setRegistryName("heliodorore");
+			setUnlocalizedName("heliodorore");
 			setSoundType(SoundType.STONE);
 			setHarvestLevel("pickaxe", 2);
-			setHardness(120F);
-			setResistance(999F);
+			setHardness(30F);
+			setResistance(50F);
 			setLightLevel(0F);
 			setLightOpacity(255);
 			setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
-		}
-
-		@Override
-		public boolean canSilkHarvest(World world, BlockPos pos, IBlockState state, EntityPlayer player) {
-			return false;
 		}
 	}
 }
