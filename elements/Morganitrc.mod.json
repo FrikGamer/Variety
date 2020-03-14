@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:MorganiteeDust"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:MorganiteGem"
+    },
+    "smeltingXPReward": 3.0,
+    "smeltingRetstackSize": 1,
+    "name": "morganitrc",
+    "namespace": "mod"
+  }
+}

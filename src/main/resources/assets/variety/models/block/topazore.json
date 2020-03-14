@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "variety:blocks/topaz_ore",
-    "particle": "variety:blocks/topaz_ore"
+    "all": "variety:blocks/rudatopazu",
+    "particle": "variety:blocks/rudatopazu"
   }
 }

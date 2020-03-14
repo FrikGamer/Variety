@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "variety:blocks/rudamorganitu",
+    "particle": "variety:blocks/rudamorganitu"
+  }
+}

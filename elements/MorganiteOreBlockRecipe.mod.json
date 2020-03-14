@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:MorganiteOreBlock"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      },
+      {
+        "value": "CUSTOM:MorganiteGem"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "morganiteoreblockrecipe",
+    "namespace": "mod"
+  }
+}

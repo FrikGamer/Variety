@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:morganitegem"
+    },
+    "1": {
+      "item": "variety:morganitegem"
+    },
+    "2": {
+      "item": "variety:morganitegem"
+    },
+    "3": {
+      "item": "variety:morganitegem"
+    },
+    "4": {
+      "item": "variety:morganitegem"
+    },
+    "5": {
+      "item": "variety:morganitegem"
+    },
+    "6": {
+      "item": "variety:morganitegem"
+    },
+    "7": {
+      "item": "variety:morganitegem"
+    },
+    "8": {
+      "item": "variety:morganitegem"
+    }
+  },
+  "result": {
+    "item": "variety:morganiteoreblock",
+    "count": 1
+  }
+}

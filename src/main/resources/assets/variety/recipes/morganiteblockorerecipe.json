@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:morganiteoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:morganitegem",
+    "count": 9
+  }
+}
