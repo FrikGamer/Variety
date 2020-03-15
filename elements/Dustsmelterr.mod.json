@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:DustSmelter"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlatynaIngot"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "CUSTOM:PlatynaIngot"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Crusher"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:HematytIngot"
+      },
+      {
+        "value": "Blocks.FURNACE"
+      },
+      {
+        "value": "CUSTOM:HematytIngot"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "dustsmelterr",
+    "namespace": "mod"
+  }
+}

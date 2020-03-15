@@ -1,0 +1,19 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 0,
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:BiksbitOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BiksbitGem"
+    },
+    "smeltingXPReward": 5.0,
+    "smeltingRetstackSize": 1,
+    "name": "biksbitoresmelting",
+    "namespace": "mod"
+  }
+}

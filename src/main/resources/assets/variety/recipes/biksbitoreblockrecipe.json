@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:biksbitgem"
+    },
+    "1": {
+      "item": "variety:biksbitgem"
+    },
+    "2": {
+      "item": "variety:biksbitgem"
+    },
+    "3": {
+      "item": "variety:biksbitgem"
+    },
+    "4": {
+      "item": "variety:biksbitgem"
+    },
+    "5": {
+      "item": "variety:biksbitgem"
+    },
+    "6": {
+      "item": "variety:biksbitgem"
+    },
+    "7": {
+      "item": "variety:biksbitgem"
+    },
+    "8": {
+      "item": "variety:biksbitgem"
+    }
+  },
+  "result": {
+    "item": "variety:biksbitoreblock",
+    "count": 1
+  }
+}

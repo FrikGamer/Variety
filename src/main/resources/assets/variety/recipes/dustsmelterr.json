@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:platynaingot"
+    },
+    "1": {
+      "item": "minecraft:furnace"
+    },
+    "2": {
+      "item": "variety:platynaingot"
+    },
+    "3": {
+      "item": "minecraft:iron_block"
+    },
+    "4": {
+      "item": "variety:crusher"
+    },
+    "5": {
+      "item": "minecraft:iron_block"
+    },
+    "6": {
+      "item": "variety:hematytingot"
+    },
+    "7": {
+      "item": "minecraft:furnace"
+    },
+    "8": {
+      "item": "variety:hematytingot"
+    }
+  },
+  "result": {
+    "item": "variety:dustsmelter",
+    "count": 1
+  }
+}
