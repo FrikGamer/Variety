@@ -280,7 +280,7 @@ public class MCreatorDustsmeltergui extends Elementsvariety.ModElement {
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(int par1, int par2) {
-			this.fontRenderer.drawString("Dust Smelter", 7, 2, -10066330);
+			this.fontRenderer.drawString("Dust Smelter", 7, 11, -10066330);
 		}
 
 		@Override

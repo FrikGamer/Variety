@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "variety:blocks/tourmaline_ore_block",
+    "particle": "variety:blocks/tourmaline_ore_block"
+  }
+}

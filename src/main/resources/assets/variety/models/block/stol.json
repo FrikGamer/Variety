@@ -1,0 +1,9 @@
+{
+  "parent": "variety:custom/stol",
+  "textures": {
+    "all": "variety:blocks/planks_oak",
+    "particle": "variety:blocks/planks_oak",
+    "crafting_table_top": "variety:blocks/crafting_table_top",
+    "planks_oak": "variety:blocks/planks_oak"
+  }
+}

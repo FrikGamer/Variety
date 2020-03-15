@@ -1,6 +1,6 @@
 {
   "id_map": {
-    "GUI": 12
+    "GUI": 13
   },
   "mod_elements": [
     {
@@ -1805,34 +1805,6 @@
       "ids": {}
     },
     {
-      "name": "Dustsmelterpraca",
-      "type": "procedure",
-      "sortid": 241,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
       "name": "Agatrc",
       "type": "recipe",
       "sortid": 242,
@@ -2231,6 +2203,159 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Stol",
+      "type": "block",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Stolgui",
+      "type": "gui",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 13
+      }
+    },
+    {
+      "name": "Stolopengui",
+      "type": "procedure",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stolpraca",
+      "type": "procedure",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "TourmalineOre",
+      "type": "block",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TourmalineOreBlock",
+      "type": "block",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TourmalineGem",
+      "type": "item",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TourmalineOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TourmalineBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TourmalineOreSmelting",
+      "type": "recipe",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TourmalineeDust",
+      "type": "item",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RoundTourmaline",
+      "type": "item",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Dustsmelterpraca",
+      "type": "procedure",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2239,27 +2364,31 @@
     "pl_pl": {
       "item.agategem.name": "Agat",
       "item.ametystshovel.name": "Ametystowa £opata",
-      "item.roundsapphire.name": "Okr¹g³y Szafir",
       "item.magnetytgem.name": "Magnetyt",
+      "item.roundsapphire.name": "Okr¹g³y Szafir",
+      "tile.stol.name": "Stol",
       "item.proszekakwamarynu.name": "Proch Akwamarynu",
       "item.rubinowazbrojaboots.name": "Rubinowe Buty",
       "item.heliodorgem.name": "Heliodor",
       "item.agat.name": "Okr¹g³y Agat",
+      "item.tourmalinegem.name": "Tourmaline",
       "item.platynaingot.name": "Platyna",
-      "tile.heliodororeblock.name": "Blok Heliodoru",
       "item.akwamaryn.name": "Akwamaryn",
+      "tile.heliodororeblock.name": "Blok Heliodoru",
       "tile.magnetytoreblock.name": "Blok Magnetytu",
       "item.hematytpickaxe.name": "Hematytowy Kilof",
       "tile.hematytore.name": "Ruda Hematytu",
+      "tile.tourmalineore.name": "Tourmaline Ore",
       "tile.onyxore.name": "Ruda Onyksu",
       "item.ametystarmorhelmet.name": "Ametystowy He³m",
-      "item.morganiteedust.name": "Proch Morganitu",
       "item.nickelsword.name": "Niklowy Miecz",
+      "item.morganiteedust.name": "Proch Morganitu",
+      "tile.tourmalineoreblock.name": "Block of Tourmaline",
       "item.magnetytarmorbody.name": "Magnetytowy Napierœnik",
       "item.platynapickaxe.name": "Platynowy Kilof",
-      "item.magnetythoe.name": "Magnetytowa Motyka",
-      "item.emeraldowykilof.name": "Szmaragdowy Kilof",
       "item.ametystarmorlegs.name": "Ametystowe Nogawice",
+      "item.emeraldowykilof.name": "Szmaragdowy Kilof",
+      "item.magnetythoe.name": "Magnetytowa Motyka",
       "item.akwamarynowaarmorhelmet.name": "Akwamarynowy He³m",
       "item.emeraldowazbrojahelmet.name": "Szmaragdowy He³m",
       "item.hematytaxe.name": "Hematytowa Siekiera",
@@ -2303,6 +2432,7 @@
       "item.magnetytarmorboots.name": "Magnetytowe Buty",
       "tile.hematytoreblock.name": "Blok Hematytu",
       "tile.agateoreblock.name": "Blok Agatu",
+      "item.tourmalineedust.name": "Tourmalinee",
       "tile.agateore.name": "Ruda Agatu",
       "tile.crusher.name": "Rozdrabniarka",
       "item.morganitegem.name": "Morganit",
@@ -2318,6 +2448,7 @@
       "item.roundheliodor.name": "Okr¹g³y Heliodor",
       "tile.morganiteoreblock.name": "Blok Morganitu",
       "item.akwamarynoweaxe.name": "Akwamarynowa Siekiera",
+      "item.roundtourmaline.name": "Round Tourmaline",
       "tile.ametystore.name": "Ruda Ametystu",
       "item.roundemerald.name": "Okr¹g³y Emerald",
       "item.magnetytpickaxe.name": "Magnetytowy Kilof",
@@ -2382,27 +2513,31 @@
     "en_us": {
       "item.agategem.name": "Agate",
       "item.ametystshovel.name": "Ametyst Shovel",
-      "item.magnetytgem.name": "Magnetite",
       "item.roundsapphire.name": "Round Sapphire",
+      "item.magnetytgem.name": "Magnetite",
+      "tile.stol.name": "Jewelry table",
       "item.proszekakwamarynu.name": "Aquamarine Dust",
       "item.rubinowazbrojaboots.name": "Ruby Boots",
       "item.heliodorgem.name": "Heliodor",
       "item.agat.name": "Round Agate",
+      "item.tourmalinegem.name": "Tourmaline",
       "item.platynaingot.name": "Platinum",
-      "item.akwamaryn.name": "Akwamaryn",
       "tile.heliodororeblock.name": "Block of Heliodor",
+      "item.akwamaryn.name": "Akwamaryn",
       "tile.magnetytoreblock.name": "Block of Magnetite",
       "item.hematytpickaxe.name": "Hematytowy Kilof",
       "tile.hematytore.name": "Ruda Hematytu",
+      "tile.tourmalineore.name": "Tourmaline Ore",
       "item.ametystarmorhelmet.name": "Ametyst Helmet",
       "tile.onyxore.name": "Onyx Ore",
-      "item.nickelsword.name": "Nickel Sword",
       "item.morganiteedust.name": "Morganite",
+      "item.nickelsword.name": "Nickel Sword",
+      "tile.tourmalineoreblock.name": "Block of Tourmaline",
       "item.magnetytarmorbody.name": "Magnetite Chestplate",
       "item.platynapickaxe.name": "Platyna Pickaxe",
-      "item.ametystarmorlegs.name": "Ametyst Leggings",
-      "item.emeraldowykilof.name": "Emeraldowy Kilof",
       "item.magnetythoe.name": "Magnetyt Hoe",
+      "item.emeraldowykilof.name": "Emeraldowy Kilof",
+      "item.ametystarmorlegs.name": "Ametyst Leggings",
       "item.akwamarynowaarmorhelmet.name": "Aquamarine Helmet",
       "item.emeraldowazbrojahelmet.name": "Emerald Helmet",
       "item.hematytaxe.name": "Hematytite Axe",
@@ -2446,6 +2581,7 @@
       "item.magnetytarmorboots.name": "Magnetite Boots",
       "tile.hematytoreblock.name": "Block of Hematite",
       "tile.agateoreblock.name": "Block of Agate",
+      "item.tourmalineedust.name": "Tourmaline Dust",
       "tile.agateore.name": "Agate Ore",
       "tile.crusher.name": "Crusher",
       "item.morganitegem.name": "Morganite",
@@ -2461,6 +2597,7 @@
       "item.roundheliodor.name": "Round Heliodor",
       "tile.morganiteoreblock.name": "Block of Morganite",
       "item.akwamarynoweaxe.name": "Akwamarynowe Siekiera",
+      "item.roundtourmaline.name": "Round Tourmaline",
       "tile.ametystore.name": "Amethyst Ore",
       "item.roundemerald.name": "Round Emerald",
       "item.magnetytpickaxe.name": "Magnetyt Pickaxe",

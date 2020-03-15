@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:tourmalinegem"
+    },
+    "1": {
+      "item": "variety:tourmalinegem"
+    },
+    "2": {
+      "item": "variety:tourmalinegem"
+    },
+    "3": {
+      "item": "variety:tourmalinegem"
+    },
+    "4": {
+      "item": "variety:tourmalinegem"
+    },
+    "5": {
+      "item": "variety:tourmalinegem"
+    },
+    "6": {
+      "item": "variety:tourmalinegem"
+    },
+    "7": {
+      "item": "variety:tourmalinegem"
+    },
+    "8": {
+      "item": "variety:tourmalinegem"
+    }
+  },
+  "result": {
+    "item": "variety:tourmalineoreblock",
+    "count": 1
+  }
+}

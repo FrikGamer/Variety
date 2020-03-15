@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "crafting_table_top": "crafting_table_top",
+        "planks_oak": "planks_oak"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:tourmalineoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:tourmalinegem",
+    "count": 9
+  }
+}

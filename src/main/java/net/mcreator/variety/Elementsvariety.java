@@ -128,6 +128,8 @@ public class Elementsvariety implements IFuelHandler, IWorldGenerator {
 				return new MCreatorCrushergui.GuiContainerMod(world, x, y, z, player);
 			if (id == MCreatorDustsmeltergui.GUIID)
 				return new MCreatorDustsmeltergui.GuiContainerMod(world, x, y, z, player);
+			if (id == MCreatorStolgui.GUIID)
+				return new MCreatorStolgui.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
@@ -145,6 +147,8 @@ public class Elementsvariety implements IFuelHandler, IWorldGenerator {
 				return new MCreatorCrushergui.GuiWindow(world, x, y, z, player);
 			if (id == MCreatorDustsmeltergui.GUIID)
 				return new MCreatorDustsmeltergui.GuiWindow(world, x, y, z, player);
+			if (id == MCreatorStolgui.GUIID)
+				return new MCreatorStolgui.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}

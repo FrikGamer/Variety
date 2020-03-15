@@ -28,13 +28,13 @@ import java.util.HashMap;
 import java.io.IOException;
 
 @Elementsvariety.ModElement.Tag
-public class MCreatorCrushergui extends Elementsvariety.ModElement {
-	public static int GUIID = 11;
+public class MCreatorStolgui extends Elementsvariety.ModElement {
+	public static int GUIID = 13;
 	public static HashMap guiinventory = new HashMap();
 	public static IInventory inherited;
 
-	public MCreatorCrushergui(Elementsvariety instance) {
-		super(instance, 204);
+	public MCreatorStolgui(Elementsvariety instance) {
+		super(instance, 302);
 	}
 
 	@Override
@@ -55,32 +55,29 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 			this.y = y;
 			this.z = z;
 			TileEntity ent = world.getTileEntity(new BlockPos(x, y, z));
-			if (ent instanceof MCreatorCrusher.TileEntityCustom)
+			if (ent instanceof MCreatorStol.TileEntityCustom)
 				inherited = (IInventory) ent;
 			else
 				inherited = new InventoryBasic("", true, 9);
-			this.addSlotToContainer(new Slot(inherited, 0, 17, 21) {
+			this.addSlotToContainer(new Slot(inherited, 0, 26, 21) {
 			});
-			this.addSlotToContainer(new Slot(inherited, 1, 17, 57) {
+			this.addSlotToContainer(new Slot(inherited, 1, 26, 39) {
 			});
-			this.addSlotToContainer(new Slot(inherited, 2, 134, 39) {
-				@Override
-				public ItemStack onTake(EntityPlayer entity, ItemStack stack) {
-					ItemStack retval = super.onTake(entity, stack);
-					GuiContainerMod.this.slotChanged(2, 1, 0);
-					return retval;
-				}
-
-				@Override
-				public void onSlotChange(ItemStack a, ItemStack b) {
-					super.onSlotChange(a, b);
-					GuiContainerMod.this.slotChanged(2, 2, b.getCount() - a.getCount());
-				}
-
-				@Override
-				public boolean isItemValid(ItemStack stack) {
-					return false;
-				}
+			this.addSlotToContainer(new Slot(inherited, 2, 26, 57) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 3, 44, 21) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 4, 44, 39) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 5, 44, 57) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 6, 62, 21) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 7, 62, 39) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 8, 62, 57) {
+			});
+			this.addSlotToContainer(new Slot(inherited, 9, 134, 39) {
 			});
 			int si;
 			int sj;
@@ -103,18 +100,18 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 			if (slot != null && slot.getHasStack()) {
 				ItemStack itemstack1 = slot.getStack();
 				itemstack = itemstack1.copy();
-				if (index < 3) {
-					if (!this.mergeItemStack(itemstack1, 3, this.inventorySlots.size(), true)) {
+				if (index < 10) {
+					if (!this.mergeItemStack(itemstack1, 10, this.inventorySlots.size(), true)) {
 						return ItemStack.EMPTY;
 					}
 					slot.onSlotChange(itemstack1, itemstack);
-				} else if (!this.mergeItemStack(itemstack1, 0, 3, false)) {
-					if (index < 3 + 27) {
-						if (!this.mergeItemStack(itemstack1, 3 + 27, this.inventorySlots.size(), true)) {
+				} else if (!this.mergeItemStack(itemstack1, 0, 10, false)) {
+					if (index < 10 + 27) {
+						if (!this.mergeItemStack(itemstack1, 10 + 27, this.inventorySlots.size(), true)) {
 							return ItemStack.EMPTY;
 						}
 					} else {
-						if (!this.mergeItemStack(itemstack1, 3, 3 + 27, false)) {
+						if (!this.mergeItemStack(itemstack1, 10, 10 + 27, false)) {
 							return ItemStack.EMPTY;
 						}
 					}
@@ -242,7 +239,7 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 			this.xSize = 176;
 			this.ySize = 166;
 		}
-		private static final ResourceLocation texture = new ResourceLocation("variety:textures/crushergui.png");
+		private static final ResourceLocation texture = new ResourceLocation("variety:textures/stolgui.png");
 
 		@Override
 		public void drawScreen(int mouseX, int mouseY, float partialTicks) {
@@ -260,7 +257,7 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 			this.drawTexturedModalRect(k, l, 0, 0, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("variety:textures/strzalka.png"));
-			this.drawTexturedModalRect(this.guiLeft + 70, this.guiTop + 38, 0, 0, 256, 256);
+			this.drawTexturedModalRect(this.guiLeft + 88, this.guiTop + 38, 0, 0, 256, 256);
 		}
 
 		@Override
@@ -280,7 +277,7 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(int par1, int par2) {
-			this.fontRenderer.drawString("Crusher", 7, 11, -10066330);
+			this.fontRenderer.drawString("Jewelry table", 7, 11, -10066330);
 		}
 
 		@Override
@@ -420,20 +417,5 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 		// security measure to prevent arbitrary chunk generation
 		if (!world.isBlockLoaded(new BlockPos(x, y, z)))
 			return;
-		if (slotID == 2 && changeType == 1) {
-			{
-				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
-				$_dependencies.put("entity", entity);
-				MCreatorCrasherguixp.executeProcedure($_dependencies);
-			}
-		}
-		if (slotID == 2 && changeType == 2) {
-			int amount = meta;
-			{
-				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
-				$_dependencies.put("entity", entity);
-				MCreatorCrasherguixp.executeProcedure($_dependencies);
-			}
-		}
 	}
 }
