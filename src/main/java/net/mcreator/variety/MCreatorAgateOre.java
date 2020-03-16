@@ -29,7 +29,7 @@ public class MCreatorAgateOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorAgateOre(Elementsvariety instance) {
-		super(instance, 232);
+		super(instance, 17);
 	}
 
 	@Override

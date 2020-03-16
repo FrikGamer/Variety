@@ -22,7 +22,7 @@ public class MCreatorAmetystShovel extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAmetystShovel(Elementsvariety instance) {
-		super(instance, 167);
+		super(instance, 128);
 	}
 
 	@Override

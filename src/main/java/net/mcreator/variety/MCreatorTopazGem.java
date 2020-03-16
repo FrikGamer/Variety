@@ -18,7 +18,7 @@ public class MCreatorTopazGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorTopazGem(Elementsvariety instance) {
-		super(instance, 253);
+		super(instance, 61);
 	}
 
 	@Override

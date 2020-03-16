@@ -22,7 +22,7 @@ public class MCreatorHematytPickaxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHematytPickaxe(Elementsvariety instance) {
-		super(instance, 92);
+		super(instance, 114);
 	}
 
 	@Override

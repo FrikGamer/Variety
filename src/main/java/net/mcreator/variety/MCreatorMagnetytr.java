@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorMagnetytr extends Elementsvariety.ModElement {
 	public MCreatorMagnetytr(Elementsvariety instance) {
-		super(instance, 130);
+		super(instance, 201);
 	}
 
 	@Override

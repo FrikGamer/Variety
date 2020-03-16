@@ -22,7 +22,7 @@ public class MCreatorAkwamarynoweShovel extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAkwamarynoweShovel(Elementsvariety instance) {
-		super(instance, 68);
+		super(instance, 112);
 	}
 
 	@Override

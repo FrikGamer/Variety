@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorTopazrc extends Elementsvariety.ModElement {
 	public MCreatorTopazrc(Elementsvariety instance) {
-		super(instance, 260);
+		super(instance, 265);
 	}
 
 	@Override

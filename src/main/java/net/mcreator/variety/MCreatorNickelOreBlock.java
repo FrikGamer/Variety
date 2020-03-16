@@ -20,7 +20,7 @@ public class MCreatorNickelOreBlock extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorNickelOreBlock(Elementsvariety instance) {
-		super(instance, 180);
+		super(instance, 14);
 	}
 
 	@Override

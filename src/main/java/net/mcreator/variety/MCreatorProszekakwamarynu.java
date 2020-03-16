@@ -18,7 +18,7 @@ public class MCreatorProszekakwamarynu extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorProszekakwamarynu(Elementsvariety instance) {
-		super(instance, 76);
+		super(instance, 46);
 	}
 
 	@Override
@@ -38,7 +38,7 @@ public class MCreatorProszekakwamarynu extends Elementsvariety.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("proszekakwamarynu");
 			setRegistryName("proszekakwamarynu");
-			setCreativeTab(CreativeTabs.MATERIALS);
+			setCreativeTab(CreativeTabs.MISC);
 		}
 
 		@Override

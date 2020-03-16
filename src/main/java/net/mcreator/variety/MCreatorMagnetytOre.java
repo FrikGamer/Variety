@@ -32,7 +32,7 @@ public class MCreatorMagnetytOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMagnetytOre(Elementsvariety instance) {
-		super(instance, 109);
+		super(instance, 7);
 	}
 
 	@Override

@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorOnyxrc extends Elementsvariety.ModElement {
 	public MCreatorOnyxrc(Elementsvariety instance) {
-		super(instance, 221);
+		super(instance, 247);
 	}
 
 	@Override

@@ -42,7 +42,7 @@ public class MCreatorStol extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorStol(Elementsvariety instance) {
-		super(instance, 301);
+		super(instance, 37);
 	}
 
 	@Override
@@ -73,7 +73,7 @@ public class MCreatorStol extends Elementsvariety.ModElement {
 			setResistance(10F);
 			setLightLevel(0F);
 			setLightOpacity(0);
-			setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+			setCreativeTab(CreativeTabs.DECORATIONS);
 		}
 
 		@SideOnly(Side.CLIENT)

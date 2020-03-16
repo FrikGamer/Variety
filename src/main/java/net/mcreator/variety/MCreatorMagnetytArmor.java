@@ -26,7 +26,7 @@ public class MCreatorMagnetytArmor extends Elementsvariety.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorMagnetytArmor(Elementsvariety instance) {
-		super(instance, 125);
+		super(instance, 94);
 	}
 
 	@Override

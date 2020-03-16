@@ -26,7 +26,7 @@ public class MCreatorAmetystArmor extends Elementsvariety.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorAmetystArmor(Elementsvariety instance) {
-		super(instance, 174);
+		super(instance, 98);
 	}
 
 	@Override

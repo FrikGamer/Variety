@@ -27,7 +27,7 @@ public class MCreatorHematytHoe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHematytHoe(Elementsvariety instance) {
-		super(instance, 96);
+		super(instance, 117);
 	}
 
 	@Override

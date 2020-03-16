@@ -9,7 +9,7 @@ import net.minecraft.init.Items;
 @Elementsvariety.ModElement.Tag
 public class MCreatorProszekdiamentur extends Elementsvariety.ModElement {
 	public MCreatorProszekdiamentur(Elementsvariety instance) {
-		super(instance, 77);
+		super(instance, 169);
 	}
 
 	@Override

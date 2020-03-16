@@ -37,7 +37,7 @@ public class MCreatorBlokawamarynu extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorBlokawamarynu(Elementsvariety instance) {
-		super(instance, 64);
+		super(instance, 4);
 	}
 
 	@Override

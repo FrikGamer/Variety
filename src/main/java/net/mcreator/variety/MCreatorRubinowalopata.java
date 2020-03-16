@@ -22,7 +22,7 @@ public class MCreatorRubinowalopata extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRubinowalopata(Elementsvariety instance) {
-		super(instance, 39);
+		super(instance, 104);
 	}
 
 	@Override

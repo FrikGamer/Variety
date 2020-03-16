@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorBiksbitOreSmelting extends Elementsvariety.ModElement {
 	public MCreatorBiksbitOreSmelting(Elementsvariety instance) {
-		super(instance, 322);
+		super(instance, 286);
 	}
 
 	@Override

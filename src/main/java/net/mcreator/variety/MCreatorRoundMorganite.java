@@ -18,7 +18,7 @@ public class MCreatorRoundMorganite extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundMorganite(Elementsvariety instance) {
-		super(instance, 295);
+		super(instance, 72);
 	}
 
 	@Override

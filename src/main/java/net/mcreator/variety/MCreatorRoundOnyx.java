@@ -18,7 +18,7 @@ public class MCreatorRoundOnyx extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundOnyx(Elementsvariety instance) {
-		super(instance, 296);
+		super(instance, 55);
 	}
 
 	@Override

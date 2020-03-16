@@ -25,7 +25,7 @@ public class MCreatorHematytAxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHematytAxe(Elementsvariety instance) {
-		super(instance, 93);
+		super(instance, 115);
 	}
 
 	@Override

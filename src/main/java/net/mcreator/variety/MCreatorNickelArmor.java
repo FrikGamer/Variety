@@ -26,7 +26,7 @@ public class MCreatorNickelArmor extends Elementsvariety.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorNickelArmor(Elementsvariety instance) {
-		super(instance, 195);
+		super(instance, 100);
 	}
 
 	@Override

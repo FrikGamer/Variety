@@ -27,7 +27,7 @@ public class MCreatorAmetystSword extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAmetystSword(Elementsvariety instance) {
-		super(instance, 166);
+		super(instance, 97);
 	}
 
 	@Override

@@ -18,7 +18,7 @@ public class MCreatorSapphireGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorSapphireGem(Elementsvariety instance) {
-		super(instance, 245);
+		super(instance, 59);
 	}
 
 	@Override

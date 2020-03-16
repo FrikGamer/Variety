@@ -27,7 +27,7 @@ public class MCreatorHematytSword extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHematytSword(Elementsvariety instance) {
-		super(instance, 94);
+		super(instance, 91);
 	}
 
 	@Override

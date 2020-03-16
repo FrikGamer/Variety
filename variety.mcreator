@@ -6,7 +6,7 @@
     {
       "name": "Blokrubinu",
       "type": "block",
-      "sortid": 4,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -15,7 +15,7 @@
     {
       "name": "Rubin",
       "type": "item",
-      "sortid": 5,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -23,7 +23,7 @@
     {
       "name": "Rubinowazbroja",
       "type": "armor",
-      "sortid": 6,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -37,7 +37,7 @@
     {
       "name": "Rubinowyhelm",
       "type": "recipe",
-      "sortid": 7,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -45,7 +45,7 @@
     {
       "name": "Rubinowaklata",
       "type": "recipe",
-      "sortid": 8,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -53,7 +53,7 @@
     {
       "name": "Rubinowespodnie",
       "type": "recipe",
-      "sortid": 9,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -61,7 +61,7 @@
     {
       "name": "Rubinowebuty",
       "type": "recipe",
-      "sortid": 10,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -69,7 +69,7 @@
     {
       "name": "Blokrubinu1",
       "type": "block",
-      "sortid": 11,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -77,7 +77,7 @@
     {
       "name": "Blokrubinuc",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -85,7 +85,7 @@
     {
       "name": "Rubinzblok",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -93,7 +93,7 @@
     {
       "name": "Skplecakc",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -101,7 +101,7 @@
     {
       "name": "Skplecakgui",
       "type": "gui",
-      "sortid": 19,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -111,7 +111,7 @@
     {
       "name": "Zeplecakgui",
       "type": "gui",
-      "sortid": 24,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -121,7 +121,7 @@
     {
       "name": "Zlplecakgui",
       "type": "gui",
-      "sortid": 26,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -131,7 +131,7 @@
     {
       "name": "Zeplecakc",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -139,7 +139,7 @@
     {
       "name": "Zlplecakc",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -147,7 +147,7 @@
     {
       "name": "Dxplecakc",
       "type": "recipe",
-      "sortid": 33,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -155,7 +155,7 @@
     {
       "name": "Rubinowymiecz",
       "type": "tool",
-      "sortid": 34,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -163,7 +163,7 @@
     {
       "name": "Rubinowymieczan",
       "type": "tool",
-      "sortid": 35,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -171,7 +171,7 @@
     {
       "name": "Rubinowykilof",
       "type": "tool",
-      "sortid": 36,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -179,7 +179,7 @@
     {
       "name": "Rubinowasiekiera",
       "type": "tool",
-      "sortid": 37,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -187,7 +187,7 @@
     {
       "name": "Rubinowalopata",
       "type": "tool",
-      "sortid": 39,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -195,7 +195,7 @@
     {
       "name": "Rubinowamotyka",
       "type": "tool",
-      "sortid": 40,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -203,7 +203,7 @@
     {
       "name": "Emeraldowazbroja",
       "type": "armor",
-      "sortid": 41,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -217,7 +217,7 @@
     {
       "name": "Emeraldowykilof",
       "type": "tool",
-      "sortid": 42,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -225,7 +225,7 @@
     {
       "name": "Emeraldowasiekiera",
       "type": "tool",
-      "sortid": 43,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -233,7 +233,7 @@
     {
       "name": "Emeraldowalopata",
       "type": "tool",
-      "sortid": 44,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -241,7 +241,7 @@
     {
       "name": "Emeraldowamotyka",
       "type": "tool",
-      "sortid": 45,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -249,7 +249,7 @@
     {
       "name": "Dxplecakgui",
       "type": "gui",
-      "sortid": 46,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -259,7 +259,7 @@
     {
       "name": "Emeraldowymiecz",
       "type": "tool",
-      "sortid": 47,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -267,7 +267,7 @@
     {
       "name": "Emeraldowyhelmc",
       "type": "recipe",
-      "sortid": 48,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -275,7 +275,7 @@
     {
       "name": "Emeraldowynapiersnikc",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -283,7 +283,7 @@
     {
       "name": "Emeraldowymieczc",
       "type": "recipe",
-      "sortid": 50,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -291,7 +291,7 @@
     {
       "name": "Emeraldowespodniec",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -299,7 +299,7 @@
     {
       "name": "Emeraldowebutyc",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -307,7 +307,7 @@
     {
       "name": "Emeraldowykilofc",
       "type": "recipe",
-      "sortid": 51,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -315,7 +315,7 @@
     {
       "name": "Emeraldowasiekierac",
       "type": "recipe",
-      "sortid": 52,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -323,7 +323,7 @@
     {
       "name": "Emeraldowamotykac",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -331,7 +331,7 @@
     {
       "name": "Emeraldowalopatac",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -339,7 +339,7 @@
     {
       "name": "Rubinowymiecz1",
       "type": "tool",
-      "sortid": 54,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -347,7 +347,7 @@
     {
       "name": "Rubinowymieczc",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -355,7 +355,7 @@
     {
       "name": "Rubinr",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -363,7 +363,7 @@
     {
       "name": "Rubinowykilofr",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -371,7 +371,7 @@
     {
       "name": "Rubinowasiekierar",
       "type": "recipe",
-      "sortid": 58,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -379,7 +379,7 @@
     {
       "name": "Rubinowalopatar",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -387,7 +387,7 @@
     {
       "name": "Rubinowamotykar",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -395,7 +395,7 @@
     {
       "name": "Patyki",
       "type": "recipe",
-      "sortid": 61,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -403,7 +403,7 @@
     {
       "name": "Rudaakwamarynu",
       "type": "block",
-      "sortid": 62,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -411,7 +411,7 @@
     {
       "name": "Akwamaryn",
       "type": "item",
-      "sortid": 63,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -419,7 +419,7 @@
     {
       "name": "Blokawamarynu",
       "type": "block",
-      "sortid": 64,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -427,7 +427,7 @@
     {
       "name": "AkwamarynowePickaxe",
       "type": "tool",
-      "sortid": 65,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -435,7 +435,7 @@
     {
       "name": "AkwamarynoweAxe",
       "type": "tool",
-      "sortid": 66,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -443,7 +443,7 @@
     {
       "name": "AkwamarynoweSword",
       "type": "tool",
-      "sortid": 67,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -451,7 +451,7 @@
     {
       "name": "AkwamarynoweShovel",
       "type": "tool",
-      "sortid": 68,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -459,7 +459,7 @@
     {
       "name": "AkwamarynoweHoe",
       "type": "tool",
-      "sortid": 69,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -467,7 +467,7 @@
     {
       "name": "AkwamarynowePickaxeRecipe",
       "type": "recipe",
-      "sortid": 70,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -475,7 +475,7 @@
     {
       "name": "AkwamarynoweAxeRecipe",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -483,7 +483,7 @@
     {
       "name": "AkwamarynoweSwordRecipe",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -491,7 +491,7 @@
     {
       "name": "AkwamarynoweShovelRecipe",
       "type": "recipe",
-      "sortid": 73,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -499,7 +499,7 @@
     {
       "name": "AkwamarynoweHoeRecipe",
       "type": "recipe",
-      "sortid": 74,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -507,7 +507,7 @@
     {
       "name": "Proszekdiamentu",
       "type": "item",
-      "sortid": 75,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -515,7 +515,7 @@
     {
       "name": "Proszekakwamarynu",
       "type": "item",
-      "sortid": 76,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -523,7 +523,7 @@
     {
       "name": "Proszekdiamentur",
       "type": "recipe",
-      "sortid": 77,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -531,7 +531,7 @@
     {
       "name": "Proszekakwamarynur",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -539,7 +539,7 @@
     {
       "name": "AkwamarynowaArmor",
       "type": "armor",
-      "sortid": 79,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -553,7 +553,7 @@
     {
       "name": "AkwamarynowaArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 80,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -561,7 +561,7 @@
     {
       "name": "AkwamarynowaArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -569,7 +569,7 @@
     {
       "name": "AkwamarynowaArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -577,7 +577,7 @@
     {
       "name": "AkwamarynowaArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 83,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -585,7 +585,7 @@
     {
       "name": "Blokakwamarynu",
       "type": "recipe",
-      "sortid": 84,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -593,7 +593,7 @@
     {
       "name": "Akwamarynr",
       "type": "recipe",
-      "sortid": 85,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -601,7 +601,7 @@
     {
       "name": "HematytOre",
       "type": "block",
-      "sortid": 86,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -609,7 +609,7 @@
     {
       "name": "HematytOreBlock",
       "type": "block",
-      "sortid": 87,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -617,7 +617,7 @@
     {
       "name": "HematytIngot",
       "type": "item",
-      "sortid": 88,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -625,7 +625,7 @@
     {
       "name": "HematytOreBlockRecipe",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -633,7 +633,7 @@
     {
       "name": "HematytBlockOreRecipe",
       "type": "recipe",
-      "sortid": 90,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -641,7 +641,7 @@
     {
       "name": "HematytPickaxe",
       "type": "tool",
-      "sortid": 92,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -649,7 +649,7 @@
     {
       "name": "HematytAxe",
       "type": "tool",
-      "sortid": 93,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -657,7 +657,7 @@
     {
       "name": "HematytSword",
       "type": "tool",
-      "sortid": 94,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -665,7 +665,7 @@
     {
       "name": "HematytShovel",
       "type": "tool",
-      "sortid": 95,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -673,7 +673,7 @@
     {
       "name": "HematytHoe",
       "type": "tool",
-      "sortid": 96,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -681,7 +681,7 @@
     {
       "name": "HematytPickaxeRecipe",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -689,7 +689,7 @@
     {
       "name": "HematytAxeRecipe",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -697,7 +697,7 @@
     {
       "name": "HematytSwordRecipe",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -705,7 +705,7 @@
     {
       "name": "HematytShovelRecipe",
       "type": "recipe",
-      "sortid": 100,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -713,7 +713,7 @@
     {
       "name": "HematytHoeRecipe",
       "type": "recipe",
-      "sortid": 101,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -721,7 +721,7 @@
     {
       "name": "HematytArmor",
       "type": "armor",
-      "sortid": 102,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -735,7 +735,7 @@
     {
       "name": "HematytArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 103,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -743,7 +743,7 @@
     {
       "name": "HematytArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 104,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -751,7 +751,7 @@
     {
       "name": "HematytArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 105,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -759,7 +759,7 @@
     {
       "name": "HematytArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -767,7 +767,7 @@
     {
       "name": "Hematytr",
       "type": "recipe",
-      "sortid": 107,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -775,7 +775,7 @@
     {
       "name": "Zelazohr",
       "type": "recipe",
-      "sortid": 108,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -783,7 +783,7 @@
     {
       "name": "MagnetytOre",
       "type": "block",
-      "sortid": 109,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -791,7 +791,7 @@
     {
       "name": "MagnetytOreBlock",
       "type": "block",
-      "sortid": 110,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -799,7 +799,7 @@
     {
       "name": "MagnetytGem",
       "type": "item",
-      "sortid": 111,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -807,7 +807,7 @@
     {
       "name": "MagnetytOreBlockRecipe",
       "type": "recipe",
-      "sortid": 112,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -815,7 +815,7 @@
     {
       "name": "MagnetytBlockOreRecipe",
       "type": "recipe",
-      "sortid": 113,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -823,7 +823,7 @@
     {
       "name": "MagnetytPickaxe",
       "type": "tool",
-      "sortid": 115,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -831,7 +831,7 @@
     {
       "name": "MagnetytAxe",
       "type": "tool",
-      "sortid": 116,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -839,7 +839,7 @@
     {
       "name": "MagnetytSword",
       "type": "tool",
-      "sortid": 117,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -847,7 +847,7 @@
     {
       "name": "MagnetytShovel",
       "type": "tool",
-      "sortid": 118,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -855,7 +855,7 @@
     {
       "name": "MagnetytHoe",
       "type": "tool",
-      "sortid": 119,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -863,7 +863,7 @@
     {
       "name": "MagnetytPickaxeRecipe",
       "type": "recipe",
-      "sortid": 120,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -871,7 +871,7 @@
     {
       "name": "MagnetytAxeRecipe",
       "type": "recipe",
-      "sortid": 121,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -879,7 +879,7 @@
     {
       "name": "MagnetytSwordRecipe",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -887,7 +887,7 @@
     {
       "name": "MagnetytShovelRecipe",
       "type": "recipe",
-      "sortid": 123,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -895,7 +895,7 @@
     {
       "name": "MagnetytHoeRecipe",
       "type": "recipe",
-      "sortid": 124,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -903,7 +903,7 @@
     {
       "name": "MagnetytArmor",
       "type": "armor",
-      "sortid": 125,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -917,7 +917,7 @@
     {
       "name": "MagnetytArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 126,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -925,7 +925,7 @@
     {
       "name": "MagnetytArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 127,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -933,7 +933,7 @@
     {
       "name": "MagnetytArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 128,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -941,7 +941,7 @@
     {
       "name": "MagnetytArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 129,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -949,7 +949,7 @@
     {
       "name": "Magnetytr",
       "type": "recipe",
-      "sortid": 130,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -957,7 +957,7 @@
     {
       "name": "Zelazorm",
       "type": "recipe",
-      "sortid": 131,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -965,7 +965,7 @@
     {
       "name": "PlatynaOre",
       "type": "block",
-      "sortid": 132,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -973,7 +973,7 @@
     {
       "name": "PlatynaOreBlock",
       "type": "block",
-      "sortid": 133,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -981,7 +981,7 @@
     {
       "name": "PlatynaIngot",
       "type": "item",
-      "sortid": 134,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -989,7 +989,7 @@
     {
       "name": "PlatynaOreBlockRecipe",
       "type": "recipe",
-      "sortid": 135,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -997,7 +997,7 @@
     {
       "name": "PlatynaBlockOreRecipe",
       "type": "recipe",
-      "sortid": 136,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1005,7 +1005,7 @@
     {
       "name": "PlatynaPickaxe",
       "type": "tool",
-      "sortid": 138,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1013,7 +1013,7 @@
     {
       "name": "PlatynaAxe",
       "type": "tool",
-      "sortid": 139,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1021,7 +1021,7 @@
     {
       "name": "PlatynaSword",
       "type": "tool",
-      "sortid": 140,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1029,7 +1029,7 @@
     {
       "name": "PlatynaShovel",
       "type": "tool",
-      "sortid": 141,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1037,7 +1037,7 @@
     {
       "name": "PlatynaHoe",
       "type": "tool",
-      "sortid": 142,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1045,7 +1045,7 @@
     {
       "name": "PlatynaPickaxeRecipe",
       "type": "recipe",
-      "sortid": 143,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1053,7 +1053,7 @@
     {
       "name": "PlatynaAxeRecipe",
       "type": "recipe",
-      "sortid": 144,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1061,7 +1061,7 @@
     {
       "name": "PlatynaSwordRecipe",
       "type": "recipe",
-      "sortid": 145,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1069,7 +1069,7 @@
     {
       "name": "PlatynaShovelRecipe",
       "type": "recipe",
-      "sortid": 146,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1077,7 +1077,7 @@
     {
       "name": "PlatynaHoeRecipe",
       "type": "recipe",
-      "sortid": 147,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1085,7 +1085,7 @@
     {
       "name": "PlatynaArmor",
       "type": "armor",
-      "sortid": 148,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1099,7 +1099,7 @@
     {
       "name": "PlatynaArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 149,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1107,7 +1107,7 @@
     {
       "name": "PlatynaArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 150,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1115,7 +1115,7 @@
     {
       "name": "PlatynaArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 151,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1123,7 +1123,7 @@
     {
       "name": "PlatynaArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 152,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1131,7 +1131,7 @@
     {
       "name": "Platynar",
       "type": "recipe",
-      "sortid": 153,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1139,7 +1139,7 @@
     {
       "name": "AmetystOre",
       "type": "block",
-      "sortid": 158,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1147,7 +1147,7 @@
     {
       "name": "AmetystOreBlock",
       "type": "block",
-      "sortid": 159,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1155,7 +1155,7 @@
     {
       "name": "AmetystGem",
       "type": "item",
-      "sortid": 160,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1163,7 +1163,7 @@
     {
       "name": "AmetystOreBlockRecipe",
       "type": "recipe",
-      "sortid": 161,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1171,7 +1171,7 @@
     {
       "name": "AmetystBlockOreRecipe",
       "type": "recipe",
-      "sortid": 162,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1179,7 +1179,7 @@
     {
       "name": "AmetystOreSmelting",
       "type": "recipe",
-      "sortid": 163,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1187,7 +1187,7 @@
     {
       "name": "AmetystPickaxe",
       "type": "tool",
-      "sortid": 164,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1195,7 +1195,7 @@
     {
       "name": "AmetystAxe",
       "type": "tool",
-      "sortid": 165,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1203,7 +1203,7 @@
     {
       "name": "AmetystSword",
       "type": "tool",
-      "sortid": 166,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1211,7 +1211,7 @@
     {
       "name": "AmetystShovel",
       "type": "tool",
-      "sortid": 167,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1219,7 +1219,7 @@
     {
       "name": "AmetystHoe",
       "type": "tool",
-      "sortid": 168,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1227,7 +1227,7 @@
     {
       "name": "AmetystPickaxeRecipe",
       "type": "recipe",
-      "sortid": 169,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1235,7 +1235,7 @@
     {
       "name": "AmetystAxeRecipe",
       "type": "recipe",
-      "sortid": 170,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1243,7 +1243,7 @@
     {
       "name": "AmetystSwordRecipe",
       "type": "recipe",
-      "sortid": 171,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1251,7 +1251,7 @@
     {
       "name": "AmetystShovelRecipe",
       "type": "recipe",
-      "sortid": 172,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1259,7 +1259,7 @@
     {
       "name": "AmetystHoeRecipe",
       "type": "recipe",
-      "sortid": 173,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1267,7 +1267,7 @@
     {
       "name": "AmetystArmor",
       "type": "armor",
-      "sortid": 174,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1281,7 +1281,7 @@
     {
       "name": "AmetystArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 175,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1289,7 +1289,7 @@
     {
       "name": "AmetystArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 176,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1297,7 +1297,7 @@
     {
       "name": "AmetystArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 177,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1305,7 +1305,7 @@
     {
       "name": "AmetystArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 178,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1313,7 +1313,7 @@
     {
       "name": "NickelOre",
       "type": "block",
-      "sortid": 179,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1321,7 +1321,7 @@
     {
       "name": "NickelOreBlock",
       "type": "block",
-      "sortid": 180,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1329,7 +1329,7 @@
     {
       "name": "NickelIngot",
       "type": "item",
-      "sortid": 181,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1337,7 +1337,7 @@
     {
       "name": "NickelOreBlockRecipe",
       "type": "recipe",
-      "sortid": 182,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1345,7 +1345,7 @@
     {
       "name": "NickelBlockOreRecipe",
       "type": "recipe",
-      "sortid": 183,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1353,7 +1353,7 @@
     {
       "name": "NickelOreSmelting",
       "type": "recipe",
-      "sortid": 184,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1361,7 +1361,7 @@
     {
       "name": "NickelPickaxe",
       "type": "tool",
-      "sortid": 185,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1369,7 +1369,7 @@
     {
       "name": "NickelAxe",
       "type": "tool",
-      "sortid": 186,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1377,7 +1377,7 @@
     {
       "name": "NickelSword",
       "type": "tool",
-      "sortid": 187,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1385,7 +1385,7 @@
     {
       "name": "NickelShovel",
       "type": "tool",
-      "sortid": 188,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1393,7 +1393,7 @@
     {
       "name": "NickelHoe",
       "type": "tool",
-      "sortid": 189,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1401,7 +1401,7 @@
     {
       "name": "NickelPickaxeRecipe",
       "type": "recipe",
-      "sortid": 190,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1409,7 +1409,7 @@
     {
       "name": "NickelAxeRecipe",
       "type": "recipe",
-      "sortid": 191,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1417,7 +1417,7 @@
     {
       "name": "NickelSwordRecipe",
       "type": "recipe",
-      "sortid": 192,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1425,7 +1425,7 @@
     {
       "name": "NickelShovelRecipe",
       "type": "recipe",
-      "sortid": 193,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1433,7 +1433,7 @@
     {
       "name": "NickelHoeRecipe",
       "type": "recipe",
-      "sortid": 194,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1441,7 +1441,7 @@
     {
       "name": "NickelArmor",
       "type": "armor",
-      "sortid": 195,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1455,7 +1455,7 @@
     {
       "name": "NickelArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 196,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1463,7 +1463,7 @@
     {
       "name": "NickelArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 197,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1471,7 +1471,7 @@
     {
       "name": "NickelArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 198,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1479,7 +1479,7 @@
     {
       "name": "NickelArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 199,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1487,7 +1487,7 @@
     {
       "name": "Akwamatynr",
       "type": "recipe",
-      "sortid": 200,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1495,7 +1495,7 @@
     {
       "name": "Crusher",
       "type": "block",
-      "sortid": 202,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1503,7 +1503,7 @@
     {
       "name": "Crushergui",
       "type": "gui",
-      "sortid": 204,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -1513,7 +1513,7 @@
     {
       "name": "Crasheropengui",
       "type": "procedure",
-      "sortid": 205,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1545,7 +1545,7 @@
     {
       "name": "Crasherguixp",
       "type": "procedure",
-      "sortid": 206,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1561,7 +1561,7 @@
     {
       "name": "EmeraldDust",
       "type": "item",
-      "sortid": 210,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1569,7 +1569,7 @@
     {
       "name": "Crusherpraca",
       "type": "procedure",
-      "sortid": 211,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1597,7 +1597,7 @@
     {
       "name": "OnyxOre",
       "type": "block",
-      "sortid": 212,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1605,7 +1605,7 @@
     {
       "name": "OnyxOreBlock",
       "type": "block",
-      "sortid": 213,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1613,7 +1613,7 @@
     {
       "name": "OnyxGem",
       "type": "item",
-      "sortid": 214,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1621,7 +1621,7 @@
     {
       "name": "OnyxOreBlockRecipe",
       "type": "recipe",
-      "sortid": 215,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1629,7 +1629,7 @@
     {
       "name": "OnyxBlockOreRecipe",
       "type": "recipe",
-      "sortid": 216,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1637,7 +1637,7 @@
     {
       "name": "OnyxOreSmelting",
       "type": "recipe",
-      "sortid": 217,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1645,7 +1645,7 @@
     {
       "name": "OnyxxDust",
       "type": "item",
-      "sortid": 220,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1653,7 +1653,7 @@
     {
       "name": "Onyxrc",
       "type": "recipe",
-      "sortid": 221,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1661,7 +1661,7 @@
     {
       "name": "Emeraldrc",
       "type": "recipe",
-      "sortid": 222,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1669,7 +1669,7 @@
     {
       "name": "DustSmelter",
       "type": "block",
-      "sortid": 223,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1677,7 +1677,7 @@
     {
       "name": "Dustsmeltergui",
       "type": "gui",
-      "sortid": 224,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -1687,7 +1687,7 @@
     {
       "name": "DustSmelteropengui",
       "type": "procedure",
-      "sortid": 225,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1719,7 +1719,7 @@
     {
       "name": "RubyDust",
       "type": "item",
-      "sortid": 228,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1727,7 +1727,7 @@
     {
       "name": "Crusherr",
       "type": "recipe",
-      "sortid": 229,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1735,7 +1735,7 @@
     {
       "name": "Rubydustrc",
       "type": "recipe",
-      "sortid": 230,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1743,7 +1743,7 @@
     {
       "name": "Emeralddustrc",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1751,7 +1751,7 @@
     {
       "name": "AgateOre",
       "type": "block",
-      "sortid": 232,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1759,7 +1759,7 @@
     {
       "name": "AgateOreBlock",
       "type": "block",
-      "sortid": 233,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1767,7 +1767,7 @@
     {
       "name": "AgateGem",
       "type": "item",
-      "sortid": 234,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1775,7 +1775,7 @@
     {
       "name": "AgateOreBlockRecipe",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1783,7 +1783,7 @@
     {
       "name": "AgateBlockOreRecipe",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1791,7 +1791,7 @@
     {
       "name": "AgateOreSmelting",
       "type": "recipe",
-      "sortid": 237,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1799,7 +1799,7 @@
     {
       "name": "AgatetDust",
       "type": "item",
-      "sortid": 240,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1807,7 +1807,7 @@
     {
       "name": "Agatrc",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1815,7 +1815,7 @@
     {
       "name": "SapphireOre",
       "type": "block",
-      "sortid": 243,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1823,7 +1823,7 @@
     {
       "name": "SapphireOreBlock",
       "type": "block",
-      "sortid": 244,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1831,7 +1831,7 @@
     {
       "name": "SapphireGem",
       "type": "item",
-      "sortid": 245,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1839,7 +1839,7 @@
     {
       "name": "SapphireOreBlockRecipe",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1847,7 +1847,7 @@
     {
       "name": "SapphireBlockOreRecipe",
       "type": "recipe",
-      "sortid": 247,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1855,7 +1855,7 @@
     {
       "name": "SapphireOreSmelting",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1863,7 +1863,7 @@
     {
       "name": "SapphireDust",
       "type": "item",
-      "sortid": 249,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1871,7 +1871,7 @@
     {
       "name": "Sapphirerc",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1879,7 +1879,7 @@
     {
       "name": "TopazOre",
       "type": "block",
-      "sortid": 251,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1887,7 +1887,7 @@
     {
       "name": "TopazOreBlock",
       "type": "block",
-      "sortid": 252,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1895,7 +1895,7 @@
     {
       "name": "TopazGem",
       "type": "item",
-      "sortid": 253,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1903,7 +1903,7 @@
     {
       "name": "TopazOreBlockRecipe",
       "type": "recipe",
-      "sortid": 254,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1911,7 +1911,7 @@
     {
       "name": "TopazBlockOreRecipe",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1919,7 +1919,7 @@
     {
       "name": "TopazOreSmelting",
       "type": "recipe",
-      "sortid": 256,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1927,7 +1927,7 @@
     {
       "name": "TopazzDust",
       "type": "item",
-      "sortid": 259,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1935,7 +1935,7 @@
     {
       "name": "Topazrc",
       "type": "recipe",
-      "sortid": 260,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1943,7 +1943,7 @@
     {
       "name": "AlexandriteOre",
       "type": "block",
-      "sortid": 261,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1951,7 +1951,7 @@
     {
       "name": "AlexandriteOreBlock",
       "type": "block",
-      "sortid": 262,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1959,7 +1959,7 @@
     {
       "name": "AlexandriteGem",
       "type": "item",
-      "sortid": 263,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1967,7 +1967,7 @@
     {
       "name": "AlexandriteOreBlockRecipe",
       "type": "recipe",
-      "sortid": 264,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1975,7 +1975,7 @@
     {
       "name": "AlexandriteBlockOreRecipe",
       "type": "recipe",
-      "sortid": 265,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1983,7 +1983,7 @@
     {
       "name": "AlexandriteOreSmelting",
       "type": "recipe",
-      "sortid": 266,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1991,7 +1991,7 @@
     {
       "name": "AlexandriteeDust",
       "type": "item",
-      "sortid": 269,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1999,7 +1999,7 @@
     {
       "name": "HeliodorOre",
       "type": "block",
-      "sortid": 270,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2007,7 +2007,7 @@
     {
       "name": "HeliodorOreBlock",
       "type": "block",
-      "sortid": 271,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2015,7 +2015,7 @@
     {
       "name": "HeliodorGem",
       "type": "item",
-      "sortid": 272,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2023,7 +2023,7 @@
     {
       "name": "HeliodorOreBlockRecipe",
       "type": "recipe",
-      "sortid": 273,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2031,7 +2031,7 @@
     {
       "name": "HeliodorBlockOreRecipe",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2039,7 +2039,7 @@
     {
       "name": "HeliodorOreSmelting",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2047,7 +2047,7 @@
     {
       "name": "HeliodorrDust",
       "type": "item",
-      "sortid": 278,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2055,7 +2055,7 @@
     {
       "name": "MorganiteOre",
       "type": "block",
-      "sortid": 279,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2063,7 +2063,7 @@
     {
       "name": "MorganiteOreBlock",
       "type": "block",
-      "sortid": 280,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2071,7 +2071,7 @@
     {
       "name": "MorganiteGem",
       "type": "item",
-      "sortid": 281,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2079,7 +2079,7 @@
     {
       "name": "MorganiteOreBlockRecipe",
       "type": "recipe",
-      "sortid": 282,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2087,7 +2087,7 @@
     {
       "name": "MorganiteBlockOreRecipe",
       "type": "recipe",
-      "sortid": 283,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2095,7 +2095,7 @@
     {
       "name": "MorganiteOreSmelting",
       "type": "recipe",
-      "sortid": 284,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2103,7 +2103,7 @@
     {
       "name": "MorganiteeDust",
       "type": "item",
-      "sortid": 287,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2111,7 +2111,7 @@
     {
       "name": "Morganitrc",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2119,7 +2119,7 @@
     {
       "name": "Agat",
       "type": "item",
-      "sortid": 289,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2127,7 +2127,7 @@
     {
       "name": "Roundalexandrite",
       "type": "item",
-      "sortid": 290,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2135,7 +2135,7 @@
     {
       "name": "Rounddiamond",
       "type": "item",
-      "sortid": 292,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2143,7 +2143,7 @@
     {
       "name": "RoundEmerald",
       "type": "item",
-      "sortid": 293,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2151,7 +2151,7 @@
     {
       "name": "RoundHeliodor",
       "type": "item",
-      "sortid": 294,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2159,7 +2159,7 @@
     {
       "name": "RoundMorganite",
       "type": "item",
-      "sortid": 295,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2167,7 +2167,7 @@
     {
       "name": "RoundOnyx",
       "type": "item",
-      "sortid": 296,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2175,7 +2175,7 @@
     {
       "name": "RoundRuby",
       "type": "item",
-      "sortid": 297,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2183,7 +2183,7 @@
     {
       "name": "RoundSapphire",
       "type": "item",
-      "sortid": 298,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2191,7 +2191,7 @@
     {
       "name": "RoundTopaz",
       "type": "item",
-      "sortid": 299,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2199,7 +2199,7 @@
     {
       "name": "RoundAquamarine",
       "type": "item",
-      "sortid": 300,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2207,7 +2207,7 @@
     {
       "name": "Stol",
       "type": "block",
-      "sortid": 301,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2215,7 +2215,7 @@
     {
       "name": "Stolgui",
       "type": "gui",
-      "sortid": 302,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "ids": {
@@ -2225,7 +2225,7 @@
     {
       "name": "Stolopengui",
       "type": "procedure",
-      "sortid": 303,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2257,7 +2257,7 @@
     {
       "name": "Stolpraca",
       "type": "procedure",
-      "sortid": 304,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2268,7 +2268,7 @@
     {
       "name": "TourmalineOre",
       "type": "block",
-      "sortid": 305,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2276,7 +2276,7 @@
     {
       "name": "TourmalineOreBlock",
       "type": "block",
-      "sortid": 306,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2284,7 +2284,7 @@
     {
       "name": "TourmalineGem",
       "type": "item",
-      "sortid": 307,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2292,7 +2292,7 @@
     {
       "name": "TourmalineOreBlockRecipe",
       "type": "recipe",
-      "sortid": 308,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2300,7 +2300,7 @@
     {
       "name": "TourmalineBlockOreRecipe",
       "type": "recipe",
-      "sortid": 309,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2308,7 +2308,7 @@
     {
       "name": "TourmalineOreSmelting",
       "type": "recipe",
-      "sortid": 310,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2316,7 +2316,7 @@
     {
       "name": "TourmalineeDust",
       "type": "item",
-      "sortid": 313,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2324,7 +2324,7 @@
     {
       "name": "RoundTourmaline",
       "type": "item",
-      "sortid": 314,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2332,18 +2332,35 @@
     {
       "name": "Dustsmelterpraca",
       "type": "procedure",
-      "sortid": 315,
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "metadata": {
-        "dependencies": []
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
       }
     },
     {
       "name": "Dustsmelterr",
       "type": "recipe",
-      "sortid": 316,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2351,7 +2368,7 @@
     {
       "name": "BiksbitOre",
       "type": "block",
-      "sortid": 317,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2359,7 +2376,7 @@
     {
       "name": "BiksbitOreBlock",
       "type": "block",
-      "sortid": 318,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2367,7 +2384,7 @@
     {
       "name": "BiksbitGem",
       "type": "item",
-      "sortid": 319,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2375,7 +2392,7 @@
     {
       "name": "BiksbitOreBlockRecipe",
       "type": "recipe",
-      "sortid": 320,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2383,7 +2400,7 @@
     {
       "name": "BiksbitBlockOreRecipe",
       "type": "recipe",
-      "sortid": 321,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2391,7 +2408,7 @@
     {
       "name": "BiksbitOreSmelting",
       "type": "recipe",
-      "sortid": 322,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2399,7 +2416,7 @@
     {
       "name": "BiksbittDust",
       "type": "item",
-      "sortid": 325,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2407,7 +2424,7 @@
     {
       "name": "Turmalinrc",
       "type": "recipe",
-      "sortid": 326,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2415,7 +2432,7 @@
     {
       "name": "Biksbitrc",
       "type": "recipe",
-      "sortid": 327,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2423,7 +2440,79 @@
     {
       "name": "RoundBiksbit",
       "type": "item",
-      "sortid": 328,
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoshenittOre",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoshenittOreBlock",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoshenittGem",
+      "type": "item",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoshenittOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoshenittBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoshenittOreSmelting",
+      "type": "recipe",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoshenitttDust",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Goshenitrc",
+      "type": "recipe",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RoundGoshenite",
+      "type": "item",
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2476,6 +2565,7 @@
       "tile.magnetytore.name": "Ruda Magnetytu",
       "tile.alexandriteore.name": "Ruda Aleksandrytu",
       "item.heliodorrdust.name": "Proch Heliodoru",
+      "item.goshenitttdust.name": "Goshenittt",
       "item.magnetytarmorhelmet.name": "Magnetyt Helmet",
       "item.emeraldowamotyka.name": "Szmaragdowa Motyka",
       "item.magnetytsword.name": "Magnetytowy Miecz",
@@ -2518,6 +2608,7 @@
       "item.hematytarmorhelmet.name": "Hematytowy He³m",
       "item.roundheliodor.name": "Okr¹g³y Heliodor",
       "tile.morganiteoreblock.name": "Blok Morganitu",
+      "item.roundgoshenite.name": "Round Goshenite",
       "item.akwamarynoweaxe.name": "Akwamarynowa Siekiera",
       "item.roundtourmaline.name": "Round Tourmaline",
       "tile.ametystore.name": "Ruda Ametystu",
@@ -2532,6 +2623,7 @@
       "item.sapphiredust.name": "Proch Szafiru",
       "tile.platynaore.name": "Ruda Platyny",
       "item.nickelarmorlegs.name": "Niklowe Nogawice",
+      "tile.goshenittore.name": "Goshenitt Ore",
       "tile.platynaoreblock.name": "Blok Platyny",
       "item.hematytingot.name": "Hematyt",
       "tile.biksbitoreblock.name": "Block of Biksbit",
@@ -2539,9 +2631,11 @@
       "item.hematytarmorbody.name": "Hematytowy Napierœnik",
       "tile.nickelore.name": "Ruda Niklu",
       "item.hematytarmorboots.name": "Hematytowe Buty",
+      "tile.goshenittoreblock.name": "Block of Goshenitt",
       "tile.topazoreblock.name": "Blok Topazu",
       "tile.heliodorore.name": "Ruda Heliodoru",
       "tile.alexandriteoreblock.name": "Blok Aleksandrytu",
+      "item.goshenittgem.name": "Goshenitt",
       "tile.nickeloreblock.name": "Blok Niklu",
       "item.rubinowymiecz.name": "Rubinowy Miecz",
       "tile.blokawamarynu.name": "Blok Akwamarynu",
@@ -2590,17 +2684,17 @@
       "item.agategem.name": "Agate",
       "item.ametystshovel.name": "Ametyst Shovel",
       "item.roundsapphire.name": "Round Sapphire",
-      "item.magnetytgem.name": "Magnetite",
+      "item.magnetytgem.name": "Magnetyt",
       "tile.stol.name": "Jewelry table",
-      "item.proszekakwamarynu.name": "Aquamarine Dust",
-      "item.rubinowazbrojaboots.name": "Ruby Boots",
+      "item.proszekakwamarynu.name": "Proszek Akwamarynu",
+      "item.rubinowazbrojaboots.name": "Rubinowe buty",
       "item.heliodorgem.name": "Heliodor",
       "item.agat.name": "Round Agate",
       "item.tourmalinegem.name": "Tourmaline",
-      "item.platynaingot.name": "Platinum",
+      "item.platynaingot.name": "Platyna",
       "item.akwamaryn.name": "Akwamaryn",
       "tile.heliodororeblock.name": "Block of Heliodor",
-      "tile.magnetytoreblock.name": "Block of Magnetite",
+      "tile.magnetytoreblock.name": "Block of Magnetyt",
       "item.hematytpickaxe.name": "Hematytowy Kilof",
       "tile.hematytore.name": "Ruda Hematytu",
       "tile.tourmalineore.name": "Tourmaline Ore",
@@ -2609,106 +2703,111 @@
       "item.nickelsword.name": "Nickel Sword",
       "item.morganiteedust.name": "Morganite",
       "tile.tourmalineoreblock.name": "Block of Tourmaline",
-      "item.magnetytarmorbody.name": "Magnetite Chestplate",
+      "item.magnetytarmorbody.name": "Magnetyt Chestplate",
       "item.platynapickaxe.name": "Platyna Pickaxe",
       "item.magnetythoe.name": "Magnetyt Hoe",
       "item.emeraldowykilof.name": "Emeraldowy Kilof",
       "item.ametystarmorlegs.name": "Ametyst Leggings",
-      "item.akwamarynowaarmorhelmet.name": "Aquamarine Helmet",
-      "item.emeraldowazbrojahelmet.name": "Emerald Helmet",
-      "item.hematytaxe.name": "Hematytite Axe",
-      "item.magnetytshovel.name": "Magnetite Shovel",
+      "item.akwamarynowaarmorhelmet.name": "Akwamarynowy He³m",
+      "item.emeraldowazbrojahelmet.name": "Emeraldowy he³m",
+      "item.hematytaxe.name": "Hematytowa Siekiera",
+      "item.magnetytshovel.name": "Magnetyt Shovel",
       "item.rubinowykilof.name": "Rubinowy kilof",
-      "item.platynaarmorboots.name": "Platinum Boots",
-      "item.rubydust.name": "Ruby Dust",
-      "tile.blokrubinu1.name": "Block of Ruby",
+      "item.platynaarmorboots.name": "Platyna Boots",
+      "item.rubydust.name": "Ruby",
+      "tile.blokrubinu1.name": "Blok Rubinu",
       "item.roundmorganite.name": "Round Morganite",
       "item.nickelingot.name": "Nickel",
       "item.rubinowasiekiera.name": "Rubinowa siekiera",
       "item.ametystarmorboots.name": "Ametyst Boots",
       "item.rubinowamotyka.name": "Rubinowamotyka",
-      "tile.magnetytore.name": "Magnetite Ore",
+      "tile.magnetytore.name": "Magnetyt Ore",
       "tile.alexandriteore.name": "Alexandrite Ore",
       "item.heliodorrdust.name": "Heliodor Dust",
-      "item.magnetytarmorhelmet.name": "Magnetite Helmet",
+      "item.goshenitttdust.name": "Goshenittt",
+      "item.magnetytarmorhelmet.name": "Magnetyt Helmet",
       "item.emeraldowamotyka.name": "Emeraldowa motyka",
-      "item.magnetytsword.name": "Magnetite Sword",
-      "item.agatetdust.name": "Agate Dust",
-      "tile.ametystoreblock.name": "Block of Amethyst",
+      "item.magnetytsword.name": "Magnetyt Sword",
+      "item.agatetdust.name": "Agatet",
+      "tile.ametystoreblock.name": "Block of Ametyst",
       "item.nickelarmorhelmet.name": "Nickel Helmet",
       "item.alexandriteedust.name": "Alexandrite Dust",
       "item.alexandritegem.name": "Alexandrite",
       "item.platynasword.name": "Platyna Sword",
-      "item.platynaarmorbody.name": "Platinum Chestplate",
+      "item.platynaarmorbody.name": "Platyna Chestplate",
       "item.platynashovel.name": "Platyna Shovel",
       "item.nickelarmorboots.name": "Nickel Boots",
-      "item.emeraldowazbrojabody.name": "Emerald Chestplate",
+      "item.emeraldowazbrojabody.name": "Emeraldowy napierœnik",
       "tile.rudaakwamarynu.name": "Ruda Akwamarynu",
       "item.akwamarynowepickaxe.name": "Akwamarynowy Kilof",
-      "item.rubinowymiecz1.name": "Ruby Sword",
+      "item.rubinowymiecz1.name": "Rubinowy miecz",
       "item.roundruby.name": "Round Ruby",
       "item.nickelpickaxe.name": "Nickel Pickaxe",
-      "item.rubinowymieczan.name": "Sword",
-      "item.magnetytarmorlegs.name": "Magnetite Leggings",
+      "item.rubinowymieczan.name": "Rubinowy miecz",
+      "item.magnetytarmorlegs.name": "Magnetyt Leggings",
       "item.akwamarynowehoe.name": "Akwamarynowe Motyka",
-      "item.hematytshovel.name": "Hematytite Shovel",
-      "item.akwamarynowaarmorlegs.name": "Aquamarine leggings",
-      "item.ametystgem.name": "Amethyst",
-      "item.magnetytarmorboots.name": "Magnetite Boots",
-      "tile.hematytoreblock.name": "Block of Hematite",
+      "item.hematytshovel.name": "Hematytowa £opata",
+      "item.akwamarynowaarmorlegs.name": "Akwamarynowe Nogawice",
+      "item.ametystgem.name": "Ametyst",
+      "item.magnetytarmorboots.name": "Magnetyt Boots",
+      "tile.hematytoreblock.name": "Block of Hematyt",
       "tile.agateoreblock.name": "Block of Agate",
       "item.tourmalineedust.name": "Tourmaline Dust",
       "tile.agateore.name": "Agate Ore",
       "tile.crusher.name": "Crusher",
       "item.morganitegem.name": "Morganite",
-      "item.proszekdiamentu.name": "Diamond Dust",
+      "item.proszekdiamentu.name": "Proszek Diamentu",
       "item.onyxgem.name": "Onyx",
       "tile.sapphireore.name": "Sapphire Ore",
-      "item.akwamarynowaarmorboots.name": "Aquamarine Boots",
+      "item.akwamarynowaarmorboots.name": "Akwamarynowe Buty",
       "item.akwamarynowesword.name": "Akwamarynowe Miecz",
-      "item.onyxxdust.name": "Onyx Dust",
-      "item.emeraldowazbrojalegs.name": "Emerald Leggings",
-      "item.magnetytaxe.name": "Magnetite Axe",
-      "item.hematytarmorhelmet.name": "Hematytite Helmet",
+      "item.onyxxdust.name": "Onyxx",
+      "item.emeraldowazbrojalegs.name": "Emeraldowe nogawice",
+      "item.magnetytaxe.name": "Magnetyt Axe",
+      "item.hematytarmorhelmet.name": "Hematytowy He³m",
       "item.roundheliodor.name": "Round Heliodor",
       "tile.morganiteoreblock.name": "Block of Morganite",
+      "item.roundgoshenite.name": "Round Goshenite",
       "item.akwamarynoweaxe.name": "Akwamarynowe Siekiera",
       "item.roundtourmaline.name": "Round Tourmaline",
-      "tile.ametystore.name": "Amethyst Ore",
+      "tile.ametystore.name": "Ametyst Ore",
       "item.roundemerald.name": "Round Emerald",
       "item.biksbitgem.name": "Biksbit",
       "item.magnetytpickaxe.name": "Magnetyt Pickaxe",
       "item.topazzdust.name": "Topaz Dust",
       "tile.dustsmelter.name": "Dust Smelter",
       "item.platynaaxe.name": "Platyna Axe",
-      "item.platynaarmorlegs.name": "Platinum Leggings",
+      "item.platynaarmorlegs.name": "Platyna Leggings",
       "item.roundonyx.name": "Round Onyx",
       "item.sapphiredust.name": "Sapphire Dust",
       "tile.platynaore.name": "Platyna Ore",
       "item.nickelarmorlegs.name": "Nickel Leggings",
-      "tile.platynaoreblock.name": "Block of Platinum",
-      "item.hematytingot.name": "Hematite",
+      "tile.goshenittore.name": "Goshenitt Ore",
+      "tile.platynaoreblock.name": "Block of Platyna",
+      "item.hematytingot.name": "Hematyt",
       "tile.biksbitoreblock.name": "Block of Biksbit",
       "item.ametystaxe.name": "Ametyst Axe",
-      "item.hematytarmorbody.name": "Hematytite chestplate",
+      "item.hematytarmorbody.name": "Hematytowy Napierœnik",
       "tile.nickelore.name": "Nickel Ore",
-      "item.hematytarmorboots.name": "Hematytite Boots",
+      "item.hematytarmorboots.name": "Hematytowe Buty",
+      "tile.goshenittoreblock.name": "Block of Goshenitt",
       "tile.topazoreblock.name": "Block of Topaz",
       "tile.heliodorore.name": "Heliodor Ore",
       "tile.alexandriteoreblock.name": "Block of Alexandrite",
+      "item.goshenittgem.name": "Goshenitt",
       "tile.nickeloreblock.name": "Block of Nickel",
-      "item.rubinowymiecz.name": "Sword",
-      "tile.blokawamarynu.name": "Block of Aquamarine",
-      "item.emeraldowazbrojaboots.name": "Emerald Boots",
-      "item.hematytsword.name": "Hematytite Sword",
+      "item.rubinowymiecz.name": "Rubinowy miecz",
+      "tile.blokawamarynu.name": "Blok Akwamarynu",
+      "item.emeraldowazbrojaboots.name": "Emeraldowe buty",
+      "item.hematytsword.name": "Hematytowy Miecz",
       "item.emeraldowalopata.name": "Emeraldowa ³opata",
-      "item.platynaarmorhelmet.name": "Platinum Helmet",
-      "item.akwamarynowaarmorbody.name": "Aquamarine Chestplate",
+      "item.platynaarmorhelmet.name": "Platyna Helmet",
+      "item.akwamarynowaarmorbody.name": "Akwamarynowy Napierœnik",
       "item.topazgem.name": "Topaz",
       "item.emeraldowasiekiera.name": "Emeraldowa siekiera",
       "item.sapphiregem.name": "Sapphire",
-      "item.rubinowazbrojabody.name": "Ruby Chestplate",
-      "item.emeraldowymiecz.name": "Emerald Sword",
+      "item.rubinowazbrojabody.name": "Rubinowy napierœnik",
+      "item.emeraldowymiecz.name": "Emeraldowy miecz",
       "item.akwamarynoweshovel.name": "Akwamarynowe £opata",
       "item.ametysthoe.name": "Ametyst Hoe",
       "item.biksbittdust.name": "Biksbit Dust",
@@ -2716,16 +2815,16 @@
       "item.roundbiksbit.name": "Round Biksbit",
       "item.hematythoe.name": "Hematytowa Motyka",
       "item.nickelhoe.name": "Nickel Hoe",
-      "item.rubinowazbrojalegs.name": "Ruby leggings",
+      "item.rubinowazbrojalegs.name": "Rubinowe nogawice",
       "tile.onyxoreblock.name": "Block of Onyx",
-      "item.rubinowazbrojahelmet.name": "Ruby Helmet",
-      "tile.rudarubinu.name": "Ruby Ore",
+      "item.rubinowazbrojahelmet.name": "Rubinowy he³m",
+      "tile.rudarubinu.name": "Ruda Rubinu",
       "item.rounddiamond.name": "Round Diamond",
       "item.ametystsword.name": "Ametyst Sword",
       "item.platynahoe.name": "Platyna Hoe",
-      "item.emeralddust.name": "Emerald Dust",
+      "item.emeralddust.name": "Emerald",
       "tile.biksbitore.name": "Biksbit Ore",
-      "item.rubin.name": "Ruby",
+      "item.rubin.name": "Rubin",
       "item.roundtopaz.name": "Round Topaz",
       "item.nickelarmorbody.name": "Nickel Chestplate",
       "item.ametystarmorbody.name": "Ametyst Chestplate",
@@ -2735,7 +2834,7 @@
       "item.rubinowalopata.name": "Rubinowalopata",
       "tile.topazore.name": "Topaz Ore",
       "item.nickelaxe.name": "Nickel Axe",
-      "item.hematytarmorlegs.name": "Hematytite Leggings",
+      "item.hematytarmorlegs.name": "Hematytowe Nogawice",
       "item.ametystpickaxe.name": "Ametyst Pickaxe",
       "item.nickelshovel.name": "Nickel Shovel"
     }

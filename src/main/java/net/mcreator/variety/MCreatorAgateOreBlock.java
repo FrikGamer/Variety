@@ -20,7 +20,7 @@ public class MCreatorAgateOreBlock extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorAgateOreBlock(Elementsvariety instance) {
-		super(instance, 233);
+		super(instance, 18);
 	}
 
 	@Override

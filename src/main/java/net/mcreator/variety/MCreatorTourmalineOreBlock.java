@@ -20,7 +20,7 @@ public class MCreatorTourmalineOreBlock extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorTourmalineOreBlock(Elementsvariety instance) {
-		super(instance, 306);
+		super(instance, 30);
 	}
 
 	@Override

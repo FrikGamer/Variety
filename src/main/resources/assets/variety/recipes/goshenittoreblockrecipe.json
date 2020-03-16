@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:goshenittgem"
+    },
+    "1": {
+      "item": "variety:goshenittgem"
+    },
+    "2": {
+      "item": "variety:goshenittgem"
+    },
+    "3": {
+      "item": "variety:goshenittgem"
+    },
+    "4": {
+      "item": "variety:goshenittgem"
+    },
+    "5": {
+      "item": "variety:goshenittgem"
+    },
+    "6": {
+      "item": "variety:goshenittgem"
+    },
+    "7": {
+      "item": "variety:goshenittgem"
+    },
+    "8": {
+      "item": "variety:goshenittgem"
+    }
+  },
+  "result": {
+    "item": "variety:goshenittoreblock",
+    "count": 1
+  }
+}

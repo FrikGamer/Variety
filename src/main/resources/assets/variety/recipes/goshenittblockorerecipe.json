@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:goshenittoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:goshenittgem",
+    "count": 9
+  }
+}

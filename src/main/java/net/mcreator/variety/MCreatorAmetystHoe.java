@@ -27,7 +27,7 @@ public class MCreatorAmetystHoe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAmetystHoe(Elementsvariety instance) {
-		super(instance, 168);
+		super(instance, 129);
 	}
 
 	@Override

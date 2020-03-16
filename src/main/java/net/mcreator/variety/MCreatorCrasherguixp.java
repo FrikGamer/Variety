@@ -6,7 +6,7 @@ import net.minecraft.entity.Entity;
 @Elementsvariety.ModElement.Tag
 public class MCreatorCrasherguixp extends Elementsvariety.ModElement {
 	public MCreatorCrasherguixp(Elementsvariety instance) {
-		super(instance, 206);
+		super(instance, 242);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

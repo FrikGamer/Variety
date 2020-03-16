@@ -26,7 +26,7 @@ public class MCreatorEmeraldowazbroja extends Elementsvariety.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorEmeraldowazbroja(Elementsvariety instance) {
-		super(instance, 41);
+		super(instance, 88);
 	}
 
 	@Override

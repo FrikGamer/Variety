@@ -18,7 +18,7 @@ public class MCreatorRoundHeliodor extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundHeliodor(Elementsvariety instance) {
-		super(instance, 294);
+		super(instance, 69);
 	}
 
 	@Override

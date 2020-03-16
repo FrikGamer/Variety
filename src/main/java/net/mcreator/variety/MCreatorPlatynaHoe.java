@@ -27,7 +27,7 @@ public class MCreatorPlatynaHoe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorPlatynaHoe(Elementsvariety instance) {
-		super(instance, 142);
+		super(instance, 125);
 	}
 
 	@Override

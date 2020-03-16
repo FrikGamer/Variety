@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorProszekakwamarynur extends Elementsvariety.ModElement {
 	public MCreatorProszekakwamarynur(Elementsvariety instance) {
-		super(instance, 78);
+		super(instance, 170);
 	}
 
 	@Override

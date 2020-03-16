@@ -18,7 +18,7 @@ public class MCreatorOnyxGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorOnyxGem(Elementsvariety instance) {
-		super(instance, 214);
+		super(instance, 53);
 	}
 
 	@Override

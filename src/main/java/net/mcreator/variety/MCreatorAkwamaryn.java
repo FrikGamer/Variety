@@ -18,7 +18,7 @@ public class MCreatorAkwamaryn extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAkwamaryn(Elementsvariety instance) {
-		super(instance, 63);
+		super(instance, 45);
 	}
 
 	@Override
@@ -38,7 +38,7 @@ public class MCreatorAkwamaryn extends Elementsvariety.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("akwamaryn");
 			setRegistryName("akwamaryn");
-			setCreativeTab(CreativeTabs.MATERIALS);
+			setCreativeTab(CreativeTabs.MISC);
 		}
 
 		@Override

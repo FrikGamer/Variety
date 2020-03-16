@@ -22,7 +22,7 @@ public class MCreatorHematytShovel extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHematytShovel(Elementsvariety instance) {
-		super(instance, 95);
+		super(instance, 116);
 	}
 
 	@Override

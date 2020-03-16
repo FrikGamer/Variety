@@ -34,7 +34,7 @@ public class MCreatorSkplecakgui extends Elementsvariety.ModElement {
 	public static IInventory slots;
 
 	public MCreatorSkplecakgui(Elementsvariety instance) {
-		super(instance, 19);
+		super(instance, 141);
 	}
 
 	@Override

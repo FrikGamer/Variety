@@ -22,7 +22,7 @@ public class MCreatorPlatynaShovel extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorPlatynaShovel(Elementsvariety instance) {
-		super(instance, 141);
+		super(instance, 124);
 	}
 
 	@Override

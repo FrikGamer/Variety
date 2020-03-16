@@ -18,7 +18,7 @@ public class MCreatorHematytIngot extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHematytIngot(Elementsvariety instance) {
-		super(instance, 88);
+		super(instance, 48);
 	}
 
 	@Override

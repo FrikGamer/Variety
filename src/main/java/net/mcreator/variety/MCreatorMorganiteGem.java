@@ -18,7 +18,7 @@ public class MCreatorMorganiteGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMorganiteGem(Elementsvariety instance) {
-		super(instance, 281);
+		super(instance, 70);
 	}
 
 	@Override

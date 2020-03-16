@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorSapphirerc extends Elementsvariety.ModElement {
 	public MCreatorSapphirerc(Elementsvariety instance) {
-		super(instance, 250);
+		super(instance, 261);
 	}
 
 	@Override

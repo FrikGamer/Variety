@@ -27,7 +27,7 @@ public class MCreatorNickelHoe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorNickelHoe(Elementsvariety instance) {
-		super(instance, 189);
+		super(instance, 133);
 	}
 
 	@Override

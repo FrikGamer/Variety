@@ -22,7 +22,7 @@ public class MCreatorNickelPickaxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorNickelPickaxe(Elementsvariety instance) {
-		super(instance, 185);
+		super(instance, 130);
 	}
 
 	@Override

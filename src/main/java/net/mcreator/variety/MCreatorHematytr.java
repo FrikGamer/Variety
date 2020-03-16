@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorHematytr extends Elementsvariety.ModElement {
 	public MCreatorHematytr(Elementsvariety instance) {
-		super(instance, 107);
+		super(instance, 188);
 	}
 
 	@Override

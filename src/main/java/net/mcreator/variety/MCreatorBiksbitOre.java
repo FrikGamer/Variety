@@ -29,7 +29,7 @@ public class MCreatorBiksbitOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorBiksbitOre(Elementsvariety instance) {
-		super(instance, 317);
+		super(instance, 31);
 	}
 
 	@Override

@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorBiksbitrc extends Elementsvariety.ModElement {
 	public MCreatorBiksbitrc(Elementsvariety instance) {
-		super(instance, 327);
+		super(instance, 288);
 	}
 
 	@Override

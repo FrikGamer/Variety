@@ -24,7 +24,7 @@ public class MCreatorBlokrubinu1 extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorBlokrubinu1(Elementsvariety instance) {
-		super(instance, 11);
+		super(instance, 2);
 	}
 
 	@Override

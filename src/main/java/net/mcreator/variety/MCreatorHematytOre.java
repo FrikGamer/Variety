@@ -30,7 +30,7 @@ public class MCreatorHematytOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorHematytOre(Elementsvariety instance) {
-		super(instance, 86);
+		super(instance, 5);
 	}
 
 	@Override

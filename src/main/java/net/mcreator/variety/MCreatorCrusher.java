@@ -47,7 +47,7 @@ public class MCreatorCrusher extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorCrusher(Elementsvariety instance) {
-		super(instance, 202);
+		super(instance, 35);
 	}
 
 	@Override

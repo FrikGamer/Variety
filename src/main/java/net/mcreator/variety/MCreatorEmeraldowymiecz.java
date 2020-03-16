@@ -27,7 +27,7 @@ public class MCreatorEmeraldowymiecz extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorEmeraldowymiecz(Elementsvariety instance) {
-		super(instance, 47);
+		super(instance, 87);
 	}
 
 	@Override

@@ -18,7 +18,7 @@ public class MCreatorRoundBiksbit extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundBiksbit(Elementsvariety instance) {
-		super(instance, 328);
+		super(instance, 79);
 	}
 
 	@Override

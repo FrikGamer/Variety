@@ -18,7 +18,7 @@ public class MCreatorSapphireDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorSapphireDust(Elementsvariety instance) {
-		super(instance, 249);
+		super(instance, 60);
 	}
 
 	@Override

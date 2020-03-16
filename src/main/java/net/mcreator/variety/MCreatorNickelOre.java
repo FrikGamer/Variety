@@ -29,7 +29,7 @@ public class MCreatorNickelOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorNickelOre(Elementsvariety instance) {
-		super(instance, 179);
+		super(instance, 13);
 	}
 
 	@Override

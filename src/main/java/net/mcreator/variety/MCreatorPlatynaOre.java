@@ -29,7 +29,7 @@ public class MCreatorPlatynaOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorPlatynaOre(Elementsvariety instance) {
-		super(instance, 132);
+		super(instance, 9);
 	}
 
 	@Override

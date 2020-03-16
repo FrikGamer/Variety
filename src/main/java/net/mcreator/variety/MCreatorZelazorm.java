@@ -9,7 +9,7 @@ import net.minecraft.init.Items;
 @Elementsvariety.ModElement.Tag
 public class MCreatorZelazorm extends Elementsvariety.ModElement {
 	public MCreatorZelazorm(Elementsvariety instance) {
-		super(instance, 131);
+		super(instance, 202);
 	}
 
 	@Override

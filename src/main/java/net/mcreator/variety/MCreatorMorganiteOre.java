@@ -29,7 +29,7 @@ public class MCreatorMorganiteOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMorganiteOre(Elementsvariety instance) {
-		super(instance, 279);
+		super(instance, 27);
 	}
 
 	@Override

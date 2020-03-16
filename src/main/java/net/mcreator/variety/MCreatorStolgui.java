@@ -34,7 +34,7 @@ public class MCreatorStolgui extends Elementsvariety.ModElement {
 	public static IInventory inherited;
 
 	public MCreatorStolgui(Elementsvariety instance) {
-		super(instance, 302);
+		super(instance, 276);
 	}
 
 	@Override
@@ -277,7 +277,7 @@ public class MCreatorStolgui extends Elementsvariety.ModElement {
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(int par1, int par2) {
-			this.fontRenderer.drawString("Jewelry table", 7, 11, -10066330);
+			this.fontRenderer.drawString("Jewelry table", 5, 8, -10066330);
 		}
 
 		@Override

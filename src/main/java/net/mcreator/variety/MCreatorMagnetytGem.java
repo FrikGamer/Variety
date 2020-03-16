@@ -18,7 +18,7 @@ public class MCreatorMagnetytGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMagnetytGem(Elementsvariety instance) {
-		super(instance, 111);
+		super(instance, 49);
 	}
 
 	@Override

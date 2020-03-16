@@ -18,7 +18,7 @@ public class MCreatorRoundTourmaline extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundTourmaline(Elementsvariety instance) {
-		super(instance, 314);
+		super(instance, 76);
 	}
 
 	@Override

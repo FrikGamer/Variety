@@ -22,7 +22,7 @@ public class MCreatorPlatynaPickaxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorPlatynaPickaxe(Elementsvariety instance) {
-		super(instance, 138);
+		super(instance, 122);
 	}
 
 	@Override

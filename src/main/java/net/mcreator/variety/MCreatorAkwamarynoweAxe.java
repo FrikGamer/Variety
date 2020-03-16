@@ -25,7 +25,7 @@ public class MCreatorAkwamarynoweAxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAkwamarynoweAxe(Elementsvariety instance) {
-		super(instance, 66);
+		super(instance, 111);
 	}
 
 	@Override

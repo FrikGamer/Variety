@@ -18,7 +18,7 @@ public class MCreatorProszekdiamentu extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorProszekdiamentu(Elementsvariety instance) {
-		super(instance, 75);
+		super(instance, 38);
 	}
 
 	@Override
@@ -38,7 +38,7 @@ public class MCreatorProszekdiamentu extends Elementsvariety.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("proszekdiamentu");
 			setRegistryName("proszekdiamentu");
-			setCreativeTab(CreativeTabs.MATERIALS);
+			setCreativeTab(CreativeTabs.MISC);
 		}
 
 		@Override

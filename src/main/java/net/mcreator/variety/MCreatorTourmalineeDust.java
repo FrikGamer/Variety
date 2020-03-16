@@ -18,7 +18,7 @@ public class MCreatorTourmalineeDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorTourmalineeDust(Elementsvariety instance) {
-		super(instance, 313);
+		super(instance, 75);
 	}
 
 	@Override

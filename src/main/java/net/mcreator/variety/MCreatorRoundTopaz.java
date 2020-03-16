@@ -18,7 +18,7 @@ public class MCreatorRoundTopaz extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundTopaz(Elementsvariety instance) {
-		super(instance, 299);
+		super(instance, 63);
 	}
 
 	@Override

@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorRubinr extends Elementsvariety.ModElement {
 	public MCreatorRubinr(Elementsvariety instance) {
-		super(instance, 56);
+		super(instance, 158);
 	}
 
 	@Override

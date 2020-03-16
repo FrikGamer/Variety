@@ -18,7 +18,7 @@ public class MCreatorRoundAquamarine extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundAquamarine(Elementsvariety instance) {
-		super(instance, 300);
+		super(instance, 47);
 	}
 
 	@Override

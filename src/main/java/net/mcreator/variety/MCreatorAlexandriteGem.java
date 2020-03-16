@@ -18,7 +18,7 @@ public class MCreatorAlexandriteGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAlexandriteGem(Elementsvariety instance) {
-		super(instance, 263);
+		super(instance, 64);
 	}
 
 	@Override

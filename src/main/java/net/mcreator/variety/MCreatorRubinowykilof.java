@@ -22,7 +22,7 @@ public class MCreatorRubinowykilof extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRubinowykilof(Elementsvariety instance) {
-		super(instance, 36);
+		super(instance, 102);
 	}
 
 	@Override

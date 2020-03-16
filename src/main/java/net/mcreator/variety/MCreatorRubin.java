@@ -18,7 +18,7 @@ public class MCreatorRubin extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRubin(Elementsvariety instance) {
-		super(instance, 5);
+		super(instance, 42);
 	}
 
 	@Override
@@ -38,7 +38,7 @@ public class MCreatorRubin extends Elementsvariety.ModElement {
 			maxStackSize = 16;
 			setUnlocalizedName("rubin");
 			setRegistryName("rubin");
-			setCreativeTab(CreativeTabs.MATERIALS);
+			setCreativeTab(CreativeTabs.MISC);
 		}
 
 		@Override

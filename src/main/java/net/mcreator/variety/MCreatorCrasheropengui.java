@@ -7,7 +7,7 @@ import net.minecraft.entity.Entity;
 @Elementsvariety.ModElement.Tag
 public class MCreatorCrasheropengui extends Elementsvariety.ModElement {
 	public MCreatorCrasheropengui(Elementsvariety instance) {
-		super(instance, 205);
+		super(instance, 241);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

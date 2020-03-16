@@ -22,7 +22,7 @@ public class MCreatorNickelShovel extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorNickelShovel(Elementsvariety instance) {
-		super(instance, 188);
+		super(instance, 132);
 	}
 
 	@Override

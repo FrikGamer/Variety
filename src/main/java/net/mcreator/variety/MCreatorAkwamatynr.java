@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorAkwamatynr extends Elementsvariety.ModElement {
 	public MCreatorAkwamatynr(Elementsvariety instance) {
-		super(instance, 200);
+		super(instance, 239);
 	}
 
 	@Override

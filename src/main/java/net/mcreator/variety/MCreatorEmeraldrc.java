@@ -9,7 +9,7 @@ import net.minecraft.init.Items;
 @Elementsvariety.ModElement.Tag
 public class MCreatorEmeraldrc extends Elementsvariety.ModElement {
 	public MCreatorEmeraldrc(Elementsvariety instance) {
-		super(instance, 222);
+		super(instance, 248);
 	}
 
 	@Override

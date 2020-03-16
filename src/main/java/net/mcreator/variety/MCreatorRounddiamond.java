@@ -18,7 +18,7 @@ public class MCreatorRounddiamond extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRounddiamond(Elementsvariety instance) {
-		super(instance, 292);
+		super(instance, 39);
 	}
 
 	@Override

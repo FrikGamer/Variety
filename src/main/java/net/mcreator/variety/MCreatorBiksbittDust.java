@@ -18,7 +18,7 @@ public class MCreatorBiksbittDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorBiksbittDust(Elementsvariety instance) {
-		super(instance, 325);
+		super(instance, 78);
 	}
 
 	@Override

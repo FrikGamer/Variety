@@ -18,7 +18,7 @@ public class MCreatorAlexandriteeDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAlexandriteeDust(Elementsvariety instance) {
-		super(instance, 269);
+		super(instance, 65);
 	}
 
 	@Override

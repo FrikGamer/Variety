@@ -18,7 +18,7 @@ public class MCreatorHeliodorGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHeliodorGem(Elementsvariety instance) {
-		super(instance, 272);
+		super(instance, 67);
 	}
 
 	@Override

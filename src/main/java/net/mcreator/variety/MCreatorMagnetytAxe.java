@@ -25,7 +25,7 @@ public class MCreatorMagnetytAxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMagnetytAxe(Elementsvariety instance) {
-		super(instance, 116);
+		super(instance, 119);
 	}
 
 	@Override

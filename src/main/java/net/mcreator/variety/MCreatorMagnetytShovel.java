@@ -22,7 +22,7 @@ public class MCreatorMagnetytShovel extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMagnetytShovel(Elementsvariety instance) {
-		super(instance, 118);
+		super(instance, 120);
 	}
 
 	@Override

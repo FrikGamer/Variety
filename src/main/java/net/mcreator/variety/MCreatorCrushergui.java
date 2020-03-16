@@ -34,7 +34,7 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 	public static IInventory inherited;
 
 	public MCreatorCrushergui(Elementsvariety instance) {
-		super(instance, 204);
+		super(instance, 240);
 	}
 
 	@Override
@@ -280,7 +280,7 @@ public class MCreatorCrushergui extends Elementsvariety.ModElement {
 
 		@Override
 		protected void drawGuiContainerForegroundLayer(int par1, int par2) {
-			this.fontRenderer.drawString("Crusher", 7, 11, -10066330);
+			this.fontRenderer.drawString("Crusher", 5, 8, -10066330);
 		}
 
 		@Override

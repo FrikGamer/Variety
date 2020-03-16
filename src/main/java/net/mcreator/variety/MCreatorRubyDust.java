@@ -18,7 +18,7 @@ public class MCreatorRubyDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRubyDust(Elementsvariety instance) {
-		super(instance, 228);
+		super(instance, 43);
 	}
 
 	@Override

@@ -7,7 +7,7 @@ import net.minecraft.entity.Entity;
 @Elementsvariety.ModElement.Tag
 public class MCreatorStolopengui extends Elementsvariety.ModElement {
 	public MCreatorStolopengui(Elementsvariety instance) {
-		super(instance, 303);
+		super(instance, 277);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

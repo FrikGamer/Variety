@@ -18,7 +18,7 @@ public class MCreatorHeliodorrDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorHeliodorrDust(Elementsvariety instance) {
-		super(instance, 278);
+		super(instance, 68);
 	}
 
 	@Override

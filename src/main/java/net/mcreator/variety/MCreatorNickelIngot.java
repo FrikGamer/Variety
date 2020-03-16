@@ -18,7 +18,7 @@ public class MCreatorNickelIngot extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorNickelIngot(Elementsvariety instance) {
-		super(instance, 181);
+		super(instance, 52);
 	}
 
 	@Override

@@ -18,7 +18,7 @@ public class MCreatorAmetystGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAmetystGem(Elementsvariety instance) {
-		super(instance, 160);
+		super(instance, 51);
 	}
 
 	@Override

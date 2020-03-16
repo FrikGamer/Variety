@@ -22,7 +22,7 @@ public class MCreatorAmetystPickaxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAmetystPickaxe(Elementsvariety instance) {
-		super(instance, 164);
+		super(instance, 126);
 	}
 
 	@Override

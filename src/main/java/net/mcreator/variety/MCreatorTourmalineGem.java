@@ -18,7 +18,7 @@ public class MCreatorTourmalineGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorTourmalineGem(Elementsvariety instance) {
-		super(instance, 307);
+		super(instance, 74);
 	}
 
 	@Override

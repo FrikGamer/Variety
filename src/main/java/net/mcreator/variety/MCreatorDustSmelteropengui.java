@@ -7,7 +7,7 @@ import net.minecraft.entity.Entity;
 @Elementsvariety.ModElement.Tag
 public class MCreatorDustSmelteropengui extends Elementsvariety.ModElement {
 	public MCreatorDustSmelteropengui(Elementsvariety instance) {
-		super(instance, 225);
+		super(instance, 250);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

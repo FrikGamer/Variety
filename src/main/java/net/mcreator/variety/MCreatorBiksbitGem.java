@@ -18,7 +18,7 @@ public class MCreatorBiksbitGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorBiksbitGem(Elementsvariety instance) {
-		super(instance, 319);
+		super(instance, 77);
 	}
 
 	@Override

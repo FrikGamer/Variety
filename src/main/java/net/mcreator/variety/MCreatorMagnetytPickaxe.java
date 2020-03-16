@@ -22,7 +22,7 @@ public class MCreatorMagnetytPickaxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMagnetytPickaxe(Elementsvariety instance) {
-		super(instance, 115);
+		super(instance, 118);
 	}
 
 	@Override

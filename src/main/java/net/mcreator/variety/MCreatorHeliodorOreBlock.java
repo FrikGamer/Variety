@@ -20,7 +20,7 @@ public class MCreatorHeliodorOreBlock extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorHeliodorOreBlock(Elementsvariety instance) {
-		super(instance, 271);
+		super(instance, 26);
 	}
 
 	@Override

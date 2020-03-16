@@ -27,7 +27,7 @@ public class MCreatorMagnetytHoe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMagnetytHoe(Elementsvariety instance) {
-		super(instance, 119);
+		super(instance, 121);
 	}
 
 	@Override

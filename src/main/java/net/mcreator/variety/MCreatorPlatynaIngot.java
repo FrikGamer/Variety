@@ -18,7 +18,7 @@ public class MCreatorPlatynaIngot extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorPlatynaIngot(Elementsvariety instance) {
-		super(instance, 134);
+		super(instance, 50);
 	}
 
 	@Override

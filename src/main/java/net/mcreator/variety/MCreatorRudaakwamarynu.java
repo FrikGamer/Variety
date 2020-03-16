@@ -29,7 +29,7 @@ public class MCreatorRudaakwamarynu extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorRudaakwamarynu(Elementsvariety instance) {
-		super(instance, 62);
+		super(instance, 3);
 	}
 
 	@Override

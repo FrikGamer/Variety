@@ -18,7 +18,7 @@ public class MCreatorAgateGem extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAgateGem(Elementsvariety instance) {
-		super(instance, 234);
+		super(instance, 56);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class MCreatorPlatynaAxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorPlatynaAxe(Elementsvariety instance) {
-		super(instance, 139);
+		super(instance, 123);
 	}
 
 	@Override

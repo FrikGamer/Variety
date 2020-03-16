@@ -22,7 +22,7 @@ public class MCreatorAkwamarynowePickaxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAkwamarynowePickaxe(Elementsvariety instance) {
-		super(instance, 65);
+		super(instance, 110);
 	}
 
 	@Override

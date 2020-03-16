@@ -18,7 +18,7 @@ public class MCreatorRoundalexandrite extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundalexandrite(Elementsvariety instance) {
-		super(instance, 290);
+		super(instance, 66);
 	}
 
 	@Override

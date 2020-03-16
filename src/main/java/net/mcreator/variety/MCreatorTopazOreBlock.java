@@ -20,7 +20,7 @@ public class MCreatorTopazOreBlock extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorTopazOreBlock(Elementsvariety instance) {
-		super(instance, 252);
+		super(instance, 22);
 	}
 
 	@Override

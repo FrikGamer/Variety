@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorPlatynar extends Elementsvariety.ModElement {
 	public MCreatorPlatynar(Elementsvariety instance) {
-		super(instance, 153);
+		super(instance, 214);
 	}
 
 	@Override

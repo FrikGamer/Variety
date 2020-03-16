@@ -18,7 +18,7 @@ public class MCreatorRoundEmerald extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundEmerald(Elementsvariety instance) {
-		super(instance, 293);
+		super(instance, 41);
 	}
 
 	@Override

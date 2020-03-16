@@ -27,7 +27,7 @@ public class MCreatorRubinowymiecz1 extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRubinowymiecz1(Elementsvariety instance) {
-		super(instance, 54);
+		super(instance, 85);
 	}
 
 	@Override

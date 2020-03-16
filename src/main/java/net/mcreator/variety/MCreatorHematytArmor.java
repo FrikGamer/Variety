@@ -26,7 +26,7 @@ public class MCreatorHematytArmor extends Elementsvariety.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorHematytArmor(Elementsvariety instance) {
-		super(instance, 102);
+		super(instance, 92);
 	}
 
 	@Override

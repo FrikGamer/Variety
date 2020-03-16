@@ -26,7 +26,7 @@ public class MCreatorPlatynaArmor extends Elementsvariety.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorPlatynaArmor(Elementsvariety instance) {
-		super(instance, 148);
+		super(instance, 96);
 	}
 
 	@Override

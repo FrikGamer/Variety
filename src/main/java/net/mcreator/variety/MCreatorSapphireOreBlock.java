@@ -20,7 +20,7 @@ public class MCreatorSapphireOreBlock extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorSapphireOreBlock(Elementsvariety instance) {
-		super(instance, 244);
+		super(instance, 20);
 	}
 
 	@Override

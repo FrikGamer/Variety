@@ -18,7 +18,7 @@ public class MCreatorRoundSapphire extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundSapphire(Elementsvariety instance) {
-		super(instance, 298);
+		super(instance, 73);
 	}
 
 	@Override

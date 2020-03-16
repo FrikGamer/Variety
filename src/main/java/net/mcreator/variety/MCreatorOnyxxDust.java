@@ -18,7 +18,7 @@ public class MCreatorOnyxxDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorOnyxxDust(Elementsvariety instance) {
-		super(instance, 220);
+		super(instance, 54);
 	}
 
 	@Override

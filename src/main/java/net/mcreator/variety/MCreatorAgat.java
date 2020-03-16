@@ -18,7 +18,7 @@ public class MCreatorAgat extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorAgat(Elementsvariety instance) {
-		super(instance, 289);
+		super(instance, 58);
 	}
 
 	@Override

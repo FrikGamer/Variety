@@ -18,7 +18,7 @@ public class MCreatorTopazzDust extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorTopazzDust(Elementsvariety instance) {
-		super(instance, 259);
+		super(instance, 62);
 	}
 
 	@Override

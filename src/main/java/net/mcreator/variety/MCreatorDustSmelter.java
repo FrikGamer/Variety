@@ -47,7 +47,7 @@ public class MCreatorDustSmelter extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorDustSmelter(Elementsvariety instance) {
-		super(instance, 223);
+		super(instance, 36);
 	}
 
 	@Override
@@ -79,7 +79,7 @@ public class MCreatorDustSmelter extends Elementsvariety.ModElement {
 			setResistance(40F);
 			setLightLevel(0F);
 			setLightOpacity(0);
-			setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+			setCreativeTab(CreativeTabs.DECORATIONS);
 			this.setDefaultState(this.blockState.getBaseState().withProperty(FACING, EnumFacing.NORTH));
 		}
 
@@ -183,6 +183,10 @@ public class MCreatorDustSmelter extends Elementsvariety.ModElement {
 			Block block = this;
 			{
 				java.util.HashMap<String, Object> $_dependencies = new java.util.HashMap<>();
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
 				MCreatorDustsmelterpraca.executeProcedure($_dependencies);
 			}
 			world.scheduleUpdate(new BlockPos(x, y, z), this, this.tickRate(world));

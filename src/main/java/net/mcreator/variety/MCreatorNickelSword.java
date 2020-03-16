@@ -27,7 +27,7 @@ public class MCreatorNickelSword extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorNickelSword(Elementsvariety instance) {
-		super(instance, 187);
+		super(instance, 99);
 	}
 
 	@Override

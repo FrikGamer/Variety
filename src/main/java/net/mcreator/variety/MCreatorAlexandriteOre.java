@@ -29,7 +29,7 @@ public class MCreatorAlexandriteOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorAlexandriteOre(Elementsvariety instance) {
-		super(instance, 261);
+		super(instance, 23);
 	}
 
 	@Override

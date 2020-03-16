@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "variety:blocks/rudagoshenit",
+    "particle": "variety:blocks/rudagoshenit"
+  }
+}

@@ -20,7 +20,7 @@ public class MCreatorAmetystOreBlock extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorAmetystOreBlock(Elementsvariety instance) {
-		super(instance, 159);
+		super(instance, 12);
 	}
 
 	@Override

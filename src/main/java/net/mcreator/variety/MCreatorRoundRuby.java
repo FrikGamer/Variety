@@ -18,7 +18,7 @@ public class MCreatorRoundRuby extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRoundRuby(Elementsvariety instance) {
-		super(instance, 297);
+		super(instance, 44);
 	}
 
 	@Override

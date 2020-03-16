@@ -27,7 +27,7 @@ public class MCreatorMagnetytSword extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMagnetytSword(Elementsvariety instance) {
-		super(instance, 117);
+		super(instance, 93);
 	}
 
 	@Override

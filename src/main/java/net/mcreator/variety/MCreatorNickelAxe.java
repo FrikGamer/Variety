@@ -25,7 +25,7 @@ public class MCreatorNickelAxe extends Elementsvariety.ModElement {
 	public static final Item block = null;
 
 	public MCreatorNickelAxe(Elementsvariety instance) {
-		super(instance, 186);
+		super(instance, 131);
 	}
 
 	@Override

@@ -29,7 +29,7 @@ public class MCreatorOnyxOre extends Elementsvariety.ModElement {
 	public static final Block block = null;
 
 	public MCreatorOnyxOre(Elementsvariety instance) {
-		super(instance, 212);
+		super(instance, 15);
 	}
 
 	@Override

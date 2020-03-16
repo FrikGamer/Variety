@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 @Elementsvariety.ModElement.Tag
 public class MCreatorTurmalinrc extends Elementsvariety.ModElement {
 	public MCreatorTurmalinrc(Elementsvariety instance) {
-		super(instance, 326);
+		super(instance, 287);
 	}
 
 	@Override
