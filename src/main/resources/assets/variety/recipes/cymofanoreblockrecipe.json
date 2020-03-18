@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:cymofangem"
+    },
+    "1": {
+      "item": "variety:cymofangem"
+    },
+    "2": {
+      "item": "variety:cymofangem"
+    },
+    "3": {
+      "item": "variety:cymofangem"
+    },
+    "4": {
+      "item": "variety:cymofangem"
+    },
+    "5": {
+      "item": "variety:cymofangem"
+    },
+    "6": {
+      "item": "variety:cymofangem"
+    },
+    "7": {
+      "item": "variety:cymofangem"
+    },
+    "8": {
+      "item": "variety:cymofangem"
+    }
+  },
+  "result": {
+    "item": "variety:cymofanoreblock",
+    "count": 1
+  }
+}

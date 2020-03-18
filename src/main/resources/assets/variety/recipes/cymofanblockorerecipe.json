@@ -1,0 +1,13 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "variety:cymofanoreblock"
+    }
+  ],
+  "result": {
+    "item": "variety:cymofangem",
+    "count": 9
+  }
+}
