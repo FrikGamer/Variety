@@ -1472,116 +1472,6 @@ public class MCreatorDustsmelterpraca extends Elementsvariety.ModElement {
 					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
 				return ItemStack.EMPTY;
 			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (0))).getItem() == new ItemStack(MCreatorGoshenitttDust.block, (int) (1))
-				.getItem() && (new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (0))).getMetadata() == new ItemStack(MCreatorGoshenitttDust.block, (int) (1))
-				.getMetadata()) && ((new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(Blocks.LOG, (int) (1)).getItem() && (new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getMetadata() == new ItemStack(Blocks.LOG, (int) (1)).getMetadata())) && ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot) {
-					ItemStack stack = ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-					if (stack != null)
-						return stack.getCount();
-				}
-				return 0;
-			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getItem() == new ItemStack(MCreatorRoundGoshenite.block, (int) (1))
-				.getItem() && (new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getMetadata() == new ItemStack(MCreatorRoundGoshenite.block, (int) (1))
-				.getMetadata())) || ((new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getItem() == new ItemStack(Blocks.AIR, (int) (1)).getItem() && (new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
-		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getMetadata() == new ItemStack(Blocks.AIR, (int) (1)).getMetadata()))))) {
-			{
-				TileEntity inv = world.getTileEntity(new BlockPos((int) x, (int) y, (int) z));
-				if (inv instanceof TileEntityLockableLoot)
-					((TileEntityLockableLoot) inv).decrStackSize((int) (0), (int) (1));
-			}
-			{
-				TileEntity inv = world.getTileEntity(new BlockPos((int) x, (int) y, (int) z));
-				if (inv instanceof TileEntityLockableLoot)
-					((TileEntityLockableLoot) inv).decrStackSize((int) (1), (int) (1));
-			}
-			{
-				TileEntity inv = world.getTileEntity(new BlockPos((int) x, (int) y, (int) z));
-				if (inv != null && (inv instanceof TileEntityLockableLoot))
-					((TileEntityLockableLoot) inv).setInventorySlotContents((int) (2), new ItemStack(MCreatorRoundGoshenite.block,
-							(int) (((new Object() {
-								public int getAmount(BlockPos pos, int sltid) {
-									TileEntity inv = world.getTileEntity(pos);
-									if (inv instanceof TileEntityLockableLoot) {
-										ItemStack stack = ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-										if (stack != null)
-											return stack.getCount();
-									}
-									return 0;
-								}
-							}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1))));
-			}
-			world.playSound((EntityPlayer) null, x, y, z, (net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY
-					.getObject(new ResourceLocation("block.furnace.fire_crackle")), SoundCategory.NEUTRAL, (float) 1, (float) 1);
-		}
-		if ((((new Object() {
-			public int getAmount(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot) {
-					ItemStack stack = ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-					if (stack != null)
-						return stack.getCount();
-				}
-				return 0;
-			}
-		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) != 64) && ((((new Object() {
-			public ItemStack getItemStack(BlockPos pos, int sltid) {
-				TileEntity inv = world.getTileEntity(pos);
-				if (inv instanceof TileEntityLockableLoot)
-					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
-				return ItemStack.EMPTY;
-			}
 		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (0))).getItem() == new ItemStack(MCreatorCymofannDust.block, (int) (1))
 				.getItem() && (new Object() {
 			public ItemStack getItemStack(BlockPos pos, int sltid) {
@@ -1660,6 +1550,116 @@ public class MCreatorDustsmelterpraca extends Elementsvariety.ModElement {
 				TileEntity inv = world.getTileEntity(new BlockPos((int) x, (int) y, (int) z));
 				if (inv != null && (inv instanceof TileEntityLockableLoot))
 					((TileEntityLockableLoot) inv).setInventorySlotContents((int) (2), new ItemStack(MCreatorRoundCymofan.block,
+							(int) (((new Object() {
+								public int getAmount(BlockPos pos, int sltid) {
+									TileEntity inv = world.getTileEntity(pos);
+									if (inv instanceof TileEntityLockableLoot) {
+										ItemStack stack = ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+										if (stack != null)
+											return stack.getCount();
+									}
+									return 0;
+								}
+							}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) + 1))));
+			}
+			world.playSound((EntityPlayer) null, x, y, z, (net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY
+					.getObject(new ResourceLocation("block.furnace.fire_crackle")), SoundCategory.NEUTRAL, (float) 1, (float) 1);
+		}
+		if ((((new Object() {
+			public int getAmount(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot) {
+					ItemStack stack = ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+					if (stack != null)
+						return stack.getCount();
+				}
+				return 0;
+			}
+		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) != 64) && ((((new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (0))).getItem() == new ItemStack(MCreatorSkapolittDust.block, (int) (1))
+				.getItem() && (new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (0))).getMetadata() == new ItemStack(MCreatorSkapolittDust.block, (int) (1))
+				.getMetadata()) && ((new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getItem() == new ItemStack(Blocks.LOG, (int) (1)).getItem() && (new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (1))).getMetadata() == new ItemStack(Blocks.LOG, (int) (1)).getMetadata())) && ((((new Object() {
+			public int getAmount(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot) {
+					ItemStack stack = ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+					if (stack != null)
+						return stack.getCount();
+				}
+				return 0;
+			}
+		}.getAmount(new BlockPos((int) x, (int) y, (int) z), (int) (2))) <= 63) && ((new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getItem() == new ItemStack(MCreatorSkapolitround.block, (int) (1))
+				.getItem() && (new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getMetadata() == new ItemStack(MCreatorSkapolitround.block, (int) (1))
+				.getMetadata())) || ((new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getItem() == new ItemStack(Blocks.AIR, (int) (1)).getItem() && (new Object() {
+			public ItemStack getItemStack(BlockPos pos, int sltid) {
+				TileEntity inv = world.getTileEntity(pos);
+				if (inv instanceof TileEntityLockableLoot)
+					return ((TileEntityLockableLoot) inv).getStackInSlot(sltid);
+				return ItemStack.EMPTY;
+			}
+		}.getItemStack(new BlockPos((int) x, (int) y, (int) z), (int) (2))).getMetadata() == new ItemStack(Blocks.AIR, (int) (1)).getMetadata()))))) {
+			{
+				TileEntity inv = world.getTileEntity(new BlockPos((int) x, (int) y, (int) z));
+				if (inv instanceof TileEntityLockableLoot)
+					((TileEntityLockableLoot) inv).decrStackSize((int) (0), (int) (1));
+			}
+			{
+				TileEntity inv = world.getTileEntity(new BlockPos((int) x, (int) y, (int) z));
+				if (inv instanceof TileEntityLockableLoot)
+					((TileEntityLockableLoot) inv).decrStackSize((int) (1), (int) (1));
+			}
+			{
+				TileEntity inv = world.getTileEntity(new BlockPos((int) x, (int) y, (int) z));
+				if (inv != null && (inv instanceof TileEntityLockableLoot))
+					((TileEntityLockableLoot) inv).setInventorySlotContents((int) (2), new ItemStack(MCreatorSkapolitround.block,
 							(int) (((new Object() {
 								public int getAmount(BlockPos pos, int sltid) {
 									TileEntity inv = world.getTileEntity(pos);

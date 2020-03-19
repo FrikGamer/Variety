@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "variety:blocks/skapolitt_ore_block",
+    "particle": "variety:blocks/skapolitt_ore_block"
+  }
+}

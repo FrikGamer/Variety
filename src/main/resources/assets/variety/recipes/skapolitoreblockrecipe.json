@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:skapolitgem"
+    },
+    "1": {
+      "item": "variety:skapolitgem"
+    },
+    "2": {
+      "item": "variety:skapolitgem"
+    },
+    "3": {
+      "item": "variety:skapolitgem"
+    },
+    "4": {
+      "item": "variety:skapolitgem"
+    },
+    "5": {
+      "item": "variety:skapolitgem"
+    },
+    "6": {
+      "item": "variety:skapolitgem"
+    },
+    "7": {
+      "item": "variety:skapolitgem"
+    },
+    "8": {
+      "item": "variety:skapolitgem"
+    }
+  },
+  "result": {
+    "item": "variety:skapolitoreblock",
+    "count": 1
+  }
+}

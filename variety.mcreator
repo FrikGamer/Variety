@@ -91,14 +91,6 @@
       "ids": {}
     },
     {
-      "name": "Skplecakc",
-      "type": "recipe",
-      "sortid": 140,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "Skplecakgui",
       "type": "gui",
       "sortid": 141,
@@ -127,30 +119,6 @@
       "ids": {
         "0": 7
       }
-    },
-    {
-      "name": "Zeplecakc",
-      "type": "recipe",
-      "sortid": 144,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Zlplecakc",
-      "type": "recipe",
-      "sortid": 145,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Dxplecakc",
-      "type": "recipe",
-      "sortid": 146,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
     },
     {
       "name": "Rubinowymiecz",
@@ -2580,6 +2548,70 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "SkapolitOre",
+      "type": "block",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SkapolitOreBlock",
+      "type": "block",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SkapolitGem",
+      "type": "item",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SkapolitOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SkapolitBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SkapolitOreSmelting",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SkapolittDust",
+      "type": "item",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Skapolitround",
+      "type": "item",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -2620,10 +2652,12 @@
       "item.emeraldowazbrojahelmet.name": "Szmaragdowy He³m",
       "item.hematytaxe.name": "Hematytowa Siekiera",
       "item.magnetytshovel.name": "Magnetytowa £opata",
+      "tile.skapolitore.name": "Skapolit Ore",
       "item.rubinowykilof.name": "Rubinowy Kilof",
       "item.platynaarmorboots.name": "Platynowe Buty",
       "item.rubydust.name": "Proch Rubinu",
       "tile.blokrubinu1.name": "Blok Rubinu",
+      "item.skapolitgem.name": "Skapolit",
       "item.roundmorganite.name": "Okr¹g³y Morganit",
       "item.nickelingot.name": "Nikiel",
       "item.rubinowasiekiera.name": "Rubinowa Siekiera",
@@ -2669,6 +2703,7 @@
       "item.onyxgem.name": "Onyks",
       "tile.sapphireore.name": "Ruda Szafiru",
       "item.akwamarynowaarmorboots.name": "Akwamarynowe Buty",
+      "item.skapolittdust.name": "Skapolitt",
       "item.akwamarynowesword.name": "Akwamarynowy Miecz",
       "item.onyxxdust.name": "Proch Onyksu",
       "item.emeraldowazbrojalegs.name": "Szmaragdowe Nogawice",
@@ -2676,6 +2711,7 @@
       "item.hematytarmorhelmet.name": "Hematytowy He³m",
       "item.roundheliodor.name": "Okr¹g³y Heliodor",
       "tile.morganiteoreblock.name": "Blok Morganitu",
+      "item.skapolitround.name": "Skapolit Round",
       "item.roundgoshenite.name": "Round Goshenite",
       "item.akwamarynoweaxe.name": "Akwamarynowa Siekiera",
       "item.roundtourmaline.name": "Round Tourmaline",
@@ -2736,6 +2772,7 @@
       "tile.biksbitore.name": "Biksbit Ore",
       "item.rubin.name": "Rubin",
       "item.roundtopaz.name": "Okr¹g³y Topaz",
+      "tile.skapolitoreblock.name": "Block of Skapolit",
       "item.nickelarmorbody.name": "Niklowy Napierœnik",
       "item.ametystarmorbody.name": "Ametystowy Napierœnik",
       "item.magnetytarmorhelmet.name  ": "Magnetytowy He³m",
@@ -2784,10 +2821,12 @@
       "item.emeraldowazbrojahelmet.name": "Emeraldowy he³m",
       "item.hematytaxe.name": "Hematytowa Siekiera",
       "item.magnetytshovel.name": "Magnetyt Shovel",
+      "tile.skapolitore.name": "Skapolit Ore",
       "item.rubinowykilof.name": "Rubinowy kilof",
       "item.platynaarmorboots.name": "Platyna Boots",
       "item.rubydust.name": "Ruby",
       "tile.blokrubinu1.name": "Blok Rubinu",
+      "item.skapolitgem.name": "Skapolit",
       "item.roundmorganite.name": "Round Morganite",
       "item.nickelingot.name": "Nickel",
       "item.rubinowasiekiera.name": "Rubinowa siekiera",
@@ -2833,6 +2872,7 @@
       "item.onyxgem.name": "Onyx",
       "tile.sapphireore.name": "Sapphire Ore",
       "item.akwamarynowaarmorboots.name": "Akwamarynowe Buty",
+      "item.skapolittdust.name": "Skapolitt",
       "item.akwamarynowesword.name": "Akwamarynowe Miecz",
       "item.onyxxdust.name": "Onyxx",
       "item.emeraldowazbrojalegs.name": "Emeraldowe nogawice",
@@ -2840,6 +2880,7 @@
       "item.hematytarmorhelmet.name": "Hematytowy He³m",
       "item.roundheliodor.name": "Round Heliodor",
       "tile.morganiteoreblock.name": "Block of Morganite",
+      "item.skapolitround.name": "Skapolit Round",
       "item.roundgoshenite.name": "Round Goshenite",
       "item.akwamarynoweaxe.name": "Akwamarynowe Siekiera",
       "item.roundtourmaline.name": "Round Tourmaline",
@@ -2900,6 +2941,7 @@
       "tile.biksbitore.name": "Biksbit Ore",
       "item.rubin.name": "Rubin",
       "item.roundtopaz.name": "Round Topaz",
+      "tile.skapolitoreblock.name": "Block of Skapolit",
       "item.nickelarmorbody.name": "Nickel Chestplate",
       "item.ametystarmorbody.name": "Ametyst Chestplate",
       "tile.sapphireoreblock.name": "Block of Sapphire",
