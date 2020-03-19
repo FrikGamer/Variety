@@ -13,6 +13,6 @@ public class MCreatorSkapolitOreSmelting extends Elementsvariety.ModElement {
 
 	@Override
 	public void init(FMLInitializationEvent event) {
-		GameRegistry.addSmelting(new ItemStack(MCreatorSkapolitOre.block, (int) (1)), new ItemStack(MCreatorSkapolitGem.block, (int) (1)), 0.7F);
+		GameRegistry.addSmelting(new ItemStack(MCreatorSkapolitOre.block, (int) (1)), new ItemStack(MCreatorSkapolitGem.block, (int) (1)), 5F);
 	}
 }

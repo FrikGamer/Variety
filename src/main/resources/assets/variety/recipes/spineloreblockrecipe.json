@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:spinelgem"
+    },
+    "1": {
+      "item": "variety:spinelgem"
+    },
+    "2": {
+      "item": "variety:spinelgem"
+    },
+    "3": {
+      "item": "variety:spinelgem"
+    },
+    "4": {
+      "item": "variety:spinelgem"
+    },
+    "5": {
+      "item": "variety:spinelgem"
+    },
+    "6": {
+      "item": "variety:spinelgem"
+    },
+    "7": {
+      "item": "variety:spinelgem"
+    },
+    "8": {
+      "item": "variety:spinelgem"
+    }
+  },
+  "result": {
+    "item": "variety:spineloreblock",
+    "count": 1
+  }
+}

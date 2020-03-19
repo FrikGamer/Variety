@@ -3,47 +3,15 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Smelting",
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 0,
     "recipeShapeless": false,
-    "recipeReturnStack": {
-      "value": ""
-    },
-    "recipeSlots": [
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      }
-    ],
     "smeltingInputStack": {
       "value": "CUSTOM:SkapolitOre"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:SkapolitGem"
     },
-    "smeltingXPReward": 0.7,
+    "smeltingXPReward": 5.0,
     "smeltingRetstackSize": 1,
     "name": "skapolitoresmelting",
     "namespace": "mod"

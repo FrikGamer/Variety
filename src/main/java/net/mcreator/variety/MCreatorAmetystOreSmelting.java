@@ -13,6 +13,6 @@ public class MCreatorAmetystOreSmelting extends Elementsvariety.ModElement {
 
 	@Override
 	public void init(FMLInitializationEvent event) {
-		GameRegistry.addSmelting(new ItemStack(MCreatorAmetystOre.block, (int) (1)), new ItemStack(MCreatorAmetystGem.block, (int) (1)), 0.7F);
+		GameRegistry.addSmelting(new ItemStack(MCreatorAmetystOre.block, (int) (1)), new ItemStack(MCreatorAmetystGem.block, (int) (1)), 4F);
 	}
 }
