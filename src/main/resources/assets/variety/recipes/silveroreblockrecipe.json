@@ -1,0 +1,42 @@
+{
+  "group": "variety",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "variety:silveringot"
+    },
+    "1": {
+      "item": "variety:silveringot"
+    },
+    "2": {
+      "item": "variety:silveringot"
+    },
+    "3": {
+      "item": "variety:silveringot"
+    },
+    "4": {
+      "item": "variety:silveringot"
+    },
+    "5": {
+      "item": "variety:silveringot"
+    },
+    "6": {
+      "item": "variety:silveringot"
+    },
+    "7": {
+      "item": "variety:silveringot"
+    },
+    "8": {
+      "item": "variety:silveringot"
+    }
+  },
+  "result": {
+    "item": "variety:silveroreblock",
+    "count": 1
+  }
+}

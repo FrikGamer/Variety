@@ -2230,7 +2230,24 @@
       "locked_code": false,
       "ids": {},
       "metadata": {
-        "dependencies": []
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
       }
     },
     {
@@ -2692,6 +2709,106 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Bransoletka1",
+      "type": "armor",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SilverOreBlock",
+      "type": "block",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SilverIngot",
+      "type": "item",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SilverOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SilverBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SilverOreSmelting",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SilverrDust",
+      "type": "item",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Silverrc",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Roundsilver",
+      "type": "item",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Jubiler2",
+      "type": "armor",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
     }
   ],
   "variable_elements": [],
@@ -2714,6 +2831,7 @@
       "tile.heliodororeblock.name": "Blok Heliodoru",
       "item.akwamaryn.name": "Akwamaryn",
       "item.roundcymofan.name": "Okr¹g³y Cymofan",
+      "tile.silveroreblock.name": "Block of Silver",
       "tile.magnetytoreblock.name": "Blok Magnetytu",
       "item.hematytpickaxe.name": "Hematytowy Kilof",
       "tile.hematytore.name": "Ruda Hematytu",
@@ -2722,6 +2840,7 @@
       "item.ametystarmorhelmet.name": "Ametystowy He³m",
       "item.morganiteedust.name": "Proch Morganitu",
       "item.nickelsword.name": "Niklowy Miecz",
+      "item.bransoletka1legs.name": "Bransoletka1 Leggings",
       "item.cymofanndust.name": "Proch Cymofanu",
       "tile.tourmalineoreblock.name": "Blok Turmalinu",
       "item.magnetytarmorbody.name": "Magnetytowy Napierœnik",
@@ -2748,7 +2867,9 @@
       "tile.magnetytore.name": "Ruda Magnetytu",
       "tile.alexandriteore.name": "Ruda Aleksandrytu",
       "item.heliodorrdust.name": "Proch Heliodoru",
+      "item.roundsilver.name": "Round Silver",
       "item.goshenitttdust.name": "Proch Goshenitu",
+      "item.jubiler2helmet.name": "Jubiler2 Helmet",
       "item.magnetytarmorhelmet.name": "Magnetyt Helmet",
       "item.emeraldowamotyka.name": "Szmaragdowa Motyka",
       "item.magnetytsword.name": "Magnetytowy Miecz",
@@ -2767,17 +2888,21 @@
       "item.spinelround.name": "Okr¹g³y Spinel",
       "item.rubinowymiecz1.name": "Rubinowy Miecz",
       "item.roundruby.name": "Okr¹g³y Rubin",
+      "item.jubiler2legs.name": "Jubiler2 Leggings",
       "item.rubinowymieczan.name": "Rubinowy Miecz",
       "item.nickelpickaxe.name": "Niklowy Kilof",
       "item.magnetytarmorlegs.name": "Magnetytowe Nogawice",
       "tile.spineloreblock.name": "Blok Spinelu",
+      "item.bransoletka1helmet.name": "Bransoletka1 Helmet",
       "item.akwamarynowehoe.name": "Akwamarynowa Motyka",
       "item.hematytshovel.name": "Hematytowa £opata",
       "item.akwamarynowaarmorlegs.name": "Akwamarynowe Nogawice",
       "item.ametystgem.name": "Ametyst",
+      "tile.silverore.name": "Silver Ore",
       "item.magnetytarmorboots.name": "Magnetytowe Buty",
       "tile.hematytoreblock.name": "Blok Hematytu",
       "tile.agateoreblock.name": "Blok Agatu",
+      "item.bransoletka1boots.name": "Bransoletka1 Boots",
       "item.tourmalineedust.name": "Proch Turmalinu",
       "tile.agateore.name": "Ruda Agatu",
       "tile.crusher.name": "Rozdrabniarka",
@@ -2795,6 +2920,7 @@
       "item.roundheliodor.name": "Okr¹g³y Heliodor",
       "tile.morganiteoreblock.name": "Blok Morganitu",
       "item.skapolitround.name": "Okr¹g³y Skapolit",
+      "item.silverrdust.name": "Silverr",
       "item.roundgoshenite.name": "Okr¹g³y Goshenit",
       "item.akwamarynoweaxe.name": "Akwamarynowa Siekiera",
       "item.roundtourmaline.name": "Okr¹g³y Turmailn",
@@ -2837,6 +2963,7 @@
       "item.sapphiregem.name": "Szafir",
       "item.rubinowazbrojabody.name": "Rubinowy Napierœnik",
       "item.emeraldowymiecz.name": "Szmaragdowy Miecz",
+      "item.jubiler2body.name": "Jubiler2 Body",
       "item.akwamarynoweshovel.name": "Akwamarynowa £opata",
       "item.ametysthoe.name": "Ametystowa Motyka",
       "item.biksbittdust.name": "Proch Biksbitu",
@@ -2851,6 +2978,7 @@
       "tile.rudarubinu.name": "Ruda Rubinu",
       "item.rounddiamond.name": "Okr¹g³y Diament",
       "item.ametystsword.name": "Ametystowy Miecz",
+      "item.silveringot.name": "Silver",
       "item.platynahoe.name": "Platynowa Motyka",
       "item.emeralddust.name": "Proch Szmaragdu",
       "tile.biksbitore.name": "Ruda Biksbitu",
@@ -2861,8 +2989,10 @@
       "item.ametystarmorbody.name": "Ametystowy Napierœnik",
       "item.magnetytarmorhelmet.name  ": "Magnetytowy He³m",
       "tile.sapphireoreblock.name": "Blok Szafiru",
+      "item.jubiler2boots.name": "Jubiler2 Boots",
       "tile.morganiteore.name": "Ruda Morganitu",
       "item.roundaquamarine.name": "Okr¹g³y Akwamaryn",
+      "item.bransoletka1body.name": "Bransoletka1 Body",
       "item.rubinowalopata.name": "Rubinowa £opata",
       "tile.topazore.name": "Ruda Topazu",
       "item.nickelaxe.name": "Niklowa Siekiera",
@@ -2888,6 +3018,7 @@
       "item.akwamaryn.name": "Aquamarine",
       "tile.heliodororeblock.name": "Block of Heliodor",
       "item.roundcymofan.name": "Round Cymofan",
+      "tile.silveroreblock.name": "Block of Silver",
       "tile.magnetytoreblock.name": "Block of Magnetyt",
       "item.hematytpickaxe.name": "Hematit Pickaxe",
       "tile.hematytore.name": "Hematite Ore",
@@ -2896,6 +3027,7 @@
       "tile.onyxore.name": "Onyx Ore",
       "item.nickelsword.name": "Nickel Sword",
       "item.morganiteedust.name": "Morganite",
+      "item.bransoletka1legs.name": "Bransoletka1 Leggings",
       "item.cymofanndust.name": "Cymofan Dust",
       "tile.tourmalineoreblock.name": "Block of Tourmaline",
       "item.magnetytarmorbody.name": "Magnetite Chestplate",
@@ -2922,7 +3054,9 @@
       "tile.magnetytore.name": "Magnetyt Ore",
       "tile.alexandriteore.name": "Alexandrite Ore",
       "item.heliodorrdust.name": "Heliodor Dust",
+      "item.roundsilver.name": "Round Silver",
       "item.goshenitttdust.name": "Goshenit Dust",
+      "item.jubiler2helmet.name": "Jubiler2 Helmet",
       "item.magnetytarmorhelmet.name": "Magnetite Helmet",
       "item.emeraldowamotyka.name": "Emerald Hoe",
       "item.magnetytsword.name": "Magnetite Sword",
@@ -2941,17 +3075,21 @@
       "item.spinelround.name": "Spinel Round",
       "item.rubinowymiecz1.name": "Ruby Sword",
       "item.roundruby.name": "Round Ruby",
+      "item.jubiler2legs.name": "Jubiler2 Leggings",
       "item.nickelpickaxe.name": "Nickel Pickaxe",
       "item.rubinowymieczan.name": "Rubinowy miecz",
       "item.magnetytarmorlegs.name": "Magnetite Leggings",
       "tile.spineloreblock.name": "Block of Spinel",
+      "item.bransoletka1helmet.name": "Gold Ruby Earring",
       "item.akwamarynowehoe.name": "Aquamarine Hoe",
       "item.hematytshovel.name": "Hematit Shovel",
       "item.akwamarynowaarmorlegs.name": "Aquamarine Leggings",
       "item.ametystgem.name": "Amethyst",
+      "tile.silverore.name": "Silver Ore",
       "item.magnetytarmorboots.name": "Magnetite Boots",
       "tile.hematytoreblock.name": "Block of Hematite",
       "tile.agateoreblock.name": "Block of Agate",
+      "item.bransoletka1boots.name": "Bransoletka1 Boots",
       "item.tourmalineedust.name": "Tourmaline Dust",
       "tile.agateore.name": "Agate Ore",
       "tile.crusher.name": "Crusher",
@@ -2969,6 +3107,7 @@
       "item.roundheliodor.name": "Round Heliodor",
       "tile.morganiteoreblock.name": "Block of Morganite",
       "item.skapolitround.name": "Skapolit Round",
+      "item.silverrdust.name": "Silver Dust",
       "item.roundgoshenite.name": "Round Goshenite",
       "item.akwamarynoweaxe.name": "Aquamarine Axe",
       "item.roundtourmaline.name": "Round Tourmaline",
@@ -3011,6 +3150,7 @@
       "item.sapphiregem.name": "Sapphire",
       "item.rubinowazbrojabody.name": "Ruby Chestplate",
       "item.emeraldowymiecz.name": "Emerald Sword",
+      "item.jubiler2body.name": "Jubiler2 Body",
       "item.akwamarynoweshovel.name": "Aquamarine Shovel",
       "item.ametysthoe.name": "Amethyst Hoe",
       "item.biksbittdust.name": "Biksbit Dust",
@@ -3025,6 +3165,7 @@
       "tile.rudarubinu.name": "Ruby Ore",
       "item.rounddiamond.name": "Round Diamond",
       "item.ametystsword.name": "Amethyst Sword",
+      "item.silveringot.name": "Silver",
       "item.platynahoe.name": "Platinum Hoe",
       "item.emeralddust.name": "Emerald",
       "tile.biksbitore.name": "Biksbit Ore",
@@ -3034,8 +3175,10 @@
       "item.nickelarmorbody.name": "Nickel Chestplate",
       "item.ametystarmorbody.name": "Amethyst Chestplate",
       "tile.sapphireoreblock.name": "Block of Sapphire",
+      "item.jubiler2boots.name": "Jubiler2 Boots",
       "tile.morganiteore.name": "Morganite Ore",
       "item.roundaquamarine.name": "Round Aquamarine",
+      "item.bransoletka1body.name": "Gold Ruby Bracelet",
       "item.rubinowalopata.name": "Ruby Shovel",
       "tile.topazore.name": "Topaz Ore",
       "item.nickelaxe.name": "Nickel Axe",
